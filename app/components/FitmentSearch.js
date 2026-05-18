@@ -69,11 +69,11 @@ export default function FitmentSearch() {
   }
 
   return (
-    <div style={{ maxWidth: 800, margin: '0 auto', padding: '2rem 1rem', fontFamily: 'system-ui, sans-serif' }}>
-      <h1 style={{ fontSize: '1.75rem', fontWeight: 700, marginBottom: '0.25rem' }}>
+    <div style={{ maxWidth: 800, margin: '0 auto', padding: '2rem 1rem', fontFamily: 'system-ui, sans-serif', color: '#111827', background: '#fff', minHeight: '100vh' }}>
+      <h1 style={{ fontSize: '1.75rem', fontWeight: 700, marginBottom: '0.25rem', color: '#111827' }}>
         Truck Topper Fitment Lookup
       </h1>
-      <p style={{ color: '#6b7280', marginBottom: '2rem' }}>
+      <p style={{ color: '#4b5563', marginBottom: '2rem' }}>
         Enter your truck to find compatible camper shells.
       </p>
 
@@ -170,7 +170,7 @@ export default function FitmentSearch() {
       {results && results.fitments.length > 0 && (
         <div>
           {/* Platform(s) matched */}
-          <div style={{ marginBottom: '1rem', fontSize: '0.875rem', color: '#6b7280' }}>
+          <div style={{ marginBottom: '1rem', fontSize: '0.875rem', color: '#374151' }}>
             Matched {results.platforms_matched.length} bed configuration{results.platforms_matched.length !== 1 ? 's' : ''}:
             {results.platforms_matched.map(p => (
               <span key={p.platform_id} style={{ marginLeft: '0.5rem', background: '#e0f2fe', color: '#0369a1', borderRadius: 4, padding: '2px 8px' }}>
@@ -179,7 +179,7 @@ export default function FitmentSearch() {
             ))}
           </div>
 
-          <p style={{ marginBottom: '0.75rem', color: '#374151' }}>
+          <p style={{ marginBottom: '0.75rem', color: '#111827' }}>
             <strong>{results.fitments.length} topper{results.fitments.length !== 1 ? 's' : ''} found</strong> for your {results.query.year} {results.query.make} {results.query.model}
           </p>
 
@@ -197,7 +197,7 @@ export default function FitmentSearch() {
               {results.fitments.map((f, i) => {
                 const conf = confidenceLabel(f.confidence)
                 return (
-                  <tr key={i} style={{ borderBottom: '1px solid #e5e7eb', background: i % 2 === 0 ? '#fff' : '#f9fafb' }}>
+                  <tr key={i} style={{ borderBottom: '1px solid #e5e7eb', background: i % 2 === 0 ? '#ffffff' : '#f8fafc', color: '#111827' }}>
                     <td style={tdStyle}>{f.topper_brand}</td>
                     <td style={tdStyle}>{f.topper_model_series}</td>
                     <td style={tdStyle}>
@@ -213,7 +213,7 @@ export default function FitmentSearch() {
                         {WRAP_TYPE_LABELS[f.wrap_type] || f.wrap_type}
                       </span>
                     </td>
-                    <td style={{ ...tdStyle, color: '#6b7280', fontSize: '0.8rem' }}>
+                    <td style={{ ...tdStyle, color: '#4b5563', fontSize: '0.8rem' }}>
                       {f.fit_notes || '—'}
                     </td>
                   </tr>
@@ -228,7 +228,7 @@ export default function FitmentSearch() {
 }
 
 // Small style objects kept here to avoid a separate CSS file for now.
-const labelStyle  = { display: 'flex', flexDirection: 'column', gap: '0.25rem', fontSize: '0.875rem', color: '#374151', fontWeight: 500 }
-const inputStyle  = { padding: '0.4rem 0.6rem', border: '1px solid #d1d5db', borderRadius: 6, fontSize: '0.9rem', height: 38, minWidth: 120 }
-const thStyle     = { padding: '0.6rem 0.75rem', fontWeight: 600, fontSize: '0.8rem', color: '#6b7280', textTransform: 'uppercase', letterSpacing: '0.05em', borderBottom: '2px solid #e5e7eb' }
-const tdStyle     = { padding: '0.6rem 0.75rem', verticalAlign: 'top' }
+const labelStyle  = { display: 'flex', flexDirection: 'column', gap: '0.25rem', fontSize: '0.875rem', color: '#1f2937', fontWeight: 500 }
+const inputStyle  = { padding: '0.4rem 0.6rem', border: '1px solid #d1d5db', borderRadius: 6, fontSize: '0.9rem', height: 38, minWidth: 120, background: '#fff', color: '#111827' }
+const thStyle     = { padding: '0.6rem 0.75rem', fontWeight: 600, fontSize: '0.8rem', color: '#374151', textTransform: 'uppercase', letterSpacing: '0.05em', borderBottom: '2px solid #e5e7eb', background: '#f3f4f6' }
+const tdStyle     = { padding: '0.6rem 0.75rem', verticalAlign: 'top', color: '#111827' }
