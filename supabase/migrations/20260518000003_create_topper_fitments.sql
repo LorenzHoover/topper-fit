@@ -60,3 +60,8 @@ CREATE INDEX idx_topper_fitments_brand ON topper_fitments (topper_brand, topper_
 -- Partial index to quickly find high-confidence fitments only.
 CREATE INDEX idx_topper_fitments_confident ON topper_fitments (fits_platform_id, confidence)
   WHERE confidence >= 70;
+
+-- RLS: public read only. Writes require service_role key (Python loader, admin).
+ALTER TABLE topper_fitments ENABLE ROW LEVEL SECURITY;
+CREATE POLICY "public can read topper_fitments"
+  ON topper_fitments FOR SELECT USING (true);

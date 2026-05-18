@@ -42,3 +42,8 @@ CREATE TABLE bed_platforms (
 -- Most queries hit (make, model_family, cab_style) when resolving a user's truck.
 CREATE INDEX idx_bed_platforms_make_model ON bed_platforms (make, model_family);
 CREATE INDEX idx_bed_platforms_year_range ON bed_platforms (production_year_start, production_year_end);
+
+-- RLS: public read only. Writes require service_role key (Python loader, admin).
+ALTER TABLE bed_platforms ENABLE ROW LEVEL SECURITY;
+CREATE POLICY "public can read bed_platforms"
+  ON bed_platforms FOR SELECT USING (true);

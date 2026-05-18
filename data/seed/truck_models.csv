@@ -1,0 +1,487 @@
+year,make,model,trim,cab_style,bed_length_label,platform_id,vin_decodable_trim,vin_decodable_bed,notes,source_urls
+2019,Chevrolet,Silverado 1500,,Crew Cab,"70""",CHEV-S15-19P-CC-70,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Chevrolet,Silverado 1500,,Crew Cab,"70""",CHEV-S15-19P-CC-70,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Chevrolet,Silverado 1500,,Crew Cab,"70""",CHEV-S15-19P-CC-70,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Chevrolet,Silverado 1500,,Crew Cab,"70""",CHEV-S15-19P-CC-70,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Chevrolet,Silverado 1500,,Crew Cab,"70""",CHEV-S15-19P-CC-70,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Chevrolet,Silverado 1500,,Crew Cab,"70""",CHEV-S15-19P-CC-70,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Chevrolet,Silverado 1500,,Crew Cab,"70""",CHEV-S15-19P-CC-70,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Chevrolet,Silverado 1500,,,"79.5""",CHEV-S15-19P-795,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Chevrolet,Silverado 1500,,,"79.5""",CHEV-S15-19P-795,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Chevrolet,Silverado 1500,,,"79.5""",CHEV-S15-19P-795,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Chevrolet,Silverado 1500,,,"79.5""",CHEV-S15-19P-795,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Chevrolet,Silverado 1500,,,"79.5""",CHEV-S15-19P-795,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Chevrolet,Silverado 1500,,,"79.5""",CHEV-S15-19P-795,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Chevrolet,Silverado 1500,,,"79.5""",CHEV-S15-19P-795,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Chevrolet,Silverado 1500,,Regular Cab,"98""",CHEV-S15-19P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Chevrolet,Silverado 1500,,Regular Cab,"98""",CHEV-S15-19P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Chevrolet,Silverado 1500,,Regular Cab,"98""",CHEV-S15-19P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Chevrolet,Silverado 1500,,Regular Cab,"98""",CHEV-S15-19P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Chevrolet,Silverado 1500,,Regular Cab,"98""",CHEV-S15-19P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Chevrolet,Silverado 1500,,Regular Cab,"98""",CHEV-S15-19P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Chevrolet,Silverado 1500,,Regular Cab,"98""",CHEV-S15-19P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Chevrolet,Silverado 2500,,,"82""",CHEV-S25-20P-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Chevrolet,Silverado 2500,,,"82""",CHEV-S25-20P-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Chevrolet,Silverado 2500,,,"82""",CHEV-S25-20P-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Chevrolet,Silverado 2500,,,"82""",CHEV-S25-20P-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Chevrolet,Silverado 2500,,,"82""",CHEV-S25-20P-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Chevrolet,Silverado 2500,,,"82""",CHEV-S25-20P-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Chevrolet,Silverado 2500,,Regular Cab,"98""",CHEV-S25-20P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Chevrolet,Silverado 2500,,Regular Cab,"98""",CHEV-S25-20P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Chevrolet,Silverado 2500,,Regular Cab,"98""",CHEV-S25-20P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Chevrolet,Silverado 2500,,Regular Cab,"98""",CHEV-S25-20P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Chevrolet,Silverado 2500,,Regular Cab,"98""",CHEV-S25-20P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Chevrolet,Silverado 2500,,Regular Cab,"98""",CHEV-S25-20P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Chevrolet,Silverado 2500,,Crew Cab,"98""",CHEV-S25-20P-CC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Chevrolet,Silverado 2500,,Crew Cab,"98""",CHEV-S25-20P-CC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Chevrolet,Silverado 2500,,Crew Cab,"98""",CHEV-S25-20P-CC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Chevrolet,Silverado 2500,,Crew Cab,"98""",CHEV-S25-20P-CC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Chevrolet,Silverado 2500,,Crew Cab,"98""",CHEV-S25-20P-CC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Chevrolet,Silverado 2500,,Crew Cab,"98""",CHEV-S25-20P-CC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,GMC,Sierra 1500,,,"70""",GMC-SRA-19P-70,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,GMC,Sierra 1500,,,"70""",GMC-SRA-19P-70,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,GMC,Sierra 1500,,,"70""",GMC-SRA-19P-70,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,GMC,Sierra 1500,,,"70""",GMC-SRA-19P-70,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,GMC,Sierra 1500,,,"70""",GMC-SRA-19P-70,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,GMC,Sierra 1500,,,"70""",GMC-SRA-19P-70,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,GMC,Sierra 1500,,,"70""",GMC-SRA-19P-70,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,GMC,Sierra 1500,,,"79.5""",GMC-SRA-19P-795,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,GMC,Sierra 1500,,,"79.5""",GMC-SRA-19P-795,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,GMC,Sierra 1500,,,"79.5""",GMC-SRA-19P-795,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,GMC,Sierra 1500,,,"79.5""",GMC-SRA-19P-795,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,GMC,Sierra 1500,,,"79.5""",GMC-SRA-19P-795,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,GMC,Sierra 1500,,,"79.5""",GMC-SRA-19P-795,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,GMC,Sierra 1500,,,"79.5""",GMC-SRA-19P-795,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,GMC,Sierra 1500,,Regular Cab,"98""",GMC-SRA-19P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,GMC,Sierra 1500,,Regular Cab,"98""",GMC-SRA-19P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,GMC,Sierra 1500,,Regular Cab,"98""",GMC-SRA-19P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,GMC,Sierra 1500,,Regular Cab,"98""",GMC-SRA-19P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,GMC,Sierra 1500,,Regular Cab,"98""",GMC-SRA-19P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,GMC,Sierra 1500,,Regular Cab,"98""",GMC-SRA-19P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,GMC,Sierra 1500,,Regular Cab,"98""",GMC-SRA-19P-RC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,GMC,Sierra 2500,,,"82""",GMC-SRA25-20P-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,GMC,Sierra 2500,,,"82""",GMC-SRA25-20P-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,GMC,Sierra 2500,,,"82""",GMC-SRA25-20P-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,GMC,Sierra 2500,,,"82""",GMC-SRA25-20P-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,GMC,Sierra 2500,,,"82""",GMC-SRA25-20P-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,GMC,Sierra 2500,,,"82""",GMC-SRA25-20P-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,GMC,Sierra 2500,,Crew Cab,"98""",GMC-SRA25-20P-CC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,GMC,Sierra 2500,,Crew Cab,"98""",GMC-SRA25-20P-CC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,GMC,Sierra 2500,,Crew Cab,"98""",GMC-SRA25-20P-CC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,GMC,Sierra 2500,,Crew Cab,"98""",GMC-SRA25-20P-CC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,GMC,Sierra 2500,,Crew Cab,"98""",GMC-SRA25-20P-CC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,GMC,Sierra 2500,,Crew Cab,"98""",GMC-SRA25-20P-CC-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,Chevrolet,Silverado 1500,,,"5'8""",CHEV-S15-14-18-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Chevrolet,Silverado 1500,,,"5'8""",CHEV-S15-14-18-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Chevrolet,Silverado 1500,,,"5'8""",CHEV-S15-14-18-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Chevrolet,Silverado 1500,,,"5'8""",CHEV-S15-14-18-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Chevrolet,Silverado 1500,,,"5'8""",CHEV-S15-14-18-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,GMC,Sierra 1500,,,"5'8""",CHEV-S15-14-18-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,GMC,Sierra 1500,,,"5'8""",CHEV-S15-14-18-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,GMC,Sierra 1500,,,"5'8""",CHEV-S15-14-18-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,GMC,Sierra 1500,,,"5'8""",CHEV-S15-14-18-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,GMC,Sierra 1500,,,"5'8""",CHEV-S15-14-18-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,Chevrolet,Silverado 2500,,,"82""",CHEV-S25-14-18-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Chevrolet,Silverado 2500,,,"82""",CHEV-S25-14-18-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Chevrolet,Silverado 2500,,,"82""",CHEV-S25-14-18-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Chevrolet,Silverado 2500,,,"82""",CHEV-S25-14-18-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Chevrolet,Silverado 2500,,,"82""",CHEV-S25-14-18-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,GMC,Sierra 2500,,,"82""",CHEV-S25-14-18-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,GMC,Sierra 2500,,,"82""",CHEV-S25-14-18-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,GMC,Sierra 2500,,,"82""",CHEV-S25-14-18-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,GMC,Sierra 2500,,,"82""",CHEV-S25-14-18-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,GMC,Sierra 2500,,,"82""",CHEV-S25-14-18-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,Chevrolet,Silverado 2500,,,"102""",CHEV-S25-14-18-102,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Chevrolet,Silverado 2500,,,"102""",CHEV-S25-14-18-102,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Chevrolet,Silverado 2500,,,"102""",CHEV-S25-14-18-102,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Chevrolet,Silverado 2500,,,"102""",CHEV-S25-14-18-102,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Chevrolet,Silverado 2500,,,"102""",CHEV-S25-14-18-102,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,GMC,Sierra 2500,,,"102""",CHEV-S25-14-18-102,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,GMC,Sierra 2500,,,"102""",CHEV-S25-14-18-102,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,GMC,Sierra 2500,,,"102""",CHEV-S25-14-18-102,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,GMC,Sierra 2500,,,"102""",CHEV-S25-14-18-102,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,GMC,Sierra 2500,,,"102""",CHEV-S25-14-18-102,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2007,Chevrolet,Silverado 1500,,,"72""",CHEV-S15-07-13-72,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2008,Chevrolet,Silverado 1500,,,"72""",CHEV-S15-07-13-72,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,Chevrolet,Silverado 1500,,,"72""",CHEV-S15-07-13-72,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,Chevrolet,Silverado 1500,,,"72""",CHEV-S15-07-13-72,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,Chevrolet,Silverado 1500,,,"72""",CHEV-S15-07-13-72,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,Chevrolet,Silverado 1500,,,"72""",CHEV-S15-07-13-72,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,Chevrolet,Silverado 1500,,,"72""",CHEV-S15-07-13-72,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2007,Chevrolet,Silverado 2500,,Extended Cab,"82""",CHEV-S25-07-13-XC-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2008,Chevrolet,Silverado 2500,,Extended Cab,"82""",CHEV-S25-07-13-XC-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,Chevrolet,Silverado 2500,,Extended Cab,"82""",CHEV-S25-07-13-XC-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,Chevrolet,Silverado 2500,,Extended Cab,"82""",CHEV-S25-07-13-XC-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,Chevrolet,Silverado 2500,,Extended Cab,"82""",CHEV-S25-07-13-XC-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,Chevrolet,Silverado 2500,,Extended Cab,"82""",CHEV-S25-07-13-XC-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,Chevrolet,Silverado 2500,,Extended Cab,"82""",CHEV-S25-07-13-XC-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2007,Chevrolet,Silverado 2500,,,"82""",CHEV-S25-07-14-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2008,Chevrolet,Silverado 2500,,,"82""",CHEV-S25-07-14-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,Chevrolet,Silverado 2500,,,"82""",CHEV-S25-07-14-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,Chevrolet,Silverado 2500,,,"82""",CHEV-S25-07-14-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,Chevrolet,Silverado 2500,,,"82""",CHEV-S25-07-14-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,Chevrolet,Silverado 2500,,,"82""",CHEV-S25-07-14-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,Chevrolet,Silverado 2500,,,"82""",CHEV-S25-07-14-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2007,GMC,Sierra 2500,,Extended Cab,"82""",GMC-SRA25-07-13-XC-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2008,GMC,Sierra 2500,,Extended Cab,"82""",GMC-SRA25-07-13-XC-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,GMC,Sierra 2500,,Extended Cab,"82""",GMC-SRA25-07-13-XC-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,GMC,Sierra 2500,,Extended Cab,"82""",GMC-SRA25-07-13-XC-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,GMC,Sierra 2500,,Extended Cab,"82""",GMC-SRA25-07-13-XC-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,GMC,Sierra 2500,,Extended Cab,"82""",GMC-SRA25-07-13-XC-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,GMC,Sierra 2500,,Extended Cab,"82""",GMC-SRA25-07-13-XC-82,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Chevrolet,Colorado,,,"61""",CHEV-COL-23P-61,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Chevrolet,Colorado,,,"61""",CHEV-COL-23P-61,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Chevrolet,Colorado,,,"61""",CHEV-COL-23P-61,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,GMC,Canyon,,,"61""",GMC-CAN-23P-61,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,GMC,Canyon,,,"61""",GMC-CAN-23P-61,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,GMC,Canyon,,,"61""",GMC-CAN-23P-61,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Chevrolet,Colorado,,,"62""",CHEV-COL-15-22-62,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Chevrolet,Colorado,,,"62""",CHEV-COL-15-22-62,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Chevrolet,Colorado,,,"62""",CHEV-COL-15-22-62,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Chevrolet,Colorado,,,"62""",CHEV-COL-15-22-62,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Chevrolet,Colorado,,,"62""",CHEV-COL-15-22-62,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Chevrolet,Colorado,,,"62""",CHEV-COL-15-22-62,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Chevrolet,Colorado,,,"62""",CHEV-COL-15-22-62,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Chevrolet,Colorado,,,"62""",CHEV-COL-15-22-62,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,GMC,Canyon,,,"62""",CHEV-COL-15-22-62,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,GMC,Canyon,,,"62""",CHEV-COL-15-22-62,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,GMC,Canyon,,,"62""",CHEV-COL-15-22-62,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,GMC,Canyon,,,"62""",CHEV-COL-15-22-62,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,GMC,Canyon,,,"62""",CHEV-COL-15-22-62,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,GMC,Canyon,,,"62""",CHEV-COL-15-22-62,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,GMC,Canyon,,,"62""",CHEV-COL-15-22-62,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,GMC,Canyon,,,"62""",CHEV-COL-15-22-62,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Chevrolet,Colorado,,,"79""",CHEV-COL-15-22-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Chevrolet,Colorado,,,"79""",CHEV-COL-15-22-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Chevrolet,Colorado,,,"79""",CHEV-COL-15-22-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Chevrolet,Colorado,,,"79""",CHEV-COL-15-22-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Chevrolet,Colorado,,,"79""",CHEV-COL-15-22-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Chevrolet,Colorado,,,"79""",CHEV-COL-15-22-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Chevrolet,Colorado,,,"79""",CHEV-COL-15-22-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Chevrolet,Colorado,,,"79""",CHEV-COL-15-22-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,GMC,Canyon,,,"79""",CHEV-COL-15-22-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,GMC,Canyon,,,"79""",CHEV-COL-15-22-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,GMC,Canyon,,,"79""",CHEV-COL-15-22-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,GMC,Canyon,,,"79""",CHEV-COL-15-22-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,GMC,Canyon,,,"79""",CHEV-COL-15-22-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,GMC,Canyon,,,"79""",CHEV-COL-15-22-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,GMC,Canyon,,,"79""",CHEV-COL-15-22-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,GMC,Canyon,,,"79""",CHEV-COL-15-22-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Ford,F-150,,,"65""",FORD-F150-21P-65,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Ford,F-150,,,"65""",FORD-F150-21P-65,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Ford,F-150,,,"65""",FORD-F150-21P-65,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Ford,F-150,,,"65""",FORD-F150-21P-65,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Ford,F-150,,,"65""",FORD-F150-21P-65,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Ford,F-150,,,"78""",FORD-F150-21P-78,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Ford,F-150,,,"78""",FORD-F150-21P-78,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Ford,F-150,,,"78""",FORD-F150-21P-78,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Ford,F-150,,,"78""",FORD-F150-21P-78,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Ford,F-150,,,"78""",FORD-F150-21P-78,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Ford,F-150,,,Long Bed,FORD-F150-21P-LONGBE,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Ford,F-150,,,Long Bed,FORD-F150-21P-LONGBE,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Ford,F-150,,,Long Bed,FORD-F150-21P-LONGBE,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Ford,F-150,,,Long Bed,FORD-F150-21P-LONGBE,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Ford,F-150,,,Long Bed,FORD-F150-21P-LONGBE,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Ford,F-150,,SuperCrew,"5'6""",FORD-F150-15-20-SC-56,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Ford,F-150,,SuperCrew,"5'6""",FORD-F150-15-20-SC-56,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Ford,F-150,,SuperCrew,"5'6""",FORD-F150-15-20-SC-56,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Ford,F-150,,SuperCrew,"5'6""",FORD-F150-15-20-SC-56,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Ford,F-150,,SuperCrew,"5'6""",FORD-F150-15-20-SC-56,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Ford,F-150,,SuperCrew,"5'6""",FORD-F150-15-20-SC-56,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Ford,F-150,,Access Cab,"79""",FORD-F150-15-20-AC-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Ford,F-150,,Access Cab,"79""",FORD-F150-15-20-AC-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Ford,F-150,,Access Cab,"79""",FORD-F150-15-20-AC-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Ford,F-150,,Access Cab,"79""",FORD-F150-15-20-AC-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Ford,F-150,,Access Cab,"79""",FORD-F150-15-20-AC-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Ford,F-150,,Access Cab,"79""",FORD-F150-15-20-AC-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Ford,F-150,,,"97.5""",FORD-F150-15-20-975,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Ford,F-150,,,"97.5""",FORD-F150-15-20-975,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Ford,F-150,,,"97.5""",FORD-F150-15-20-975,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Ford,F-150,,,"97.5""",FORD-F150-15-20-975,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Ford,F-150,,,"97.5""",FORD-F150-15-20-975,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Ford,F-150,,,"97.5""",FORD-F150-15-20-975,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,Ford,F-150,,SuperCrew,"5'6""",FORD-F150-09-14-SC-56,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,Ford,F-150,,SuperCrew,"5'6""",FORD-F150-09-14-SC-56,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,Ford,F-150,,SuperCrew,"5'6""",FORD-F150-09-14-SC-56,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,Ford,F-150,,SuperCrew,"5'6""",FORD-F150-09-14-SC-56,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,Ford,F-150,,SuperCrew,"5'6""",FORD-F150-09-14-SC-56,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,Ford,F-150,,SuperCrew,"5'6""",FORD-F150-09-14-SC-56,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,Ford,F-150,,Access Cab,"6'6""",FORD-F150-09-14-AC-66,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,Ford,F-150,,Access Cab,"6'6""",FORD-F150-09-14-AC-66,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,Ford,F-150,,Access Cab,"6'6""",FORD-F150-09-14-AC-66,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,Ford,F-150,,Access Cab,"6'6""",FORD-F150-09-14-AC-66,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,Ford,F-150,,Access Cab,"6'6""",FORD-F150-09-14-AC-66,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,Ford,F-150,,Access Cab,"6'6""",FORD-F150-09-14-AC-66,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2004,Ford,F-150,,Access Cab,"6'5""",FORD-F150-04-08-AC-65,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2005,Ford,F-150,,Access Cab,"6'5""",FORD-F150-04-08-AC-65,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2006,Ford,F-150,,Access Cab,"6'5""",FORD-F150-04-08-AC-65,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2007,Ford,F-150,,Access Cab,"6'5""",FORD-F150-04-08-AC-65,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2008,Ford,F-150,,Access Cab,"6'5""",FORD-F150-04-08-AC-65,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Ford,F-250,,,"81""",FORD-F250-23P-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Ford,F-250,,,"81""",FORD-F250-23P-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Ford,F-250,,,"81""",FORD-F250-23P-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Ford,F-250,,,"98""",FORD-F250-23P-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Ford,F-250,,,"98""",FORD-F250-23P-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Ford,F-250,,,"98""",FORD-F250-23P-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Ford,F-250,,,"80""",FORD-F250-17-22-80,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Ford,F-250,,,"80""",FORD-F250-17-22-80,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Ford,F-250,,,"80""",FORD-F250-17-22-80,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Ford,F-250,,,"80""",FORD-F250-17-22-80,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Ford,F-250,,,"80""",FORD-F250-17-22-80,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Ford,F-250,,,"80""",FORD-F250-17-22-80,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Ford,F-250,,,"98""",FORD-F250-17-22-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Ford,F-250,,,"98""",FORD-F250-17-22-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Ford,F-250,,,"98""",FORD-F250-17-22-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Ford,F-250,,,"98""",FORD-F250-17-22-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Ford,F-250,,,"98""",FORD-F250-17-22-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Ford,F-250,,,"98""",FORD-F250-17-22-98,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2008,Ford,F-250,,,Short Bed,FORD-F250-08-16-SHORTB,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,Ford,F-250,,,Short Bed,FORD-F250-08-16-SHORTB,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,Ford,F-250,,,Short Bed,FORD-F250-08-16-SHORTB,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,Ford,F-250,,,Short Bed,FORD-F250-08-16-SHORTB,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,Ford,F-250,,,Short Bed,FORD-F250-08-16-SHORTB,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,Ford,F-250,,,Short Bed,FORD-F250-08-16-SHORTB,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,Ford,F-250,,,Short Bed,FORD-F250-08-16-SHORTB,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Ford,F-250,,,Short Bed,FORD-F250-08-16-SHORTB,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Ford,F-250,,,Short Bed,FORD-F250-08-16-SHORTB,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2008,Ford,F-250,,,Long Bed,FORD-F250-08-16-LONGBE,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,Ford,F-250,,,Long Bed,FORD-F250-08-16-LONGBE,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,Ford,F-250,,,Long Bed,FORD-F250-08-16-LONGBE,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,Ford,F-250,,,Long Bed,FORD-F250-08-16-LONGBE,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,Ford,F-250,,,Long Bed,FORD-F250-08-16-LONGBE,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,Ford,F-250,,,Long Bed,FORD-F250-08-16-LONGBE,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,Ford,F-250,,,Long Bed,FORD-F250-08-16-LONGBE,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Ford,F-250,,,Long Bed,FORD-F250-08-16-LONGBE,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Ford,F-250,,,Long Bed,FORD-F250-08-16-LONGBE,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Ford,Maverick,,,"54""",FORD-MAV-22P-54,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Ford,Maverick,,,"54""",FORD-MAV-22P-54,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Ford,Maverick,,,"54""",FORD-MAV-22P-54,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Ford,Maverick,,,"54""",FORD-MAV-22P-54,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Ford,Ranger,,,"60""",FORD-RNG-24P-60,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Ford,Ranger,,,"60""",FORD-RNG-24P-60,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Ford,Ranger,,,"61""",FORD-RNG-19-23-61,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Ford,Ranger,,,"61""",FORD-RNG-19-23-61,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Ford,Ranger,,,"61""",FORD-RNG-19-23-61,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Ford,Ranger,,,"61""",FORD-RNG-19-23-61,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Ford,Ranger,,,"61""",FORD-RNG-19-23-61,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Ford,Ranger,,,"71""",FORD-RNG-19-23-71,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Ford,Ranger,,,"71""",FORD-RNG-19-23-71,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Ford,Ranger,,,"71""",FORD-RNG-19-23-71,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Ford,Ranger,,,"71""",FORD-RNG-19-23-71,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Ford,Ranger,,,"71""",FORD-RNG-19-23-71,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Ram,1500,,,"67""",RAM-R15-25P-67,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Ram,1500,,Quad Cab,"67""",RAM-R15-19-24-QC-67,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Ram,1500,,Quad Cab,"67""",RAM-R15-19-24-QC-67,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Ram,1500,,Quad Cab,"67""",RAM-R15-19-24-QC-67,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Ram,1500,,Quad Cab,"67""",RAM-R15-19-24-QC-67,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Ram,1500,,Quad Cab,"67""",RAM-R15-19-24-QC-67,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Ram,1500,,Quad Cab,"67""",RAM-R15-19-24-QC-67,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Ram,1500,,Quad Cab,"76""",RAM-R15-19-24-QC-76,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Ram,1500,,Quad Cab,"76""",RAM-R15-19-24-QC-76,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Ram,1500,,Quad Cab,"76""",RAM-R15-19-24-QC-76,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Ram,1500,,Quad Cab,"76""",RAM-R15-19-24-QC-76,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Ram,1500,,Quad Cab,"76""",RAM-R15-19-24-QC-76,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Ram,1500,,Quad Cab,"76""",RAM-R15-19-24-QC-76,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Chevrolet,Silverado 2500,,,"76""",CHEV-S25-25P-76,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Chevrolet,Silverado 2500,,Quad Cab,"6'4""",CHEV-S25-19-24-QC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Chevrolet,Silverado 2500,,Quad Cab,"6'4""",CHEV-S25-19-24-QC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Chevrolet,Silverado 2500,,Quad Cab,"6'4""",CHEV-S25-19-24-QC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Chevrolet,Silverado 2500,,Quad Cab,"6'4""",CHEV-S25-19-24-QC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Chevrolet,Silverado 2500,,Quad Cab,"6'4""",CHEV-S25-19-24-QC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Chevrolet,Silverado 2500,,Quad Cab,"6'4""",CHEV-S25-19-24-QC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Chevrolet,Silverado 2500,,,"8'1""",CHEV-S25-19-24-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Chevrolet,Silverado 2500,,,"8'1""",CHEV-S25-19-24-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Chevrolet,Silverado 2500,,,"8'1""",CHEV-S25-19-24-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Chevrolet,Silverado 2500,,,"8'1""",CHEV-S25-19-24-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Chevrolet,Silverado 2500,,,"8'1""",CHEV-S25-19-24-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Chevrolet,Silverado 2500,,,"8'1""",CHEV-S25-19-24-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,Ram,1500,,,"5'7""",RAM-R15-09-18-57,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,Ram,1500,,,"5'7""",RAM-R15-09-18-57,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,Ram,1500,,,"5'7""",RAM-R15-09-18-57,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,Ram,1500,,,"5'7""",RAM-R15-09-18-57,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,Ram,1500,,,"5'7""",RAM-R15-09-18-57,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,Ram,1500,,,"5'7""",RAM-R15-09-18-57,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Ram,1500,,,"5'7""",RAM-R15-09-18-57,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Ram,1500,,,"5'7""",RAM-R15-09-18-57,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Ram,1500,,,"5'7""",RAM-R15-09-18-57,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Ram,1500,,,"5'7""",RAM-R15-09-18-57,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,Ram,2500,,Quad Cab,"6'4""",RAM-R25-09-18-QC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,Ram,2500,,Quad Cab,"6'4""",RAM-R25-09-18-QC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,Ram,2500,,Quad Cab,"6'4""",RAM-R25-09-18-QC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,Ram,2500,,Quad Cab,"6'4""",RAM-R25-09-18-QC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,Ram,2500,,Quad Cab,"6'4""",RAM-R25-09-18-QC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,Ram,2500,,Quad Cab,"6'4""",RAM-R25-09-18-QC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Ram,2500,,Quad Cab,"6'4""",RAM-R25-09-18-QC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Ram,2500,,Quad Cab,"6'4""",RAM-R25-09-18-QC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Ram,2500,,Quad Cab,"6'4""",RAM-R25-09-18-QC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Ram,2500,,Quad Cab,"6'4""",RAM-R25-09-18-QC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,Ram,2500,,Crew Cab,"6'4""",RAM-R25-09-18-CC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,Ram,2500,,Crew Cab,"6'4""",RAM-R25-09-18-CC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,Ram,2500,,Crew Cab,"6'4""",RAM-R25-09-18-CC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,Ram,2500,,Crew Cab,"6'4""",RAM-R25-09-18-CC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,Ram,2500,,Crew Cab,"6'4""",RAM-R25-09-18-CC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,Ram,2500,,Crew Cab,"6'4""",RAM-R25-09-18-CC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Ram,2500,,Crew Cab,"6'4""",RAM-R25-09-18-CC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Ram,2500,,Crew Cab,"6'4""",RAM-R25-09-18-CC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Ram,2500,,Crew Cab,"6'4""",RAM-R25-09-18-CC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Ram,2500,,Crew Cab,"6'4""",RAM-R25-09-18-CC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,Ram,2500,,Quad Cab,"8'1""",RAM-R25-09-18-QC-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,Ram,2500,,Quad Cab,"8'1""",RAM-R25-09-18-QC-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,Ram,2500,,Quad Cab,"8'1""",RAM-R25-09-18-QC-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,Ram,2500,,Quad Cab,"8'1""",RAM-R25-09-18-QC-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,Ram,2500,,Quad Cab,"8'1""",RAM-R25-09-18-QC-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,Ram,2500,,Quad Cab,"8'1""",RAM-R25-09-18-QC-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Ram,2500,,Quad Cab,"8'1""",RAM-R25-09-18-QC-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Ram,2500,,Quad Cab,"8'1""",RAM-R25-09-18-QC-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Ram,2500,,Quad Cab,"8'1""",RAM-R25-09-18-QC-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Ram,2500,,Quad Cab,"8'1""",RAM-R25-09-18-QC-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2002,Ram,1500,,Quad Cab,Short Bed,RAM-R15-02-08-QC-SHORTB,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2003,Ram,1500,,Quad Cab,Short Bed,RAM-R15-02-08-QC-SHORTB,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2004,Ram,1500,,Quad Cab,Short Bed,RAM-R15-02-08-QC-SHORTB,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2005,Ram,1500,,Quad Cab,Short Bed,RAM-R15-02-08-QC-SHORTB,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2006,Ram,1500,,Quad Cab,Short Bed,RAM-R15-02-08-QC-SHORTB,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2007,Ram,1500,,Quad Cab,Short Bed,RAM-R15-02-08-QC-SHORTB,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2008,Ram,1500,,Quad Cab,Short Bed,RAM-R15-02-08-QC-SHORTB,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Toyota,Tundra,,CrewMax,"66""",TOY-TUN-22P-CM-66,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Toyota,Tundra,,CrewMax,"66""",TOY-TUN-22P-CM-66,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Toyota,Tundra,,CrewMax,"66""",TOY-TUN-22P-CM-66,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Toyota,Tundra,,CrewMax,"66""",TOY-TUN-22P-CM-66,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Toyota,Tundra,,Double Cab,"78""",TOY-TUN-22P-DC-78,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Toyota,Tundra,,Double Cab,"78""",TOY-TUN-22P-DC-78,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Toyota,Tundra,,Double Cab,"78""",TOY-TUN-22P-DC-78,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Toyota,Tundra,,Double Cab,"78""",TOY-TUN-22P-DC-78,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,Toyota,Tundra,,CrewMax,"68""",TOY-TUN-14-21-CM-68,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Toyota,Tundra,,CrewMax,"68""",TOY-TUN-14-21-CM-68,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Toyota,Tundra,,CrewMax,"68""",TOY-TUN-14-21-CM-68,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Toyota,Tundra,,CrewMax,"68""",TOY-TUN-14-21-CM-68,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Toyota,Tundra,,CrewMax,"68""",TOY-TUN-14-21-CM-68,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Toyota,Tundra,,CrewMax,"68""",TOY-TUN-14-21-CM-68,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Toyota,Tundra,,CrewMax,"68""",TOY-TUN-14-21-CM-68,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Toyota,Tundra,,CrewMax,"68""",TOY-TUN-14-21-CM-68,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,Toyota,Tundra,,Double Cab,"79""",TOY-TUN-14-21-DC-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Toyota,Tundra,,Double Cab,"79""",TOY-TUN-14-21-DC-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Toyota,Tundra,,Double Cab,"79""",TOY-TUN-14-21-DC-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Toyota,Tundra,,Double Cab,"79""",TOY-TUN-14-21-DC-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Toyota,Tundra,,Double Cab,"79""",TOY-TUN-14-21-DC-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Toyota,Tundra,,Double Cab,"79""",TOY-TUN-14-21-DC-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Toyota,Tundra,,Double Cab,"79""",TOY-TUN-14-21-DC-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Toyota,Tundra,,Double Cab,"79""",TOY-TUN-14-21-DC-79,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2007,Toyota,Tundra,,CrewMax,"5'5""",TOY-TUN-07-13-CM-55,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2008,Toyota,Tundra,,CrewMax,"5'5""",TOY-TUN-07-13-CM-55,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,Toyota,Tundra,,CrewMax,"5'5""",TOY-TUN-07-13-CM-55,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,Toyota,Tundra,,CrewMax,"5'5""",TOY-TUN-07-13-CM-55,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,Toyota,Tundra,,CrewMax,"5'5""",TOY-TUN-07-13-CM-55,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,Toyota,Tundra,,CrewMax,"5'5""",TOY-TUN-07-13-CM-55,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,Toyota,Tundra,,CrewMax,"5'5""",TOY-TUN-07-13-CM-55,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2007,Toyota,Tundra,,Double Cab,"81""",TOY-TUN-07-13-DC-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2008,Toyota,Tundra,,Double Cab,"81""",TOY-TUN-07-13-DC-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,Toyota,Tundra,,Double Cab,"81""",TOY-TUN-07-13-DC-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,Toyota,Tundra,,Double Cab,"81""",TOY-TUN-07-13-DC-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,Toyota,Tundra,,Double Cab,"81""",TOY-TUN-07-13-DC-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,Toyota,Tundra,,Double Cab,"81""",TOY-TUN-07-13-DC-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,Toyota,Tundra,,Double Cab,"81""",TOY-TUN-07-13-DC-81,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2007,Toyota,Tundra,,Double Cab,"100""",TOY-TUN-07-13-DC-100,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2008,Toyota,Tundra,,Double Cab,"100""",TOY-TUN-07-13-DC-100,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,Toyota,Tundra,,Double Cab,"100""",TOY-TUN-07-13-DC-100,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,Toyota,Tundra,,Double Cab,"100""",TOY-TUN-07-13-DC-100,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,Toyota,Tundra,,Double Cab,"100""",TOY-TUN-07-13-DC-100,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,Toyota,Tundra,,Double Cab,"100""",TOY-TUN-07-13-DC-100,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,Toyota,Tundra,,Double Cab,"100""",TOY-TUN-07-13-DC-100,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Toyota,Tacoma,,Double Cab,"60""",TOY-TAC-24P-DC-60,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Toyota,Tacoma,,Double Cab,"60""",TOY-TAC-24P-DC-60,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Toyota,Tacoma,,Access Cab,"74""",TOY-TAC-24P-AC-74,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Toyota,Tacoma,,Access Cab,"74""",TOY-TAC-24P-AC-74,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Toyota,Tacoma,,Double Cab,"60""",TOY-TAC-16-23-DC-60,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Toyota,Tacoma,,Double Cab,"60""",TOY-TAC-16-23-DC-60,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Toyota,Tacoma,,Double Cab,"60""",TOY-TAC-16-23-DC-60,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Toyota,Tacoma,,Double Cab,"60""",TOY-TAC-16-23-DC-60,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Toyota,Tacoma,,Double Cab,"60""",TOY-TAC-16-23-DC-60,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Toyota,Tacoma,,Double Cab,"60""",TOY-TAC-16-23-DC-60,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Toyota,Tacoma,,Double Cab,"60""",TOY-TAC-16-23-DC-60,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Toyota,Tacoma,,Double Cab,"60""",TOY-TAC-16-23-DC-60,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Toyota,Tacoma,,Access Cab,"74""",TOY-TAC-16-23-AC-74,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Toyota,Tacoma,,Access Cab,"74""",TOY-TAC-16-23-AC-74,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Toyota,Tacoma,,Access Cab,"74""",TOY-TAC-16-23-AC-74,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Toyota,Tacoma,,Access Cab,"74""",TOY-TAC-16-23-AC-74,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Toyota,Tacoma,,Access Cab,"74""",TOY-TAC-16-23-AC-74,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Toyota,Tacoma,,Access Cab,"74""",TOY-TAC-16-23-AC-74,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Toyota,Tacoma,,Access Cab,"74""",TOY-TAC-16-23-AC-74,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Toyota,Tacoma,,Access Cab,"74""",TOY-TAC-16-23-AC-74,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Toyota,Tacoma,,Double Cab,"74""",TOY-TAC-16-23-DC-74,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Toyota,Tacoma,,Double Cab,"74""",TOY-TAC-16-23-DC-74,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Toyota,Tacoma,,Double Cab,"74""",TOY-TAC-16-23-DC-74,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Toyota,Tacoma,,Double Cab,"74""",TOY-TAC-16-23-DC-74,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Toyota,Tacoma,,Double Cab,"74""",TOY-TAC-16-23-DC-74,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Toyota,Tacoma,,Double Cab,"74""",TOY-TAC-16-23-DC-74,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Toyota,Tacoma,,Double Cab,"74""",TOY-TAC-16-23-DC-74,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Toyota,Tacoma,,Double Cab,"74""",TOY-TAC-16-23-DC-74,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2005,Toyota,Tacoma,,Double Cab,"64""",TOY-TAC-05-15-DC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2006,Toyota,Tacoma,,Double Cab,"64""",TOY-TAC-05-15-DC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2007,Toyota,Tacoma,,Double Cab,"64""",TOY-TAC-05-15-DC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2008,Toyota,Tacoma,,Double Cab,"64""",TOY-TAC-05-15-DC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,Toyota,Tacoma,,Double Cab,"64""",TOY-TAC-05-15-DC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,Toyota,Tacoma,,Double Cab,"64""",TOY-TAC-05-15-DC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,Toyota,Tacoma,,Double Cab,"64""",TOY-TAC-05-15-DC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,Toyota,Tacoma,,Double Cab,"64""",TOY-TAC-05-15-DC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,Toyota,Tacoma,,Double Cab,"64""",TOY-TAC-05-15-DC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,Toyota,Tacoma,,Double Cab,"64""",TOY-TAC-05-15-DC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Toyota,Tacoma,,Double Cab,"64""",TOY-TAC-05-15-DC-64,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2005,Toyota,Tacoma,,Double Cab,"73.5""",TOY-TAC-05-15-DC-735,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2006,Toyota,Tacoma,,Double Cab,"73.5""",TOY-TAC-05-15-DC-735,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2007,Toyota,Tacoma,,Double Cab,"73.5""",TOY-TAC-05-15-DC-735,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2008,Toyota,Tacoma,,Double Cab,"73.5""",TOY-TAC-05-15-DC-735,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,Toyota,Tacoma,,Double Cab,"73.5""",TOY-TAC-05-15-DC-735,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,Toyota,Tacoma,,Double Cab,"73.5""",TOY-TAC-05-15-DC-735,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,Toyota,Tacoma,,Double Cab,"73.5""",TOY-TAC-05-15-DC-735,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,Toyota,Tacoma,,Double Cab,"73.5""",TOY-TAC-05-15-DC-735,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,Toyota,Tacoma,,Double Cab,"73.5""",TOY-TAC-05-15-DC-735,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,Toyota,Tacoma,,Double Cab,"73.5""",TOY-TAC-05-15-DC-735,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Toyota,Tacoma,,Double Cab,"73.5""",TOY-TAC-05-15-DC-735,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Nissan,Frontier,,,"59""",NIS-FRONT-22P-59,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Nissan,Frontier,,,"59""",NIS-FRONT-22P-59,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Nissan,Frontier,,,"59""",NIS-FRONT-22P-59,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Nissan,Frontier,,,"59""",NIS-FRONT-22P-59,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Nissan,Frontier,,,"73""",NIS-FRONT-22P-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Nissan,Frontier,,,"73""",NIS-FRONT-22P-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Nissan,Frontier,,,"73""",NIS-FRONT-22P-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Nissan,Frontier,,,"73""",NIS-FRONT-22P-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,Nissan,Frontier,,,"58""",NIS-FRONT-13-21-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,Nissan,Frontier,,,"58""",NIS-FRONT-13-21-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Nissan,Frontier,,,"58""",NIS-FRONT-13-21-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Nissan,Frontier,,,"58""",NIS-FRONT-13-21-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Nissan,Frontier,,,"58""",NIS-FRONT-13-21-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Nissan,Frontier,,,"58""",NIS-FRONT-13-21-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Nissan,Frontier,,,"58""",NIS-FRONT-13-21-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Nissan,Frontier,,,"58""",NIS-FRONT-13-21-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Nissan,Frontier,,,"58""",NIS-FRONT-13-21-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2013,Nissan,Frontier,,Crew Cab,"73""",NIS-FRONT-13-21-CC-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2014,Nissan,Frontier,,Crew Cab,"73""",NIS-FRONT-13-21-CC-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2015,Nissan,Frontier,,Crew Cab,"73""",NIS-FRONT-13-21-CC-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2016,Nissan,Frontier,,Crew Cab,"73""",NIS-FRONT-13-21-CC-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2017,Nissan,Frontier,,Crew Cab,"73""",NIS-FRONT-13-21-CC-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2018,Nissan,Frontier,,Crew Cab,"73""",NIS-FRONT-13-21-CC-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2019,Nissan,Frontier,,Crew Cab,"73""",NIS-FRONT-13-21-CC-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Nissan,Frontier,,Crew Cab,"73""",NIS-FRONT-13-21-CC-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Nissan,Frontier,,Crew Cab,"73""",NIS-FRONT-13-21-CC-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2005,Nissan,Frontier,,,"58""",NIS-FRONT-05-12-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2006,Nissan,Frontier,,,"58""",NIS-FRONT-05-12-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2007,Nissan,Frontier,,,"58""",NIS-FRONT-05-12-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2008,Nissan,Frontier,,,"58""",NIS-FRONT-05-12-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,Nissan,Frontier,,,"58""",NIS-FRONT-05-12-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,Nissan,Frontier,,,"58""",NIS-FRONT-05-12-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,Nissan,Frontier,,,"58""",NIS-FRONT-05-12-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,Nissan,Frontier,,,"58""",NIS-FRONT-05-12-58,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2005,Nissan,Frontier,,Crew Cab,"73""",NIS-FRONT-05-12-CC-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2006,Nissan,Frontier,,Crew Cab,"73""",NIS-FRONT-05-12-CC-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2007,Nissan,Frontier,,Crew Cab,"73""",NIS-FRONT-05-12-CC-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2008,Nissan,Frontier,,Crew Cab,"73""",NIS-FRONT-05-12-CC-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2009,Nissan,Frontier,,Crew Cab,"73""",NIS-FRONT-05-12-CC-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2010,Nissan,Frontier,,Crew Cab,"73""",NIS-FRONT-05-12-CC-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2011,Nissan,Frontier,,Crew Cab,"73""",NIS-FRONT-05-12-CC-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2012,Nissan,Frontier,,Crew Cab,"73""",NIS-FRONT-05-12-CC-73,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2020,Jeep,Gladiator,,,"60""",JEEP-GLAD-20P-60,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2021,Jeep,Gladiator,,,"60""",JEEP-GLAD-20P-60,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2022,Jeep,Gladiator,,,"60""",JEEP-GLAD-20P-60,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2023,Jeep,Gladiator,,,"60""",JEEP-GLAD-20P-60,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2024,Jeep,Gladiator,,,"60""",JEEP-GLAD-20P-60,partial,partial,,data/sources/ranch_fitment_guide.pdf
+2025,Jeep,Gladiator,,,"60""",JEEP-GLAD-20P-60,partial,partial,,data/sources/ranch_fitment_guide.pdf

@@ -1,0 +1,420 @@
+topper_brand,topper_model_series,topper_production_year_start,topper_production_year_end,fits_platform_id,confidence,fit_type,wrap_type,fit_notes,mounting_clamp_type,required_modifications,source_urls,verified_by
+Ranch,Legacy,,,CHEV-S15-19P-CC-70,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S15-19P-CC-70,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S15-19P-CC-70,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-S15-19P-CC-70,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,CHEV-S15-19P-CC-70,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,CHEV-S15-19P-CC-70,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,CHEV-S15-19P-CC-70,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,XD,,,CHEV-S15-19P-CC-70,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S15-19P-CC-70-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S15-19P-CC-70-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-S15-19P-CC-70-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,CHEV-S15-19P-CC-70-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,CHEV-S15-19P-CC-70-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,CHEV-S15-19P-CC-70-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,XD,,,CHEV-S15-19P-CC-70-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,CHEV-S15-19P-795,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S15-19P-795,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S15-19P-795,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-S15-19P-795,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,CHEV-S15-19P-795,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,CHEV-S15-19P-795,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,CHEV-S15-19P-795,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,XD,,,CHEV-S15-19P-795,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S15-19P-795-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S15-19P-795-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-S15-19P-795-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,CHEV-S15-19P-795-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,CHEV-S15-19P-795-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,CHEV-S15-19P-795-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,XD,,,CHEV-S15-19P-795-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S15-19P-RC-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S15-19P-RC-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-S15-19P-RC-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,CHEV-S15-19P-RC-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S15-19P-RC-98-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S15-19P-RC-98-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-S15-19P-RC-98-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,CHEV-S15-19P-RC-98-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,CHEV-S25-20P-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S25-20P-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S25-20P-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-S25-20P-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,CHEV-S25-20P-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,CHEV-S25-20P-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,CHEV-S25-20P-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,CHEV-S25-20P-82-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S25-20P-82-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S25-20P-82-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-S25-20P-82-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,CHEV-S25-20P-82-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,CHEV-S25-20P-82-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,CHEV-S25-20P-82-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S25-20P-RC-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S25-20P-RC-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-S25-20P-RC-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,CHEV-S25-20P-RC-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S25-20P-RC-98-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S25-20P-RC-98-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-S25-20P-RC-98-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,CHEV-S25-20P-RC-98-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S25-20P-CC-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S25-20P-CC-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-S25-20P-CC-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,CHEV-S25-20P-CC-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S25-20P-CC-98-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S25-20P-CC-98-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-S25-20P-CC-98-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,CHEV-S25-20P-CC-98-MF,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,GMC-SRA-19P-70,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,GMC-SRA-19P-70,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,GMC-SRA-19P-70,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,GMC-SRA-19P-70,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,GMC-SRA-19P-70,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,GMC-SRA-19P-70,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,GMC-SRA-19P-70,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,GMC-SRA-19P-70-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,GMC-SRA-19P-70-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,GMC-SRA-19P-70-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,GMC-SRA-19P-70-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,GMC-SRA-19P-70-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,GMC-SRA-19P-70-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,GMC-SRA-19P-70-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,GMC-SRA-19P-795,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,GMC-SRA-19P-795,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,GMC-SRA-19P-795,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,GMC-SRA-19P-795,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,GMC-SRA-19P-795,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,GMC-SRA-19P-795,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,GMC-SRA-19P-795,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,GMC-SRA-19P-795-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,GMC-SRA-19P-795-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,GMC-SRA-19P-795-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,GMC-SRA-19P-795-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,GMC-SRA-19P-795-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,GMC-SRA-19P-795-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,GMC-SRA-19P-795-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,GMC-SRA-19P-RC-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,GMC-SRA-19P-RC-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,GMC-SRA-19P-RC-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,GMC-SRA-19P-RC-98-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,GMC-SRA-19P-RC-98-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,GMC-SRA-19P-RC-98-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,GMC-SRA25-20P-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,GMC-SRA25-20P-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,GMC-SRA25-20P-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,GMC-SRA25-20P-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,GMC-SRA25-20P-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,GMC-SRA25-20P-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,GMC-SRA25-20P-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,GMC-SRA25-20P-82-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,GMC-SRA25-20P-82-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,GMC-SRA25-20P-82-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,GMC-SRA25-20P-82-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,GMC-SRA25-20P-82-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,GMC-SRA25-20P-82-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,GMC-SRA25-20P-82-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,GMC-SRA25-20P-CC-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,GMC-SRA25-20P-CC-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,GMC-SRA25-20P-CC-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,GMC-SRA25-20P-CC-98-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,GMC-SRA25-20P-CC-98-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,GMC-SRA25-20P-CC-98-MP,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S15-14-18-58,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S15-14-18-58,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-S15-14-18-58,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,CHEV-S15-14-18-58,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,CHEV-S15-14-18-58,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,CHEV-S15-14-18-58,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,CHEV-S25-14-18-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S25-14-18-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S25-14-18-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-S25-14-18-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,CHEV-S25-14-18-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,CHEV-S25-14-18-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,CHEV-S25-14-18-82,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S25-14-18-102,100,OEM,W,Dually*,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S25-14-18-102,100,OEM,W,Dually*,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-S25-14-18-102,100,OEM,W,Dually*,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S15-07-13-72,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S15-07-13-72,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S25-07-13-XC-82,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S25-07-13-XC-82,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-S25-07-13-XC-82,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S25-07-14-82,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S25-07-14-82,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,GMC-SRA25-07-13-XC-82,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,GMC-SRA25-07-13-XC-82,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S15-99-06-AC-SHORTB,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S15-99-06-AC-SHORTB,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,CHEV-COL-23P-61,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-COL-23P-61,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-COL-23P-61,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-COL-23P-61,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,CHEV-COL-23P-61,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,GMC-CAN-23P-61,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,GMC-CAN-23P-61,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-COL-15-22-62,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-COL-15-22-62,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion Classic,,,CHEV-COL-15-22-62,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Premier,,,CHEV-COL-15-22-62,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-COL-15-22-79,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-COL-15-22-79,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-COL-15-22-79,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,FORD-F150-21P-65,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F150-21P-65,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F150-21P-65,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-F150-21P-65,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,FORD-F150-21P-65,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,FORD-F150-21P-65,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,FORD-F150-21P-65,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F150-21P-65-PA,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F150-21P-65-PA,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-F150-21P-65-PA,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,FORD-F150-21P-65-PA,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,FORD-F150-21P-65-PA,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,FORD-F150-21P-65-PA,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,FORD-F150-21P-78,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F150-21P-78,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F150-21P-78,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-F150-21P-78,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,FORD-F150-21P-78,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,FORD-F150-21P-78,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,FORD-F150-21P-78,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F150-21P-78-PA,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F150-21P-78-PA,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-F150-21P-78-PA,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,FORD-F150-21P-78-PA,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,FORD-F150-21P-78-PA,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,FORD-F150-21P-78-PA,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F150-21P-LONGBE,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F150-21P-LONGBE,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-F150-21P-LONGBE,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,FORD-F150-21P-LONGBE,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F150-21P-LONGBE-PA,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F150-21P-LONGBE-PA,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-F150-21P-LONGBE-PA,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,FORD-F150-21P-LONGBE-PA,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,FORD-F150-15-20-SC-56,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F150-15-20-SC-56,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F150-15-20-SC-56,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-F150-15-20-SC-56,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,FORD-F150-15-20-SC-56,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,FORD-F150-15-20-SC-56,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,FORD-F150-15-20-SC-56,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F150-15-20-AC-79,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F150-15-20-AC-79,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-F150-15-20-AC-79,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,FORD-F150-15-20-AC-79,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,FORD-F150-15-20-AC-79,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,XD,,,FORD-F150-15-20-AC-79,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F150-15-20-975,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F150-15-20-975,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-F150-15-20-975,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F150-09-14-SC-56,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F150-09-14-SC-56,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F150-09-14-AC-66,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F150-09-14-AC-66,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F150-04-08-AC-65,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F150-04-08-AC-65,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F250-23P-81,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F250-23P-81,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-F250-23P-81,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,FORD-F250-23P-81,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,FORD-F250-23P-81,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F250-23P-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F250-23P-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-F250-23P-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,FORD-F250-23P-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sport Wrap,,,FORD-F250-17-22-80,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,FORD-F250-17-22-80,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F250-17-22-80,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F250-17-22-80,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-F250-17-22-80,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,FORD-F250-17-22-80,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,FORD-F250-17-22-80,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,FORD-F250-17-22-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F250-17-22-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F250-17-22-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-F250-17-22-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,XD,,,FORD-F250-17-22-98,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F250-08-16-SHORTB,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F250-08-16-SHORTB,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F250-08-16-SHORTB,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F250-08-16-SHORTB,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-F250-08-16-SHORTB,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F250-08-16-LONGBE,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F250-08-16-LONGBE,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-F250-08-16-LONGBE,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F250-99-07-SHORTB,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F250-99-07-SHORTB,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F250-99-07-SHORTB,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F250-99-07-SHORTB,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-F250-99-07-SHORTB,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-F250-99-07-LONGBE,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-F250-99-07-LONGBE,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-F250-99-07-LONGBE,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,FORD-MAV-22P-54,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-MAV-22P-54,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-MAV-22P-54,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-MAV-22P-54,100,OEM,X,MidRise,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,FORD-MAV-22P-54,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-RNG-24P-60,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-RNG-24P-60,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-RNG-19-23-61,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-RNG-19-23-61,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-RNG-19-23-61,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,FORD-RNG-19-23-61,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,FORD-RNG-19-23-61,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,FORD-RNG-19-23-61,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-RNG-19-23-71,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-RNG-19-23-71,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,FORD-RNG-19-23-71,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,FORD-RNG-19-23-71,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,FORD-RNG-19-23-71,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,FORD-RNG-19-23-71,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,FORD-RNG-93-11-AC-SHORTB,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,FORD-RNG-93-11-AC-SHORTB,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,RAM-R15-25P-67,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,RAM-R15-25P-67,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,RAM-R15-19-24-QC-67,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,RAM-R15-19-24-QC-67,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,RAM-R15-19-24-QC-67,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,RAM-R15-19-24-QC-67,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,RAM-R15-19-24-QC-67,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,RAM-R15-19-24-QC-67,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,XD,,,RAM-R15-19-24-QC-67,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,RAM-R15-19-24-QC-76,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,RAM-R15-19-24-QC-76,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,RAM-R15-19-24-QC-76,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,RAM-R15-19-24-QC-76,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,RAM-R15-19-24-QC-76,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,RAM-R15-19-24-QC-76,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,XD,,,RAM-R15-19-24-QC-76,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,CHEV-S25-19-24-QC-64,100,OEM,W,"Body (Round Gas Door)* w/o 3rd
+Brake Light Camera",,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S25-19-24-QC-64,100,OEM,W,"Body (Round Gas Door)* w/o 3rd
+Brake Light Camera",,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S25-19-24-QC-64,100,OEM,W,"Body (Round Gas Door)* w/o 3rd
+Brake Light Camera",,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-S25-19-24-QC-64,100,OEM,W,"Body (Round Gas Door)* w/o 3rd
+Brake Light Camera",,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,CHEV-S25-19-24-QC-64,100,OEM,W,"Body (Round Gas Door)* w/o 3rd
+Brake Light Camera",,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,CHEV-S25-19-24-QC-64,100,OEM,W,"Body (Round Gas Door)* w/o 3rd
+Brake Light Camera",,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,XD,,,CHEV-S25-19-24-QC-64,100,OEM,W,"Body (Round Gas Door)* w/o 3rd
+Brake Light Camera",,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,CHEV-S25-19-24-81,100,OEM,W,"Gas Door)* w/o 3rd Brake
+Light Camera",,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,CHEV-S25-19-24-81,100,OEM,W,"Gas Door)* w/o 3rd Brake
+Light Camera",,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,CHEV-S25-19-24-81,100,OEM,W,"Gas Door)* w/o 3rd Brake
+Light Camera",,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,RAM-R15-09-18-57,100,OEM,W,3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,RAM-R15-09-18-57,100,OEM,W,3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,RAM-R15-09-18-57,100,OEM,W,3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,RAM-R15-09-18-57,100,OEM,W,3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,RAM-R15-09-18-57,100,OEM,W,3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,RAM-R15-09-18-57,100,OEM,W,3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,XD,,,RAM-R15-09-18-57,100,OEM,W,3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,RAM-R25-09-18-QC-64,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,RAM-R25-09-18-QC-64,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,RAM-R25-09-18-QC-64,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,RAM-R25-09-18-QC-64,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,RAM-R25-09-18-QC-64,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,RAM-R25-09-18-QC-64,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,XD,,,RAM-R25-09-18-QC-64,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,RAM-R25-09-18-CC-64,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,RAM-R25-09-18-CC-64,100,universal,U,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,RAM-R25-09-18-CC-64,100,universal,U,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,RAM-R25-09-18-CC-64,100,universal,U,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,RAM-R25-09-18-CC-64,100,universal,U,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,RAM-R25-09-18-CC-64,100,universal,U,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,XD,,,RAM-R25-09-18-CC-64,100,universal,U,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,RAM-R25-09-18-QC-81,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,RAM-R25-09-18-QC-81,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,RAM-R25-09-18-QC-81,100,OEM,W,w/o 3rd Brake Light Camera,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,RAM-R15-02-08-QC-SHORTB,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,RAM-R15-02-08-QC-SHORTB,100,OEM,X,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,TOY-TUN-22P-CM-66,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,TOY-TUN-22P-CM-66,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,TOY-TUN-22P-CM-66,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,TOY-TUN-22P-CM-66,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,TOY-TUN-22P-CM-66,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,TOY-TUN-22P-DC-78,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,TOY-TUN-22P-DC-78,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sport Wrap,,,TOY-TUN-14-21-CM-68,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,TOY-TUN-14-21-CM-68,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,TOY-TUN-14-21-CM-68,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,TOY-TUN-14-21-CM-68,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,TOY-TUN-14-21-CM-68,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,TOY-TUN-14-21-CM-68,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,TOY-TUN-14-21-CM-68,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,TOY-TUN-14-21-DC-79,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,TOY-TUN-14-21-DC-79,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,TOY-TUN-14-21-DC-79,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,TOY-TUN-14-21-DC-79,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,TOY-TUN-07-13-CM-55,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,TOY-TUN-07-13-CM-55,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,TOY-TUN-07-13-CM-55,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,TOY-TUN-07-13-DC-81,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,TOY-TUN-07-13-DC-81,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,TOY-TUN-07-13-DC-81,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,TOY-TUN-07-13-DC-100,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,TOY-TUN-07-13-DC-100,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,TOY-TAC-24P-DC-60,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,TOY-TAC-24P-DC-60,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,TOY-TAC-24P-DC-60,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,TOY-TAC-24P-DC-60,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,TOY-TAC-24P-DC-60,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,TOY-TAC-24P-AC-74,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,TOY-TAC-24P-AC-74,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,TOY-TAC-24P-AC-74,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,TOY-TAC-24P-AC-74,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,TOY-TAC-16-23-DC-60,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,TOY-TAC-16-23-DC-60,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,TOY-TAC-16-23-DC-60,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion,,,TOY-TAC-16-23-DC-60,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,TOY-TAC-16-23-DC-60,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,TOY-TAC-16-23-DC-60,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sport Wrap,,,TOY-TAC-16-23-AC-74,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,TOY-TAC-16-23-AC-74,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,TOY-TAC-16-23-AC-74,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,TOY-TAC-16-23-AC-74,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,TOY-TAC-16-23-AC-74,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion Classic,,,TOY-TAC-16-23-AC-74,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Premier,,,TOY-TAC-16-23-AC-74,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,TOY-TAC-16-23-AC-74,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sport Wrap,,,TOY-TAC-16-23-DC-74,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Legacy,,,TOY-TAC-16-23-DC-74,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,TOY-TAC-16-23-DC-74,100,universal,U,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,TOY-TAC-16-23-DC-74,100,universal,U,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,WorkForce,,,TOY-TAC-16-23-DC-74,100,universal,U,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Fusion Classic,,,TOY-TAC-16-23-DC-74,100,universal,U,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,TOY-TAC-16-23-DC-74,100,universal,U,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,TOY-TAC-16-23-DC-74,100,universal,U,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,TOY-TAC-05-15-DC-64,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,TOY-TAC-05-15-DC-64,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,TOY-TAC-05-15-DC-735,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,TOY-TAC-05-15-DC-735,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,NIS-FRONT-22P-59,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,NIS-FRONT-22P-59,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,NIS-FRONT-22P-59,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,NIS-FRONT-22P-59,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,NIS-FRONT-22P-73,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,NIS-FRONT-22P-73,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,ICON,,,NIS-FRONT-22P-73,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,NIS-FRONT-22P-73,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,NIS-FRONT-13-21-58,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,NIS-FRONT-13-21-58,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,NIS-FRONT-13-21-CC-73,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,NIS-FRONT-13-21-CC-73,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,NIS-FRONT-05-12-58,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,NIS-FRONT-05-12-58,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,NIS-FRONT-05-12-CC-73,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,NIS-FRONT-05-12-CC-73,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Echo,,,JEEP-GLAD-20P-60,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Sierra/Xtra,,,JEEP-GLAD-20P-60,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer
+Ranch,Skyline,,,JEEP-GLAD-20P-60,100,OEM,W,,,,data/sources/ranch_fitment_guide.pdf,manufacturer

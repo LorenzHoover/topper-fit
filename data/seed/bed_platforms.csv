@@ -1,0 +1,94 @@
+platform_id,nickname,make,model_family,generation,production_year_start,production_year_end,cab_style,bed_length_class,bed_length_floor_inches,bed_length_rail_inches,bed_width_at_rail_inches,bed_width_outer_inches,bed_depth_inches,rail_profile_shape,rail_cross_section_width_inches,rail_cross_section_height_inches,stake_pockets_present,stake_pocket_count_per_side,stake_pocket_length_inches,stake_pocket_width_inches,utility_track_system,cab_back_generation,cab_camera_present,tailgate_variant,notes,source_urls
+CHEV-S15-19P-CC-70,Chevy Silverado (2019–present),Chevrolet,Silverado 1500,,2019,,Crew Cab,,,70.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+CHEV-S15-19P-CC-70-MF,Chevy Silverado MultiFlex Tailgate (2019–present),Chevrolet,Silverado 1500,,2019,,Crew Cab,,,70.0,,,,,,,,,,,none,,False,MultiFlex,,data/sources/ranch_fitment_guide.pdf
+CHEV-S15-19P-795,Chevy Silverado (2019–present),Chevrolet,Silverado 1500,,2019,,,,,79.5,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+CHEV-S15-19P-795-MF,Chevy Silverado MultiFlex Tailgate (2019–present),Chevrolet,Silverado 1500,,2019,,,,,79.5,,,,,,,,,,,none,,False,MultiFlex,,data/sources/ranch_fitment_guide.pdf
+CHEV-S15-19P-RC-98,Chevy Silverado 1500 Reg. Cab (2019–present),Chevrolet,Silverado 1500,,2019,,Regular Cab,,,98.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+CHEV-S15-19P-RC-98-MF,Chevy Silverado 1500 MultiFlex Reg. Cab (2019–present),Chevrolet,Silverado 1500,,2019,,Regular Cab,,,98.0,,,,,,,,,,,none,,False,MultiFlex,,data/sources/ranch_fitment_guide.pdf
+CHEV-S25-20P-82,Chevy Silverado 2500 HD (2020–present),Chevrolet,Silverado 2500,,2020,,,,,82.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+CHEV-S25-20P-82-MF,Chevy Silverado 2500 HD MultiFlex Tailgate (2020–present),Chevrolet,Silverado 2500,,2020,,,,,82.0,,,,,,,,,,,none,,False,MultiFlex,,data/sources/ranch_fitment_guide.pdf
+CHEV-S25-20P-RC-98,Chevy Silverado 2500 HD Reg. Cab (2020–present),Chevrolet,Silverado 2500,,2020,,Regular Cab,,,98.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+CHEV-S25-20P-RC-98-MF,Chevy Silverado 2500 HD MultiFlex Reg. Cab (2020–present),Chevrolet,Silverado 2500,,2020,,Regular Cab,,,98.0,,,,,,,,,,,none,,False,MultiFlex,,data/sources/ranch_fitment_guide.pdf
+CHEV-S25-20P-CC-98,Chevy Silverado 2500 HD EXT/CC (2020–present),Chevrolet,Silverado 2500,,2020,,Crew Cab,,,98.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+CHEV-S25-20P-CC-98-MF,Chevy Silverado 2500 HD MultiFlex EXT/CC (2020–present),Chevrolet,Silverado 2500,,2020,,Crew Cab,,,98.0,,,,,,,,,,,none,,False,MultiFlex,,data/sources/ranch_fitment_guide.pdf
+GMC-SRA-19P-70,GMC Sierra Std. Tailgate (2019–present),GMC,Sierra 1500,,2019,,,,,70.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+GMC-SRA-19P-70-MP,GMC Sierra MultiPro Tailgate (2019–present),GMC,Sierra 1500,,2019,,,,,70.0,,,,,,,,,,,none,,False,MultiPro,,data/sources/ranch_fitment_guide.pdf
+GMC-SRA-19P-795,GMC Sierra Std. Tailgate (2019–present),GMC,Sierra 1500,,2019,,,,,79.5,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+GMC-SRA-19P-795-MP,GMC Sierra MultiPro Tailgate (2019–present),GMC,Sierra 1500,,2019,,,,,79.5,,,,,,,,,,,none,,False,MultiPro,,data/sources/ranch_fitment_guide.pdf
+GMC-SRA-19P-RC-98,GMC Sierra Std. Tailgate Reg. Cab (2019–present),GMC,Sierra 1500,,2019,,Regular Cab,,,98.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+GMC-SRA-19P-RC-98-MP,GMC Sierra MultiPro Tailgate Reg. Cab (2019–present),GMC,Sierra 1500,,2019,,Regular Cab,,,98.0,,,,,,,,,,,none,,False,MultiPro,,data/sources/ranch_fitment_guide.pdf
+GMC-SRA25-20P-82,GMC Sierra 2500 HD Std. Tailgate (2020–present),GMC,Sierra 2500,,2020,,,,,82.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+GMC-SRA25-20P-82-MP,GMC Sierra 2500 HD MultiPro Tailgate (2020–present),GMC,Sierra 2500,,2020,,,,,82.0,,,,,,,,,,,none,,False,MultiPro,,data/sources/ranch_fitment_guide.pdf
+GMC-SRA25-20P-CC-98,GMC Sierra 2500 HD Std. Tailgate EXT/CC (2020–present),GMC,Sierra 2500,,2020,,Crew Cab,,,98.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+GMC-SRA25-20P-CC-98-MP,GMC Sierra 2500 HD MP. Tailgate EXT/CC (2020–present),GMC,Sierra 2500,,2020,,Crew Cab,,,98.0,,,,,,,,,,,none,,False,MultiPro,,data/sources/ranch_fitment_guide.pdf
+CHEV-S15-14-18-58,Silverado / Sierra (2014–2018),Chevrolet,Silverado 1500,,2014,2018,,,,68,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+CHEV-S25-14-18-82,Silverado / Sierra (2019 HD2500) (2014–2018),Chevrolet,Silverado 2500,,2014,2018,,,,82.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+CHEV-S25-14-18-102,Silverado / Sierra (2019 HD2500) *See Note for (2014–2018),Chevrolet,Silverado 2500,,2014,2018,,,,102.0,,,,,,,,,,,none,,False,Standard,Dually*,data/sources/ranch_fitment_guide.pdf
+CHEV-S15-07-13-72,Chevy Silverado (2007–2013),Chevrolet,Silverado 1500,,2007,2013,,,,72.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+CHEV-S25-07-13-XC-82,Chevy Silverado 1500 (2500HD Ext) (2007–2013),Chevrolet,Silverado 2500,,2007,2013,Extended Cab,,,82.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+CHEV-S25-07-14-82,Chevy 2500 HD Crew (2007–2014),Chevrolet,Silverado 2500,,2007,2014,,,,82.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+GMC-SRA25-07-13-XC-82,GMC Sierra 1500 (2500HD Ext) (2007–2013),GMC,Sierra 2500,,2007,2013,Extended Cab,,,82.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+CHEV-S15-99-06-AC-SHORTB,Chev/GMC SB/SBXC (2099–2006),Chevrolet,Silverado 1500,,2099,2006,Access Cab,,,,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+CHEV-COL-23P-61,Chevy Colorado (2023–present),Chevrolet,Colorado,,2023,,,,,61.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+GMC-CAN-23P-61,GMC Canyon (2023–present),GMC,Canyon,,2023,,,,,61.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+CHEV-COL-15-22-62,Chev/GMC Colorado/Canyon (2015–2022),Chevrolet,Colorado,,2015,2022,,,,62.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+CHEV-COL-15-22-79,Chev/GMC Colorado/Canyon (2015–2022),Chevrolet,Colorado,,2015,2022,,,,79.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-F150-21P-65,Ford F150 Std.Tailgate (2021–present),Ford,F-150,,2021,,,,,65.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-F150-21P-65-PA,Ford F150 Pro Access Tailgate (24+) (2021–present),Ford,F-150,,2021,,,,,65.0,,,,,,,,,,,none,,False,Pro Access,,data/sources/ranch_fitment_guide.pdf
+FORD-F150-21P-78,Ford F150 Std.Tailgate (2021–present),Ford,F-150,,2021,,,,,78.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-F150-21P-78-PA,Ford F150 Pro Access Tailgate (24+) (2021–present),Ford,F-150,,2021,,,,,78.0,,,,,,,,,,,none,,False,Pro Access,,data/sources/ranch_fitment_guide.pdf
+FORD-F150-21P-LONGBE,Ford F150 Std.Tailgate (2021–present),Ford,F-150,,2021,,,,,,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-F150-21P-LONGBE-PA,Ford F150 Pro Access Tailgate (24+) (2021–present),Ford,F-150,,2021,,,,,,,,,,,,,,,,none,,False,Pro Access,,data/sources/ranch_fitment_guide.pdf
+FORD-F150-15-20-SC-56,Ford F150 Super Crew (2015–2020),Ford,F-150,,2015,2020,SuperCrew,,,66,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-F150-15-20-AC-79,"Ford F150 SB/SBXC 79"" (2015–2020)",Ford,F-150,,2015,2020,Access Cab,,,79.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-F150-15-20-975,"Ford F150 LB 97.5"" (2015–2020)",Ford,F-150,,2015,2020,,,,97.5,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-F150-09-14-SC-56,Ford F150 Super Crew (2009–2014),Ford,F-150,,2009,2014,SuperCrew,,,66,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-F150-09-14-AC-66,Ford F150 SB/SBXC (2009–2014),Ford,F-150,,2009,2014,Access Cab,,,78,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-F150-04-08-AC-65,Ford F150 SB/SBXC (2004–2008),Ford,F-150,,2004,2008,Access Cab,,,77,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-F250-23P-81,"Ford F250 Super Duty 81"" (Works w/Camera) (2023–present)",Ford,F-250,,2023,,,,,81.0,,,,,,,,,,,none,,True,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-F250-23P-98,"Ford F250 Super Duty 98"" (Works w/Camera) (2023–present)",Ford,F-250,,2023,,,,,98.0,,,,,,,,,,,none,,True,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-F250-17-22-80,"Ford F250 Super Duty 80"" (2017–2022)",Ford,F-250,,2017,2022,,,,80.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-F250-17-22-98,"Ford F250 Super Duty 98"" (2017–2022)",Ford,F-250,,2017,2022,,,,98.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-F250-08-16-SHORTB,Ford F250 SB SD Tailgate Step (2008–2016),Ford,F-250,,2008,2016,,,,,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-F250-08-16-LONGBE,Ford F250 LB SD Tailgate Step (2008–2016),Ford,F-250,,2008,2016,,,,,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-F250-99-07-SHORTB,Ford F250 HD/SD SB (2099–2007),Ford,F-250,,2099,2007,,,,,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-F250-99-07-LONGBE,Ford F250 HD/SD LB (2099–2007),Ford,F-250,,2099,2007,,,,,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-MAV-22P-54,Ford Maverick (Trimless Edge ONLY) (2022–present),Ford,Maverick,,2022,,,,,54.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-RNG-24P-60,Ford Ranger (2024–present),Ford,Ranger,,2024,,,,,60.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-RNG-19-23-61,Ford Ranger (2019–2023),Ford,Ranger,,2019,2023,,,,61.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-RNG-19-23-71,Ford Ranger (2019–2023),Ford,Ranger,,2019,2023,,,,71.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+FORD-RNG-93-11-AC-SHORTB,Ranger SB/SBXC (2093–2011),Ford,Ranger,,2093,2011,Access Cab,,,,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+RAM-R15-25P-67,"Dodge Ram XSB 67"" Crew (2025–present)",Ram,1500,,2025,,,,,67.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+RAM-R15-19-24-QC-67,"Dodge SB 67"" Crew / Quad (2019–2024)",Ram,1500,,2019,2024,Quad Cab,,,67.0,,,,,,,,,,,none,,False,Standard,w/o 3rd Brake Light Camera,data/sources/ranch_fitment_guide.pdf
+RAM-R15-19-24-QC-76,"Dodge SB 76"" Crew / Quad (2019–2024)",Ram,1500,,2019,2024,Quad Cab,,,76.0,,,,,,,,,,,none,,False,Standard,w/o 3rd Brake Light Camera,data/sources/ranch_fitment_guide.pdf
+CHEV-S25-25P-76,"Dodge SB 76"" 2500 HD (Square Gas Door)** (2025–present)",Chevrolet,Silverado 2500,,2025,,,,,76.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+CHEV-S25-19-24-QC-64,Dodge SB 6’4” 2500 HD Quad Cab - Classic (2019–2024),Chevrolet,Silverado 2500,,2019,2024,Quad Cab,,,76,,,,,,,,,,,none,,False,Standard,"Body (Round Gas Door)* w/o 3rd
+Brake Light Camera",data/sources/ranch_fitment_guide.pdf
+CHEV-S25-19-24-81,"Dodge LB 8'1"" 2500 HD Classic Body (Round (2019–2024)",Chevrolet,Silverado 2500,,2019,2024,,,,97,,,,,,,,,,,none,,False,Standard,"Gas Door)* w/o 3rd Brake
+Light Camera",data/sources/ranch_fitment_guide.pdf
+RAM-R15-09-18-57,"Dodge SB 5'7"" Crew w/o (2009–2018)",Ram,1500,,2009,2018,,,,67,,,,,,,,,,,none,,False,Standard,3rd Brake Light Camera,data/sources/ranch_fitment_guide.pdf
+RAM-R25-09-18-QC-64,"Dodge SB 6'4"" Quad (09 HD's=old body) (2009–2018)",Ram,2500,,2009,2018,Quad Cab,,,76,,,,,,,,,,,none,,False,Standard,w/o 3rd Brake Light Camera,data/sources/ranch_fitment_guide.pdf
+RAM-R25-09-18-CC-64,"Dodge SB 6'4"" Crew (09 HD's=old body) (2009–2018)",Ram,2500,,2009,2018,Crew Cab,,,76,,,,,,,,,,,none,,False,Standard,w/o 3rd Brake Light Camera,data/sources/ranch_fitment_guide.pdf
+RAM-R25-09-18-QC-81,"Dodge LB 8'1"" Quad (09 HD's=old body) (2009–2018)",Ram,2500,,2009,2018,Quad Cab,,,97,,,,,,,,,,,none,,False,Standard,w/o 3rd Brake Light Camera,data/sources/ranch_fitment_guide.pdf
+RAM-R15-02-08-QC-SHORTB,Dodge SB/Quad (2002–2008),Ram,1500,,2002,2008,Quad Cab,,,,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+TOY-TUN-22P-CM-66,"Toyota Tundra 66"" CrewMax (2022–present)",Toyota,Tundra,,2022,,CrewMax,,,66.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+TOY-TUN-22P-DC-78,"Toyota Tundra 78"" DC (2022–present)",Toyota,Tundra,,2022,,Double Cab,,,78.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+TOY-TUN-14-21-CM-68,"Toyota Tundra 68""CrewMax (2014–2021)",Toyota,Tundra,,2014,2021,CrewMax,,,68.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+TOY-TUN-14-21-DC-79,"Toyota Tundra DC 79"" (2014–2021)",Toyota,Tundra,,2014,2021,Double Cab,,,79.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+TOY-TUN-07-13-CM-55,Toyota Tundra CrewMax (2007–2013),Toyota,Tundra,,2007,2013,CrewMax,,,65,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+TOY-TUN-07-13-DC-81,"Toyota Tundra DC 81"" (2007–2013)",Toyota,Tundra,,2007,2013,Double Cab,,,81.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+TOY-TUN-07-13-DC-100,Toyota Tundra DC LB (2007–2013),Toyota,Tundra,,2007,2013,Double Cab,,,100.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+TOY-TAC-24P-DC-60,"Toyota Tacoma DBL CAB 60"" (2024–present)",Toyota,Tacoma,,2024,,Double Cab,,,60.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+TOY-TAC-24P-AC-74,"Toyota Tacoma Access Cab 74"" (2024–present)",Toyota,Tacoma,,2024,,Access Cab,,,74.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+TOY-TAC-16-23-DC-60,"Toyota Tacoma DBL CAB 60"" (2016–2023)",Toyota,Tacoma,,2016,2023,Double Cab,,,60.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+TOY-TAC-16-23-AC-74,"Toyota Tacoma Access Cab 74"" (2016–2023)",Toyota,Tacoma,,2016,2023,Access Cab,,,74.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+TOY-TAC-16-23-DC-74,"Toyota Tacoma DBL CAB 74"" (2016–2023)",Toyota,Tacoma,,2016,2023,Double Cab,,,74.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+TOY-TAC-05-15-DC-64,Toyota Tacoma 4-Dr (Double Cab) (2005–2015),Toyota,Tacoma,,2005,2015,Double Cab,,,64.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+TOY-TAC-05-15-DC-735,Toyota Tacoma SB XC (2005–2015),Toyota,Tacoma,,2005,2015,Double Cab,,,73.5,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+NIS-FRONT-22P-59,Nissan Frontier Crew (2022–present),Nissan,Frontier,,2022,,,,,59.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+NIS-FRONT-22P-73,Nissan Frontier SB (2022–present),Nissan,Frontier,,2022,,,,,73.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+NIS-FRONT-13-21-58,Nissan Frontier Crew (2013–2021),Nissan,Frontier,,2013,2021,,,,58.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+NIS-FRONT-13-21-CC-73,Nissan Frontier SB/SBXC/CC (2013–2021),Nissan,Frontier,,2013,2021,Crew Cab,,,73.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+NIS-FRONT-05-12-58,Nissan Crew Frontier (2005–2012),Nissan,Frontier,,2005,2012,,,,58.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+NIS-FRONT-05-12-CC-73,Nissan Frontier SB/SBXC/CC (2005–2012),Nissan,Frontier,,2005,2012,Crew Cab,,,73.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf
+JEEP-GLAD-20P-60,Gladiator (Hard Top Only) (2020–present),Jeep,Gladiator,,2020,,,,,60.0,,,,,,,,,,,none,,False,Standard,,data/sources/ranch_fitment_guide.pdf

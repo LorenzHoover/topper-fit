@@ -29,3 +29,8 @@ CREATE TABLE truck_models (
 -- Primary lookup path: user enters year + make + model, we resolve to platform_id.
 CREATE INDEX idx_truck_models_ymm ON truck_models (year, make, model);
 CREATE INDEX idx_truck_models_platform ON truck_models (platform_id);
+
+-- RLS: public read only. Writes require service_role key (Python loader, admin).
+ALTER TABLE truck_models ENABLE ROW LEVEL SECURITY;
+CREATE POLICY "public can read truck_models"
+  ON truck_models FOR SELECT USING (true);
