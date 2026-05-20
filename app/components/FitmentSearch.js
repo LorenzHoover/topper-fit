@@ -27,7 +27,32 @@ function confidenceLabel(score) {
   return               { text: 'Unknown', color: '#6b7280' }
 }
 
-const WRAP_TYPE_LABELS = { W: 'Wraps over rails', X: 'Inside rails', U: 'Universal' }
+const WRAP_TYPE_LABELS = {
+  W: 'Wraps over rails',
+  X: 'Inside rails',
+  U: 'Universal (≈ Wraps over rails)',
+}
+
+// Group platforms by rounded bed length so 12 chips don't appear for the same size.
+// Each group shows its cab styles joined by " / " and the bed length in inches.
+function groupPlatforms(platforms) {
+  const groups = new Map()
+  for (const p of platforms) {
+    const bedLen = p.bed_length_rail_inches || p.bed_length_floor_inches
+    const key = bedLen ? String(Math.round(bedLen)) : 'unknown'
+    if (!groups.has(key)) groups.set(key, { bedLen, cabs: new Set() })
+    const g = groups.get(key)
+    if (p.cab_style) g.cabs.add(p.cab_style)
+  }
+  return Array.from(groups.entries())
+    .sort(([a], [b]) => a === 'unknown' ? 1 : b === 'unknown' ? -1 : Number(a) - Number(b))
+    .map(([key, { bedLen, cabs }]) => {
+      const cabStr  = Array.from(cabs).join(' / ')
+      const bedStr  = bedLen ? `${Math.round(bedLen)}"` : null
+      const label   = [cabStr || null, bedStr].filter(Boolean).join(' — ')
+      return { key, label: label || 'Various' }
+    })
+}
 
 export default function FitmentSearch() {
   // useState(initialValue) returns [currentValue, setterFunction].
@@ -169,15 +194,20 @@ export default function FitmentSearch() {
       {/* ── Results ── */}
       {results && results.fitments.length > 0 && (
         <div>
-          {/* Platform(s) matched */}
-          <div style={{ marginBottom: '1rem', fontSize: '0.875rem', color: '#374151' }}>
-            Matched {results.platforms_matched.length} bed configuration{results.platforms_matched.length !== 1 ? 's' : ''}:
-            {results.platforms_matched.map(p => (
-              <span key={p.platform_id} style={{ marginLeft: '0.5rem', background: '#e0f2fe', color: '#0369a1', borderRadius: 4, padding: '2px 8px' }}>
-                {p.cab_style || p.model_family} {p.bed_length_rail_inches ? `${p.bed_length_rail_inches}"` : ''} {p.tailgate_variant !== 'Standard' ? `(${p.tailgate_variant})` : ''}
-              </span>
-            ))}
-          </div>
+          {/* Platform(s) matched — grouped by bed size */}
+          {(() => {
+            const groups = groupPlatforms(results.platforms_matched)
+            return (
+              <div style={{ marginBottom: '1rem', fontSize: '0.875rem', color: '#374151' }}>
+                Matched {groups.length} bed size{groups.length !== 1 ? 's' : ''}:
+                {groups.map(g => (
+                  <span key={g.key} style={{ marginLeft: '0.5rem', background: '#e0f2fe', color: '#0369a1', borderRadius: 4, padding: '2px 8px' }}>
+                    {g.label}
+                  </span>
+                ))}
+              </div>
+            )
+          })()}
 
           <p style={{ marginBottom: '0.75rem', color: '#111827' }}>
             <strong>{results.fitments.length} topper{results.fitments.length !== 1 ? 's' : ''} found</strong> for your {results.query.year} {results.query.make} {results.query.model}
@@ -210,7 +240,7 @@ export default function FitmentSearch() {
                     </td>
                     <td style={tdStyle}>
                       <span style={{ fontSize: '0.8rem', background: '#f3f4f6', borderRadius: 4, padding: '2px 6px' }}>
-                        {WRAP_TYPE_LABELS[f.wrap_type] || f.wrap_type}
+                        {WRAP_TYPE_LABELS[f.wrap_type] || f.wrap_type || 'Unknown'}
                       </span>
                     </td>
                     <td style={{ ...tdStyle, color: '#4b5563', fontSize: '0.8rem' }}>

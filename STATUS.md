@@ -1,13 +1,13 @@
 # FitMyTopper — Project Status
 
-> This file is updated at the end of every session. It's the first thing to read when resuming.
+> This file is updated at the end of every session. Read this first when resuming.
 
 ---
 
-## Current state: Pre-scaffold — awaiting clarifying answers
+## Current state: MVP pipeline complete — data research phase
 
 **Last updated:** 2026-05-18  
-**Last session:** Session 1 — project context ingested, memory initialized, clarifying questions posed
+**Last session:** Session 1 (full day) — full pipeline built end-to-end, Ranch data live
 
 ---
 
@@ -15,80 +15,125 @@
 
 ```
 FitMyTopper/
+  app/
+    api/fitments/route.js     ← GET /api/fitments?year=&make=&model= (live, working)
+    components/
+      FitmentSearch.js        ← search form + results table (Client Component)
+    layout.js                 ← Next.js root layout (unchanged from scaffold)
+    page.js                   ← home page, renders FitmentSearch
+    globals.css               ← base styles (dark mode vars)
+  lib/
+    supabase.js               ← Supabase client (browser + server variants)
+  supabase/migrations/
+    20260518000001_create_bed_platforms.sql
+    20260518000002_create_truck_models.sql
+    20260518000003_create_topper_fitments.sql
   data/
     seed/
-      bed_platforms.csv     ← empty placeholder
-      truck_models.csv      ← empty placeholder
-      topper_fitments.csv   ← empty placeholder
+      bed_platforms.csv       ← 91 rows (Ranch data)
+      truck_models.csv        ← 486 rows (expanded year ranges)
+      topper_fitments.csv     ← 409 rows (Ranch fitments)
     sources/
-      ranch_fitment_guide.pdf   ← Ranch/LTA July 2025 PDF (not yet parsed)
-  STATUS.md                 ← this file
+      ranch_fitment_guide.pdf ← source PDF (July 2025)
+      README.md               ← data source attribution log
+  scripts/
+    parse_ranch_pdf.py        ← PDF → 3 CSVs (Ranch-specific)
+    load_to_supabase.py       ← CSVs → Supabase (generic loader)
+    requirements.txt          ← pdfplumber, supabase
+  .env.local                  ← Supabase keys (gitignored, never committed)
+  .env.example                ← template for keys (committed)
+  STATUS.md                   ← this file
+  README.md                   ← project overview
 ```
 
-No Next.js app yet. No git repo. No Supabase connection.
+---
+
+## Database state (Supabase, live)
+
+| Table | Rows | Source | Notes |
+|-------|------|--------|-------|
+| bed_platforms | 91 | Ranch PDF | Dimension fields mostly empty (Ranch doesn't publish specs) |
+| truck_models | 486 | Ranch PDF | One row per year (expanded from ranges like "19+") |
+| topper_fitments | 409 | Ranch PDF | Ranch brand only; all confidence=100 (OEM) |
+
+RLS enabled on all tables: public SELECT, no public writes.
 
 ---
 
 ## Session log
 
-### Session 1 — 2026-05-18
-- Ingested full project brief
-- Set up Claude memory system (user profile, data model, sources, session log)
-- Created this STATUS.md
-- Posed clarifying questions (see below)
-- **Blocked:** waiting on answers + Supabase keys + GitHub URL
+### Session 1 — 2026-05-18 (full day)
+**Completed:**
+- [x] Scaffolded Next.js 16 (App Router, JavaScript)
+- [x] Wired Supabase JS client (browser + server variants in lib/supabase.js)
+- [x] Created .env.local with keys; .env.example committed
+- [x] Wrote SQL migrations for 3 tables (bed_platforms, truck_models, topper_fitments)
+- [x] Ran migrations in Supabase SQL editor + added RLS policies
+- [x] Wrote Ranch PDF parser (scripts/parse_ranch_pdf.py) → 91/486/409 rows
+- [x] Wrote Supabase loader (scripts/load_to_supabase.py) → data live in DB
+- [x] Built API route: GET /api/fitments?year=&make=&model= (optional &cab= &bed=)
+- [x] Built search UI stub with results table, confidence labels, fit notes
+- [x] Fixed dark mode text color inheritance issue
+- [x] Pushed all commits to GitHub
 
 ---
 
-## Clarifying questions (open)
+## Known gaps / next improvements
 
-These need answers before scaffolding:
+### Data gaps
+- Ranch covers only 11 topper series (Ranch brand only). Need: LEER, ARE, SnugTop, ATC, Century
+- bed_platforms has empty dimension fields (bed length in rail inches from Ranch is unreliable; need manufacturer spec sheets or personal measurements)
+- 1st gen Toyota Tundra (2000–2006) not in Ranch data — user's personal truck
+- Cab style missing on some Ford F-150 platforms (Ranch doesn't always specify)
+- No truck trim data (Ranch chart doesn't go to that level)
+- VIN decode not implemented yet
 
-1. **Node version / package manager:** Do you have Node.js installed? (`node -v`) Which package manager do you prefer — `npm`, `yarn`, or `pnpm`? (I'd suggest `npm` to keep it simple.)
+### UI improvements
+- Model field is free-text — easy to mistype. Next: cascade dropdowns from DB
+- No handling for "no Ranch coverage → suggest other brands" message
+- No pagination (fine at current data scale)
+- No mobile layout consideration yet
 
-2. **Next.js app location:** Should the Next.js app live at the repo root, or in a subfolder like `app/` or `web/`? Given your Python data work also lives in this repo, a subfolder like `web/` keeps things clean — but root is more standard for pure Next.js deploys. My recommendation: **root of repo**, with `data/` and `scripts/` as siblings.
+### Upcoming milestones
 
-3. **Supabase project:** Have you created the Supabase project yet? When you do, I'll need: Project URL, anon (public) key, and service_role (secret) key. The service_role key goes in a `.env.local` file that is gitignored — never committed.
-
-4. **GitHub repo:** What's the exact repo name you're creating? (`topper-fit` or something else?) I'll set the remote after `git init`.
-
-5. **Python environment:** For the PDF parser and loader scripts, do you have a preferred Python version / virtualenv tool? (`python3 --version`, and do you use `venv`, `pyenv`, `conda`, or just system Python?)
-
-6. **Ranch PDF parsing:** The PDF is at `data/sources/ranch_fitment_guide.pdf`. Do you know if it's a text-layer PDF (selectable text) or a scanned image? Run: `pdfinfo data/sources/ranch_fitment_guide.pdf` if you have poppler installed, or just try selecting text in Preview. This determines whether we use `pdfplumber` (text layer) or need `pytesseract` (OCR).
-
----
-
-## Upcoming milestones
-
-| # | Milestone | Status |
-|---|-----------|--------|
-| 1 | Scaffold Next.js app + git init | Blocked on Q1–Q4 |
-| 2 | Push to GitHub | Blocked on Q4 |
-| 3 | Supabase connection + env vars | Blocked on Q3 |
-| 4 | SQL migrations (3 tables) | Ready to write |
-| 5 | Python Ranch PDF parser → CSVs | Blocked on Q5–Q6 |
-| 6 | Python loader → Supabase | Blocked on Q3, Q5 |
-| 7 | API route: lookup by year/make/model | After migrations |
-| 8 | Basic UI stub | After API route |
+| # | Milestone | Blocked on |
+|---|-----------|-----------|
+| 1 | Add LEER fitment data | Find LEER PDF (Wayback Machine research) |
+| 2 | Add ARE fitment data | Find ARE PDF |
+| 3 | Cascade dropdowns in UI | Need distinct makes/models query from DB |
+| 4 | VIN decode flow | Design + NHTSA API integration |
+| 5 | Add truck dimensions | Spec sheet sources (not in Ranch PDF) |
+| 6 | Deploy to Vercel | Anytime — codebase is deploy-ready |
 
 ---
 
-## Data sources
+## Data sources status
 
-| Source | File | Status | Notes |
-|--------|------|--------|-------|
-| Ranch/LTA fitment guide (Jul 2025) | data/sources/ranch_fitment_guide.pdf | Unparsed | ~70 platforms, 11 series, W/X/U typology |
-| Personal 2003 Tundra AC measurements | — | Partial | Missing rail XS dims + stake pocket count + rail-top bed length |
-| tundras.com forum thread | URL in memory | Noted | AC/DC not interchangeable; SnugTop 01-06 AC confirmed |
+| Source | Status | Rows loaded |
+|--------|--------|-------------|
+| Ranch/LTA July 2025 PDF | ✅ Parsed & loaded | 409 fitments |
+| LEER fitment guide | 🔍 Hunting (Wayback Machine) | — |
+| ARE fitment guide | 🔍 Hunting (Wayback Machine) | — |
+| SnugTop fitment guide | 🔍 Not yet started | — |
+| Personal 2003 Tundra measurements | ⏳ Partial (dimensions noted) | Not yet loaded |
 
-**Manufacturer research priority** (for Wayback Machine hunting):
-1. LEER, 2. ARE, 3. SnugTop, 4. ATC, 5. Century/Jason
+## Manufacturer research search strategies
 
----
+```
+# LEER
+site:web.archive.org/web/* leertrucks.com fitment
+site:web.archive.org/web/* leertrucks.com "application guide"
+"leer" "fitment guide" filetype:pdf
 
-## Known schema decisions
+# ARE
+site:web.archive.org/web/* aretruck.com fit-guide
+"A.R.E." "application guide" filetype:pdf site:archive.org
 
-- Toppers keyed by `(brand, model_series, production_year_range)` — not just brand+model
-- `confidence` (0–100) + `fit_notes` are required; binary fits/doesn't-fit is not enough
-- VIN decode doesn't reliably return bed length or cab style — plan for UI follow-up questions
-- Ranch PDF does NOT cover 1st gen Tundra (00-06) — important gap for personal test case
+# SnugTop
+site:web.archive.org/web/* snugtop.com fit
+"snugtop" "fitment" filetype:pdf
+
+# General
+"camper shell" "fitment guide" filetype:pdf site:archive.org
+"topper" "application guide" filetype:pdf site:archive.org
+```

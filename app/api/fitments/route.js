@@ -66,7 +66,7 @@ export async function GET(request) {
     .from('bed_platforms')
     .select(`
       platform_id, nickname, make, model_family, cab_style,
-      bed_length_rail_inches, tailgate_variant,
+      bed_length_rail_inches, bed_length_floor_inches, tailgate_variant,
       production_year_start, production_year_end
     `)
     .in('platform_id', platformIds)

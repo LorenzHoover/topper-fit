@@ -37,6 +37,12 @@ yarn-error.log*
 # vercel
 .vercel
 
+# Nested repo artifact — empty folder with its own .git, causes "git add ." to fail
+topper-fit/
+
+# Claude memory — local only
+.claude/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
