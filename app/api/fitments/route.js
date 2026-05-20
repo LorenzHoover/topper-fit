@@ -92,9 +92,28 @@ export async function GET(request) {
     return NextResponse.json({ error: fitError.message }, { status: 500 })
   }
 
+  // Deduplicate: same brand + series + wrap_type can match via multiple platform IDs
+  // when a truck spans overlapping year ranges (e.g. "Ranger 2019+" and "Ranger 1993+").
+  // Keep only the highest-confidence version of each combo — no information is lost
+  // because both rows say the same thing (the topper fits this truck).
+  const seen = new Map()
+  for (const f of (fitments || [])) {
+    const key = `${f.topper_brand}|${f.topper_model_series}|${f.wrap_type}`
+    const existing = seen.get(key)
+    if (!existing || f.confidence > existing.confidence) {
+      seen.set(key, f)
+    }
+  }
+  const dedupedFitments = Array.from(seen.values())
+    .sort((a, b) =>
+      b.confidence - a.confidence ||
+      a.topper_brand.localeCompare(b.topper_brand) ||
+      a.topper_model_series.localeCompare(b.topper_model_series)
+    )
+
   return NextResponse.json({
     query: { year: yearInt, make, model, cab: cab || null, bed: bed || null },
     platforms_matched: platforms || [],
-    fitments: fitments || [],
+    fitments: dedupedFitments,
   })
 }

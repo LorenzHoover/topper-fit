@@ -1,0 +1,50 @@
+platform_id,nickname,make,model_family,generation,production_year_start,production_year_end,cab_style,bed_length_class,bed_length_floor_inches,bed_length_rail_inches,bed_width_at_rail_inches,bed_width_outer_inches,bed_depth_inches,rail_profile_shape,rail_cross_section_width_inches,rail_cross_section_height_inches,stake_pockets_present,stake_pocket_count_per_side,stake_pocket_length_inches,stake_pocket_width_inches,utility_track_system,cab_back_generation,cab_camera_present,tailgate_variant,notes,source_urls
+CHEV-S15-19P-CC-70,Chevy Silverado 1500 Standard Tailgate (2019–present),Chevrolet,Silverado 1500,,2019,,Crew Cab,,,70.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+CHEV-S15-19P-795,Chevy Silverado 1500 Standard Tailgate (2019–present),Chevrolet,Silverado 1500,,2019,,,,,79.5,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+CHEV-S15-19P-RC-98,Chevy Silverado 1500 LD (Std Cab Only) (2019–present),Chevrolet,Silverado 1500,,2019,,Regular Cab,,,98.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+CHEV-S25-20P-82-MF,Chevy Silverado 2500 HD MultiFlex Tailgate (2020–present),Chevrolet,Silverado 2500,,2020,,,,,82.0,,,,,,,,,,,none,,,MultiFlex,,data/sources/atc_2022-04.pdf
+CHEV-S25-20P-CC-98-MF,Chevy Silverado 2500 HD MultiFlex Crew Cab (2020–present),Chevrolet,Silverado 2500,,2020,,Crew Cab,,,98.0,,,,,,,,,,,none,,,MultiFlex,,data/sources/atc_2022-04.pdf
+GMC-SRA-19P-70-MP,GMC Sierra 1500 MultiPro Tai lgate (2019–present),GMC,Sierra 1500,,2019,,,,,70.0,,,,,,,,,,,none,,,MultiPro,,data/sources/atc_2022-04.pdf
+GMC-SRA-19P-795-MP,GMC Sierra 1500 MultiPro Tai lgate (2019–present),GMC,Sierra 1500,,2019,,,,,79.5,,,,,,,,,,,none,,,MultiPro,,data/sources/atc_2022-04.pdf
+GMC-SRA-19P-RC-98-MP,GMC Sierra MultiPro Tailgate (Reg Cab Only) (2019–present),GMC,Sierra 1500,,2019,,Regular Cab,,,98.0,,,,,,,,,,,none,,,MultiPro,,data/sources/atc_2022-04.pdf
+GMC-SRA25-20P-82,GMC Sierra 2500 HD MultiP ro Tailgate (2020–present),GMC,Sierra 2500,,2020,,,,,82.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+GMC-SRA25-20P-98-MP,GMC Sierra 2500 HD MultiPro Tailgate (2020–present),GMC,Sierra 2500,,2020,,,,,98.0,,,,,,,,,,,none,,,MultiPro,,data/sources/atc_2022-04.pdf
+CHEV-S15-14-18-82,Silverado / Sierra (2019 HD 2500) (2014–2018),Chevrolet,Silverado 1500,,2014,2018,,,,82.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+CHEV-S15-07-13-72,Chevy Silverado (2007–2013),Chevrolet,Silverado 1500,,2007,2013,,,,72.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+CHEV-S25-07-14-82,Chevy 2500 HD C rew (2014 HD 2500) (2007–2014),Chevrolet,Silverado 2500,,2007,2014,,,,82.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+GMC-SRA-07-13-72,GMC Sierra (2007–2013),GMC,Sierra 1500,,2007,2013,,,,72.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+GMC-SRA25-07-14-82,GMC 2500 H D Crew (2014 HD 2500) (2007–2014),GMC,Sierra 2500,,2007,2014,,,,82.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+CHEV-S15-04-06-CC-SSBCC,"Chev/GMC 5' 8"" Crew Cab (2004–2006)",Chevrolet,Silverado 1500,,2004,2006,Crew Cab,,,,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+CHEV-S15-99-06-LONGBE,Chev/GMC LB/LBXC (1999–2006),Chevrolet,Silverado 1500,,1999,2006,,,,,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+CHEV-COL-15P-79,Chev/GMC Colorado /Canyon (2015–present),Chevrolet,Colorado,,2015,,,,,79.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+CHEV-CAN-04-14-6,Chev/GMC Color ado/Canyon Crew (2004–2014),Chevrolet,Canyon,,2004,2014,,,,72.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+RAM-R15-19P-67,"Dodge SB 67"" Crew w /o 3rd Brake Light Camera (2019–present)",Ram,1500,,2019,,,,,67.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+RAM-R25-22-76,"Dodge SB 76"" 2500 HD (Square Gas Door)** (2022–2022)",Ram,2500,,2022,2022,,,,76.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+RAM-R25-19-22-81,"Dodge SB 8'1"" 2500 HD Classic Body (Round (2019–2022)",Ram,2500,,2019,2022,,,,97,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+RAM-R25-09-18-QC-64,"Dodge SB 6'4"" Quad (09 HD's=old body) (2009–2018)",Ram,2500,,2009,2018,Quad Cab,,,76,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+RAM-R25-09-18-QC-81,"Dodge SB 8'1"" Quad (09 HD's=old body) (2009–2018)",Ram,2500,,2009,2018,Quad Cab,,,97,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+RAM-R15-02-08-QC-LONGBE,Dodge LB/Quad (2002–2008),Ram,1500,,2002,2008,Quad Cab,,,,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+DDG-DAK-05P-AC-6,Dakota SB/SBXC (2005–present),Dodge,Dakota,,2005,,Access Cab,,,72.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+FORD-F150-21P-56,Ford F150 (2021–present),Ford,F-150,,2021,,,,,66,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+FORD-F150-21P-8,Ford F150 LB (2021–present),Ford,F-150,,2021,,,,,,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+FORD-F150-15-20-AC-79,"Ford F150 SB/SBXC 79"" (2015–2020)",Ford,F-150,,2015,2020,Access Cab,,,79.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+FORD-F150-09-14-SC-56,Ford F150 Super Crew (2009–2014),Ford,F-150,,2009,2014,SuperCrew,,,66,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+FORD-F150-09-14-81,Ford F150 LB/LBXC (2009–2014),Ford,F-150,,2009,2014,,,,97,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+FORD-F150-04-08-AC-65,Ford F150 SB/SBXC (2004–2008),Ford,F-150,,2004,2008,Access Cab,,,77,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+FORD-F150-00-03-SC-70,Ford F150 Super Crew (Heritage) (2000–2003),Ford,F-150,,2000,2003,SuperCrew,,,70.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+FORD-F250-17P-80,"Ford F250 Super Duty 80"" (2017–present)",Ford,F-250,,2017,,,,,80.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+FORD-F250-08-16-SHORTB,Ford F250 SB SD Tailgate Step (2008–2016),Ford,F-250,,2008,2016,,,,,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+FORD-F250-99-07-SHORTB,Ford F250 HD/SD SB (1999–2007),Ford,F-250,,1999,2007,,,,,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+FORD-RNG-19P-61,Ford Ranger (2019–present),Ford,Ranger,,2019,,,,,61.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+FORD-RNG-93P-AC-SHORTB,Ranger SB/SBXC (1993–present),Ford,Ranger,,1993,,Access Cab,,,,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+NIS-TTN-17P-785,Nissan Titan/Nissan Titan XD (2017–present),Nissan,Titan,,2017,,,,,78.5,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+NIS-TTN-04-12-55CREW,Nissan Titan Crew (2004–2012),Nissan,Titan,,2004,2012,,,,,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+NIS-FRONT-13P-AC-73,Nissan Frontier SB/SB XC (2013–present),Nissan,Frontier,,2013,,Access Cab,,,73.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+NIS-FRONT-05P-AC-73,Nissan Frontier SB/SBXC (2005–present),Nissan,Frontier,,2005,,Access Cab,,,73.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+TOY-TUN-14-21-CM-68,"Toyota Tundra 68""Crew Max (2014–2021)",Toyota,Tundra,,2014,2021,CrewMax,,,68.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+TOY-TUN-14-21-DC-98,"Toyota Tundra 98""LB (2014–2021)",Toyota,Tundra,,2014,2021,Double Cab,,,98.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+TOY-TUN-07-13-DC-81,"Toyota Tundra DC 81"" (2007–2013)",Toyota,Tundra,,2007,2013,Double Cab,,,81.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+TOY-TUN-04-06-DC-DC77,Toyota Tundra DC (2004–2006),Toyota,Tundra,,2004,2006,Double Cab,,,,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+TOY-TAC-16P-DC-60,"Toyota Tacoma DBL CAB 60"" (2016–present)",Toyota,Tacoma,,2016,,Double Cab,,,60.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+TOY-TAC-16P-DC-74,"Toyota Tacoma DBL CAB 74"" (2016–present)",Toyota,Tacoma,,2016,,Double Cab,,,74.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf
+TOY-TAC-05-15-79,Toyota Tacoma SB REG (2005–2015),Toyota,Tacoma,,2005,2015,,,,79.0,,,,,,,,,,,none,,,Standard,,data/sources/atc_2022-04.pdf

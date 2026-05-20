@@ -1,0 +1,864 @@
+year,make,model,trim,cab_style,bed_length_label,platform_id,vin_decodable_trim,vin_decodable_bed,notes,source_urls
+2024,Chevrolet,Silverado EV,,,,CHEV-SEV-24P,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2025,Chevrolet,Silverado EV,,,,CHEV-SEV-24P,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Chevrolet,Silverado 1500,,Extended Cab,Short Bed,CHEV-S15-19-24-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Chevrolet,Silverado 1500,,Extended Cab,Short Bed,CHEV-S15-19-24-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Chevrolet,Silverado 1500,,Extended Cab,Short Bed,CHEV-S15-19-24-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Chevrolet,Silverado 1500,,Extended Cab,Short Bed,CHEV-S15-19-24-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Chevrolet,Silverado 1500,,Extended Cab,Short Bed,CHEV-S15-19-24-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Chevrolet,Silverado 1500,,Extended Cab,Short Bed,CHEV-S15-19-24-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-19-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-19-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-19-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-19-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-19-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-19-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-19-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-19-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-19-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-19-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-19-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-19-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Chevrolet,Silverado 2500,,Crew Cab,Short Bed,CHEV-S25-20-24-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Chevrolet,Silverado 2500,,Crew Cab,Short Bed,CHEV-S25-20-24-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Chevrolet,Silverado 2500,,Crew Cab,Short Bed,CHEV-S25-20-24-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Chevrolet,Silverado 2500,,Crew Cab,Short Bed,CHEV-S25-20-24-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Chevrolet,Silverado 2500,,Crew Cab,Short Bed,CHEV-S25-20-24-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Chevrolet,Silverado 2500,,Regular Cab,Short Bed,CHEV-S25-20-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Chevrolet,Silverado 2500,,Regular Cab,Short Bed,CHEV-S25-20-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Chevrolet,Silverado 2500,,Regular Cab,Short Bed,CHEV-S25-20-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Chevrolet,Silverado 2500,,Regular Cab,Short Bed,CHEV-S25-20-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Chevrolet,Silverado 2500,,Regular Cab,Short Bed,CHEV-S25-20-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Chevrolet,Silverado 2500,,Regular Cab,Long Bed,CHEV-S25-20-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Chevrolet,Silverado 2500,,Regular Cab,Long Bed,CHEV-S25-20-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Chevrolet,Silverado 2500,,Regular Cab,Long Bed,CHEV-S25-20-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Chevrolet,Silverado 2500,,Regular Cab,Long Bed,CHEV-S25-20-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Chevrolet,Silverado 2500,,Regular Cab,Long Bed,CHEV-S25-20-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Chevrolet,Silverado 2500,,Double Cab,Short Bed,CHEV-S25-20-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Chevrolet,Silverado 2500,,Double Cab,Short Bed,CHEV-S25-20-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Chevrolet,Silverado 2500,,Double Cab,Short Bed,CHEV-S25-20-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Chevrolet,Silverado 2500,,Double Cab,Short Bed,CHEV-S25-20-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Chevrolet,Silverado 2500,,Double Cab,Short Bed,CHEV-S25-20-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-14-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-14-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-14-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-14-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-14-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-14-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-14-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-14-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-14-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-14-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-14-18-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-14-18-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-14-18-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-14-18-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-14-18-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Chevrolet,Silverado 1500,,Double Cab,Short Bed,CHEV-S15-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Chevrolet,Silverado 1500,,Double Cab,Short Bed,CHEV-S15-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Chevrolet,Silverado 1500,,Double Cab,Short Bed,CHEV-S15-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Chevrolet,Silverado 1500,,Double Cab,Short Bed,CHEV-S15-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Chevrolet,Silverado 1500,,Double Cab,Short Bed,CHEV-S15-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Chevrolet,Silverado 1500,,Double Cab,Short Bed,CHEV-S15-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Chevrolet,Silverado 1500,,Double Cab,Short Bed,CHEV-S15-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-07-13-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-07-13-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-07-13-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-07-13-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-07-13-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-07-13-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-07-13-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Chevrolet,Silverado 1500,,Double Cab,Long Bed,CHEV-S15-07-13-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Chevrolet,Silverado 1500,,Double Cab,Long Bed,CHEV-S15-07-13-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Chevrolet,Silverado 1500,,Double Cab,Long Bed,CHEV-S15-07-13-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Chevrolet,Silverado 1500,,Double Cab,Long Bed,CHEV-S15-07-13-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Chevrolet,Silverado 1500,,Double Cab,Long Bed,CHEV-S15-07-13-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Chevrolet,Silverado 1500,,Double Cab,Long Bed,CHEV-S15-07-13-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Chevrolet,Silverado 1500,,Double Cab,Long Bed,CHEV-S15-07-13-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-04-06-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-04-06-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Chevrolet,Silverado 1500,,Double Cab,V-Bed,CHEV-S15-04-06-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2001,Chevrolet,Silverado 1500,,Double Cab,Short Bed,CHEV-S15-01-06-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2002,Chevrolet,Silverado 1500,,Double Cab,Short Bed,CHEV-S15-01-06-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2003,Chevrolet,Silverado 1500,,Double Cab,Short Bed,CHEV-S15-01-06-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Chevrolet,Silverado 1500,,Double Cab,Short Bed,CHEV-S15-01-06-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Chevrolet,Silverado 1500,,Double Cab,Short Bed,CHEV-S15-01-06-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Chevrolet,Silverado 1500,,Double Cab,Short Bed,CHEV-S15-01-06-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1999,Chevrolet,Silverado 1500,,Double Cab,Long Bed,CHEV-S15-99-06-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2000,Chevrolet,Silverado 1500,,Double Cab,Long Bed,CHEV-S15-99-06-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2001,Chevrolet,Silverado 1500,,Double Cab,Long Bed,CHEV-S15-99-06-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2002,Chevrolet,Silverado 1500,,Double Cab,Long Bed,CHEV-S15-99-06-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2003,Chevrolet,Silverado 1500,,Double Cab,Long Bed,CHEV-S15-99-06-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Chevrolet,Silverado 1500,,Double Cab,Long Bed,CHEV-S15-99-06-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Chevrolet,Silverado 1500,,Double Cab,Long Bed,CHEV-S15-99-06-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Chevrolet,Silverado 1500,,Double Cab,Long Bed,CHEV-S15-99-06-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2001,Chevrolet,Silverado 2500,,Double Cab,Long Bed,CHEV-S25-01-06-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2002,Chevrolet,Silverado 2500,,Double Cab,Long Bed,CHEV-S25-01-06-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2003,Chevrolet,Silverado 2500,,Double Cab,Long Bed,CHEV-S25-01-06-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Chevrolet,Silverado 2500,,Double Cab,Long Bed,CHEV-S25-01-06-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Chevrolet,Silverado 2500,,Double Cab,Long Bed,CHEV-S25-01-06-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Chevrolet,Silverado 2500,,Double Cab,Long Bed,CHEV-S25-01-06-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1999,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-99-06-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2000,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-99-06-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2001,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-99-06-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2002,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-99-06-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2003,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-99-06-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-99-06-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-99-06-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Chevrolet,Silverado 1500,,Regular Cab,Short Bed,CHEV-S15-99-06-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1999,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-99-06-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2000,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-99-06-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2001,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-99-06-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2002,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-99-06-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2003,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-99-06-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-99-06-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-99-06-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Chevrolet,Silverado 1500,,Regular Cab,Long Bed,CHEV-S15-99-06-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,GMC,Sierra 1500,,Extended Cab,Short Bed,GMC-SRA-19-24-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,GMC,Sierra 1500,,Extended Cab,Short Bed,GMC-SRA-19-24-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,GMC,Sierra 1500,,Extended Cab,Short Bed,GMC-SRA-19-24-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,GMC,Sierra 1500,,Extended Cab,Short Bed,GMC-SRA-19-24-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,GMC,Sierra 1500,,Extended Cab,Short Bed,GMC-SRA-19-24-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,GMC,Sierra 1500,,Extended Cab,Short Bed,GMC-SRA-19-24-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,GMC,Sierra 1500,,Double Cab,V-Bed,GMC-SRA-19-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,GMC,Sierra 1500,,Double Cab,V-Bed,GMC-SRA-19-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,GMC,Sierra 1500,,Double Cab,V-Bed,GMC-SRA-19-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,GMC,Sierra 1500,,Double Cab,V-Bed,GMC-SRA-19-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,GMC,Sierra 1500,,Double Cab,V-Bed,GMC-SRA-19-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,GMC,Sierra 1500,,Double Cab,V-Bed,GMC-SRA-19-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,GMC,Sierra 1500,,Regular Cab,Long Bed,GMC-SRA-19-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,GMC,Sierra 1500,,Regular Cab,Long Bed,GMC-SRA-19-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,GMC,Sierra 1500,,Regular Cab,Long Bed,GMC-SRA-19-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,GMC,Sierra 1500,,Regular Cab,Long Bed,GMC-SRA-19-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,GMC,Sierra 1500,,Regular Cab,Long Bed,GMC-SRA-19-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,GMC,Sierra 1500,,Regular Cab,Long Bed,GMC-SRA-19-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,GMC,Sierra 2500,,Crew Cab,Short Bed,GMC-SRA25-20-24-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,GMC,Sierra 2500,,Crew Cab,Short Bed,GMC-SRA25-20-24-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,GMC,Sierra 2500,,Crew Cab,Short Bed,GMC-SRA25-20-24-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,GMC,Sierra 2500,,Crew Cab,Short Bed,GMC-SRA25-20-24-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,GMC,Sierra 2500,,Crew Cab,Short Bed,GMC-SRA25-20-24-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,GMC,Sierra 2500,,Regular Cab,Short Bed,GMC-SRA25-20-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,GMC,Sierra 2500,,Regular Cab,Short Bed,GMC-SRA25-20-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,GMC,Sierra 2500,,Regular Cab,Short Bed,GMC-SRA25-20-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,GMC,Sierra 2500,,Regular Cab,Short Bed,GMC-SRA25-20-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,GMC,Sierra 2500,,Regular Cab,Short Bed,GMC-SRA25-20-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,GMC,Sierra 2500,,Crew Cab,Long Bed,GMC-SRA25-20-24-CC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,GMC,Sierra 2500,,Crew Cab,Long Bed,GMC-SRA25-20-24-CC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,GMC,Sierra 2500,,Crew Cab,Long Bed,GMC-SRA25-20-24-CC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,GMC,Sierra 2500,,Crew Cab,Long Bed,GMC-SRA25-20-24-CC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,GMC,Sierra 2500,,Crew Cab,Long Bed,GMC-SRA25-20-24-CC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,GMC,Sierra 2500,,Regular Cab,Long Bed,GMC-SRA25-20-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,GMC,Sierra 2500,,Regular Cab,Long Bed,GMC-SRA25-20-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,GMC,Sierra 2500,,Regular Cab,Long Bed,GMC-SRA25-20-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,GMC,Sierra 2500,,Regular Cab,Long Bed,GMC-SRA25-20-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,GMC,Sierra 2500,,Regular Cab,Long Bed,GMC-SRA25-20-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,GMC,Sierra 2500,,Double Cab,Short Bed,GMC-SRA25-20-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,GMC,Sierra 2500,,Double Cab,Short Bed,GMC-SRA25-20-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,GMC,Sierra 2500,,Double Cab,Short Bed,GMC-SRA25-20-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,GMC,Sierra 2500,,Double Cab,Short Bed,GMC-SRA25-20-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,GMC,Sierra 2500,,Double Cab,Short Bed,GMC-SRA25-20-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,GMC,Sierra 1500,,Regular Cab,Short Bed,GMC-SRA-14-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,GMC,Sierra 1500,,Regular Cab,Short Bed,GMC-SRA-14-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,GMC,Sierra 1500,,Regular Cab,Short Bed,GMC-SRA-14-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,GMC,Sierra 1500,,Regular Cab,Short Bed,GMC-SRA-14-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,GMC,Sierra 1500,,Regular Cab,Short Bed,GMC-SRA-14-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,GMC,Sierra 1500,,Double Cab,V-Bed,GMC-SRA-14-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,GMC,Sierra 1500,,Double Cab,V-Bed,GMC-SRA-14-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,GMC,Sierra 1500,,Double Cab,V-Bed,GMC-SRA-14-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,GMC,Sierra 1500,,Double Cab,V-Bed,GMC-SRA-14-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,GMC,Sierra 1500,,Double Cab,V-Bed,GMC-SRA-14-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,GMC,Sierra 1500,,Regular Cab,Long Bed,GMC-SRA-14-18-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,GMC,Sierra 1500,,Regular Cab,Long Bed,GMC-SRA-14-18-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,GMC,Sierra 1500,,Regular Cab,Long Bed,GMC-SRA-14-18-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,GMC,Sierra 1500,,Regular Cab,Long Bed,GMC-SRA-14-18-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,GMC,Sierra 1500,,Regular Cab,Long Bed,GMC-SRA-14-18-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,GMC,Sierra 1500,,Double Cab,Short Bed,GMC-SRA-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,GMC,Sierra 1500,,Double Cab,Short Bed,GMC-SRA-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,GMC,Sierra 1500,,Double Cab,Short Bed,GMC-SRA-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,GMC,Sierra 1500,,Double Cab,Short Bed,GMC-SRA-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,GMC,Sierra 1500,,Double Cab,Short Bed,GMC-SRA-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,GMC,Sierra 1500,,Double Cab,Short Bed,GMC-SRA-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,GMC,Sierra 1500,,Double Cab,Short Bed,GMC-SRA-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,GMC,Sierra 1500,,Regular Cab,Short Bed,GMC-SRA-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,GMC,Sierra 1500,,Regular Cab,Short Bed,GMC-SRA-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,GMC,Sierra 1500,,Regular Cab,Short Bed,GMC-SRA-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,GMC,Sierra 1500,,Regular Cab,Short Bed,GMC-SRA-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,GMC,Sierra 1500,,Regular Cab,Short Bed,GMC-SRA-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,GMC,Sierra 1500,,Regular Cab,Short Bed,GMC-SRA-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,GMC,Sierra 1500,,Regular Cab,Short Bed,GMC-SRA-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,GMC,Sierra 1500,,Double Cab,V-Bed,GMC-SRA-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,GMC,Sierra 1500,,Double Cab,V-Bed,GMC-SRA-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,GMC,Sierra 1500,,Double Cab,V-Bed,GMC-SRA-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,GMC,Sierra 1500,,Double Cab,V-Bed,GMC-SRA-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,GMC,Sierra 1500,,Double Cab,V-Bed,GMC-SRA-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,GMC,Sierra 1500,,Double Cab,V-Bed,GMC-SRA-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,GMC,Sierra 1500,,Double Cab,V-Bed,GMC-SRA-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,GMC,Sierra 1500,,Regular Cab,Long Bed,GMC-SRA-07-13-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,GMC,Sierra 1500,,Regular Cab,Long Bed,GMC-SRA-07-13-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,GMC,Sierra 1500,,Regular Cab,Long Bed,GMC-SRA-07-13-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,GMC,Sierra 1500,,Regular Cab,Long Bed,GMC-SRA-07-13-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,GMC,Sierra 1500,,Regular Cab,Long Bed,GMC-SRA-07-13-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,GMC,Sierra 1500,,Regular Cab,Long Bed,GMC-SRA-07-13-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,GMC,Sierra 1500,,Regular Cab,Long Bed,GMC-SRA-07-13-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,GMC,Sierra 1500,,Double Cab,Long Bed,GMC-SRA-07-13-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,GMC,Sierra 1500,,Double Cab,Long Bed,GMC-SRA-07-13-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,GMC,Sierra 1500,,Double Cab,Long Bed,GMC-SRA-07-13-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,GMC,Sierra 1500,,Double Cab,Long Bed,GMC-SRA-07-13-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,GMC,Sierra 1500,,Double Cab,Long Bed,GMC-SRA-07-13-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,GMC,Sierra 1500,,Double Cab,Long Bed,GMC-SRA-07-13-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,GMC,Sierra 1500,,Double Cab,Long Bed,GMC-SRA-07-13-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Chevrolet,Colorado,,Double Cab,V-Bed,CHEV-COL-23-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Chevrolet,Colorado,,Double Cab,V-Bed,CHEV-COL-23-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Chevrolet,Canyon,,Double Cab,V-Bed,CHEV-CAN-23-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Chevrolet,Canyon,,Double Cab,V-Bed,CHEV-CAN-23-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Chevrolet,Colorado,,Double Cab,V-Bed,CHEV-COL-15-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Chevrolet,Colorado,,Double Cab,V-Bed,CHEV-COL-15-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Chevrolet,Colorado,,Double Cab,V-Bed,CHEV-COL-15-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Chevrolet,Colorado,,Double Cab,V-Bed,CHEV-COL-15-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Chevrolet,Colorado,,Double Cab,V-Bed,CHEV-COL-15-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Chevrolet,Colorado,,Double Cab,V-Bed,CHEV-COL-15-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Chevrolet,Colorado,,Double Cab,V-Bed,CHEV-COL-15-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,GMC,Canyon,,Double Cab,V-Bed,CHEV-COL-15-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,GMC,Canyon,,Double Cab,V-Bed,CHEV-COL-15-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,GMC,Canyon,,Double Cab,V-Bed,CHEV-COL-15-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,GMC,Canyon,,Double Cab,V-Bed,CHEV-COL-15-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,GMC,Canyon,,Double Cab,V-Bed,CHEV-COL-15-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,GMC,Canyon,,Double Cab,V-Bed,CHEV-COL-15-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,GMC,Canyon,,Double Cab,V-Bed,CHEV-COL-15-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Chevrolet,Colorado,,Double Cab,Short Bed,CHEV-COL-15-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Chevrolet,Colorado,,Double Cab,Short Bed,CHEV-COL-15-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Chevrolet,Colorado,,Double Cab,Short Bed,CHEV-COL-15-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Chevrolet,Colorado,,Double Cab,Short Bed,CHEV-COL-15-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Chevrolet,Colorado,,Double Cab,Short Bed,CHEV-COL-15-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Chevrolet,Colorado,,Double Cab,Short Bed,CHEV-COL-15-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Chevrolet,Colorado,,Double Cab,Short Bed,CHEV-COL-15-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,GMC,Canyon,,Double Cab,Short Bed,CHEV-COL-15-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,GMC,Canyon,,Double Cab,Short Bed,CHEV-COL-15-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,GMC,Canyon,,Double Cab,Short Bed,CHEV-COL-15-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,GMC,Canyon,,Double Cab,Short Bed,CHEV-COL-15-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,GMC,Canyon,,Double Cab,Short Bed,CHEV-COL-15-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,GMC,Canyon,,Double Cab,Short Bed,CHEV-COL-15-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,GMC,Canyon,,Double Cab,Short Bed,CHEV-COL-15-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Chevrolet,Colorado,,Double Cab,V-Bed,CHEV-COL-04-12-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Chevrolet,Colorado,,Double Cab,V-Bed,CHEV-COL-04-12-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Chevrolet,Colorado,,Double Cab,V-Bed,CHEV-COL-04-12-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Chevrolet,Colorado,,Double Cab,V-Bed,CHEV-COL-04-12-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Chevrolet,Colorado,,Double Cab,V-Bed,CHEV-COL-04-12-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Chevrolet,Colorado,,Double Cab,V-Bed,CHEV-COL-04-12-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Chevrolet,Colorado,,Double Cab,V-Bed,CHEV-COL-04-12-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Chevrolet,Colorado,,Double Cab,V-Bed,CHEV-COL-04-12-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Chevrolet,Colorado,,Double Cab,V-Bed,CHEV-COL-04-12-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Chevrolet,Colorado,,Regular Cab,Short Bed,CHEV-COL-04-12-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Chevrolet,Colorado,,Regular Cab,Short Bed,CHEV-COL-04-12-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Chevrolet,Colorado,,Regular Cab,Short Bed,CHEV-COL-04-12-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Chevrolet,Colorado,,Regular Cab,Short Bed,CHEV-COL-04-12-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Chevrolet,Colorado,,Regular Cab,Short Bed,CHEV-COL-04-12-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Chevrolet,Colorado,,Regular Cab,Short Bed,CHEV-COL-04-12-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Chevrolet,Colorado,,Regular Cab,Short Bed,CHEV-COL-04-12-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Chevrolet,Colorado,,Regular Cab,Short Bed,CHEV-COL-04-12-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Chevrolet,Colorado,,Regular Cab,Short Bed,CHEV-COL-04-12-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ram,2500,,Regular Cab,Long Bed,RAM-R25-19-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ram,2500,,Regular Cab,Long Bed,RAM-R25-19-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Ram,2500,,Regular Cab,Long Bed,RAM-R25-19-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Ram,2500,,Regular Cab,Long Bed,RAM-R25-19-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Ram,2500,,Regular Cab,Long Bed,RAM-R25-19-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Ram,2500,,Regular Cab,Long Bed,RAM-R25-19-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ram,2500,,Double Cab,Short Bed,RAM-R25-19-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ram,2500,,Double Cab,Short Bed,RAM-R25-19-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Ram,2500,,Double Cab,Short Bed,RAM-R25-19-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Ram,2500,,Double Cab,Short Bed,RAM-R25-19-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Ram,2500,,Double Cab,Short Bed,RAM-R25-19-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Ram,2500,,Double Cab,Short Bed,RAM-R25-19-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ram,1500,,Double Cab,Short Bed,RAM-R15-19-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ram,1500,,Double Cab,Short Bed,RAM-R15-19-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Ram,1500,,Double Cab,Short Bed,RAM-R15-19-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Ram,1500,,Double Cab,Short Bed,RAM-R15-19-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Ram,1500,,Double Cab,Short Bed,RAM-R15-19-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Ram,1500,,Double Cab,Short Bed,RAM-R15-19-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ram,1500,,Crew Cab,Short Bed,RAM-R15-19-25-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ram,1500,,Crew Cab,Short Bed,RAM-R15-19-25-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Ram,1500,,Crew Cab,Short Bed,RAM-R15-19-25-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Ram,1500,,Crew Cab,Short Bed,RAM-R15-19-25-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Ram,1500,,Crew Cab,Short Bed,RAM-R15-19-25-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Ram,1500,,Crew Cab,Short Bed,RAM-R15-19-25-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2025,Ram,1500,,Crew Cab,Short Bed,RAM-R15-19-25-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ram,1500,,Double Cab,V-Bed,RAM-R15-19-25-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ram,1500,,Double Cab,V-Bed,RAM-R15-19-25-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Ram,1500,,Double Cab,V-Bed,RAM-R15-19-25-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Ram,1500,,Double Cab,V-Bed,RAM-R15-19-25-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Ram,1500,,Double Cab,V-Bed,RAM-R15-19-25-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Ram,1500,,Double Cab,V-Bed,RAM-R15-19-25-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2025,Ram,1500,,Double Cab,V-Bed,RAM-R15-19-25-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Ram,2500,,Double Cab,Short Bed,RAM-R25-10-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Ram,2500,,Double Cab,Short Bed,RAM-R25-10-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Ram,2500,,Double Cab,Short Bed,RAM-R25-10-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Ram,2500,,Double Cab,Short Bed,RAM-R25-10-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Ram,2500,,Double Cab,Short Bed,RAM-R25-10-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Ram,2500,,Double Cab,Short Bed,RAM-R25-10-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Ram,2500,,Double Cab,Short Bed,RAM-R25-10-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Ram,2500,,Double Cab,Short Bed,RAM-R25-10-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Ram,2500,,Double Cab,Short Bed,RAM-R25-10-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Ram,2500,,Regular Cab,Short Bed,RAM-R25-10-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Ram,2500,,Regular Cab,Short Bed,RAM-R25-10-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Ram,2500,,Regular Cab,Short Bed,RAM-R25-10-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Ram,2500,,Regular Cab,Short Bed,RAM-R25-10-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Ram,2500,,Regular Cab,Short Bed,RAM-R25-10-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Ram,2500,,Regular Cab,Short Bed,RAM-R25-10-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Ram,2500,,Regular Cab,Short Bed,RAM-R25-10-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Ram,2500,,Regular Cab,Short Bed,RAM-R25-10-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Ram,2500,,Regular Cab,Short Bed,RAM-R25-10-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ram,2500,,Regular Cab,Short Bed,RAM-R25-10-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ram,2500,,Regular Cab,Short Bed,RAM-R25-10-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Ram,2500,,Regular Cab,Short Bed,RAM-R25-10-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Ram,2500,,Regular Cab,Short Bed,RAM-R25-10-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Ram,2500,,Regular Cab,Short Bed,RAM-R25-10-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Ram,2500,,Regular Cab,Short Bed,RAM-R25-10-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Ram,2500,,Double Cab,Long Bed,RAM-R25-10-24-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Ram,2500,,Double Cab,Long Bed,RAM-R25-10-24-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Ram,2500,,Double Cab,Long Bed,RAM-R25-10-24-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Ram,2500,,Double Cab,Long Bed,RAM-R25-10-24-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Ram,2500,,Double Cab,Long Bed,RAM-R25-10-24-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Ram,2500,,Double Cab,Long Bed,RAM-R25-10-24-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Ram,2500,,Double Cab,Long Bed,RAM-R25-10-24-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Ram,2500,,Double Cab,Long Bed,RAM-R25-10-24-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Ram,2500,,Double Cab,Long Bed,RAM-R25-10-24-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ram,2500,,Double Cab,Long Bed,RAM-R25-10-24-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ram,2500,,Double Cab,Long Bed,RAM-R25-10-24-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Ram,2500,,Double Cab,Long Bed,RAM-R25-10-24-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Ram,2500,,Double Cab,Long Bed,RAM-R25-10-24-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Ram,2500,,Double Cab,Long Bed,RAM-R25-10-24-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Ram,2500,,Double Cab,Long Bed,RAM-R25-10-24-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Ram,2500,,Regular Cab,Long Bed,RAM-R25-10-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Ram,2500,,Regular Cab,Long Bed,RAM-R25-10-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Ram,2500,,Regular Cab,Long Bed,RAM-R25-10-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Ram,2500,,Regular Cab,Long Bed,RAM-R25-10-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Ram,2500,,Regular Cab,Long Bed,RAM-R25-10-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Ram,2500,,Regular Cab,Long Bed,RAM-R25-10-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Ram,2500,,Regular Cab,Long Bed,RAM-R25-10-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Ram,2500,,Regular Cab,Long Bed,RAM-R25-10-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Ram,2500,,Regular Cab,Long Bed,RAM-R25-10-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Ram,2500,,Double Cab,Dually SB,RAM-R25-10-24-DC-DUALLY,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Ram,2500,,Double Cab,Dually SB,RAM-R25-10-24-DC-DUALLY,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Ram,2500,,Double Cab,Dually SB,RAM-R25-10-24-DC-DUALLY,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Ram,2500,,Double Cab,Dually SB,RAM-R25-10-24-DC-DUALLY,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Ram,2500,,Double Cab,Dually SB,RAM-R25-10-24-DC-DUALLY,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Ram,2500,,Double Cab,Dually SB,RAM-R25-10-24-DC-DUALLY,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Ram,2500,,Double Cab,Dually SB,RAM-R25-10-24-DC-DUALLY,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Ram,2500,,Double Cab,Dually SB,RAM-R25-10-24-DC-DUALLY,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Ram,2500,,Double Cab,Dually SB,RAM-R25-10-24-DC-DUALLY,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ram,2500,,Double Cab,Dually SB,RAM-R25-10-24-DC-DUALLY,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ram,2500,,Double Cab,Dually SB,RAM-R25-10-24-DC-DUALLY,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Ram,2500,,Double Cab,Dually SB,RAM-R25-10-24-DC-DUALLY,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Ram,2500,,Double Cab,Dually SB,RAM-R25-10-24-DC-DUALLY,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Ram,2500,,Double Cab,Dually SB,RAM-R25-10-24-DC-DUALLY,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Ram,2500,,Double Cab,Dually SB,RAM-R25-10-24-DC-DUALLY,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Ram,2500,,Double Cab,Dually LB,RAM-R25-10-24-DC-DUALLY-2,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Ram,2500,,Double Cab,Dually LB,RAM-R25-10-24-DC-DUALLY-2,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Ram,2500,,Double Cab,Dually LB,RAM-R25-10-24-DC-DUALLY-2,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Ram,2500,,Double Cab,Dually LB,RAM-R25-10-24-DC-DUALLY-2,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Ram,2500,,Double Cab,Dually LB,RAM-R25-10-24-DC-DUALLY-2,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Ram,2500,,Double Cab,Dually LB,RAM-R25-10-24-DC-DUALLY-2,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Ram,2500,,Double Cab,Dually LB,RAM-R25-10-24-DC-DUALLY-2,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Ram,2500,,Double Cab,Dually LB,RAM-R25-10-24-DC-DUALLY-2,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Ram,2500,,Double Cab,Dually LB,RAM-R25-10-24-DC-DUALLY-2,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ram,2500,,Double Cab,Dually LB,RAM-R25-10-24-DC-DUALLY-2,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ram,2500,,Double Cab,Dually LB,RAM-R25-10-24-DC-DUALLY-2,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Ram,2500,,Double Cab,Dually LB,RAM-R25-10-24-DC-DUALLY-2,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Ram,2500,,Double Cab,Dually LB,RAM-R25-10-24-DC-DUALLY-2,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Ram,2500,,Double Cab,Dually LB,RAM-R25-10-24-DC-DUALLY-2,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Ram,2500,,Double Cab,Dually LB,RAM-R25-10-24-DC-DUALLY-2,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Ram,1500,,Double Cab,Short Bed,RAM-R15-09-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Ram,1500,,Double Cab,Short Bed,RAM-R15-09-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Ram,1500,,Double Cab,Short Bed,RAM-R15-09-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Ram,1500,,Double Cab,Short Bed,RAM-R15-09-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Ram,1500,,Double Cab,Short Bed,RAM-R15-09-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Ram,1500,,Double Cab,Short Bed,RAM-R15-09-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Ram,1500,,Double Cab,Short Bed,RAM-R15-09-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Ram,1500,,Double Cab,Short Bed,RAM-R15-09-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Ram,1500,,Double Cab,Short Bed,RAM-R15-09-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Ram,1500,,Double Cab,Short Bed,RAM-R15-09-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Ram,1500,,Crew Cab,Short Bed,RAM-R15-13-18-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Ram,1500,,Crew Cab,Short Bed,RAM-R15-13-18-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Ram,1500,,Crew Cab,Short Bed,RAM-R15-13-18-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Ram,1500,,Crew Cab,Short Bed,RAM-R15-13-18-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Ram,1500,,Crew Cab,Short Bed,RAM-R15-13-18-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Ram,1500,,Crew Cab,Short Bed,RAM-R15-13-18-CC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Ram,1500,,Regular Cab,Short Bed,RAM-R15-09-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Ram,1500,,Regular Cab,Short Bed,RAM-R15-09-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Ram,1500,,Regular Cab,Short Bed,RAM-R15-09-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Ram,1500,,Regular Cab,Short Bed,RAM-R15-09-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Ram,1500,,Regular Cab,Short Bed,RAM-R15-09-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Ram,1500,,Regular Cab,Short Bed,RAM-R15-09-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Ram,1500,,Regular Cab,Short Bed,RAM-R15-09-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Ram,1500,,Regular Cab,Short Bed,RAM-R15-09-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Ram,1500,,Regular Cab,Short Bed,RAM-R15-09-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Ram,1500,,Regular Cab,Short Bed,RAM-R15-09-18-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Ram,1500,,Double Cab,V-Bed,RAM-R15-09-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Ram,1500,,Double Cab,V-Bed,RAM-R15-09-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Ram,1500,,Double Cab,V-Bed,RAM-R15-09-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Ram,1500,,Double Cab,V-Bed,RAM-R15-09-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Ram,1500,,Double Cab,V-Bed,RAM-R15-09-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Ram,1500,,Double Cab,V-Bed,RAM-R15-09-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Ram,1500,,Double Cab,V-Bed,RAM-R15-09-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Ram,1500,,Double Cab,V-Bed,RAM-R15-09-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Ram,1500,,Double Cab,V-Bed,RAM-R15-09-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Ram,1500,,Double Cab,V-Bed,RAM-R15-09-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2002,Ram,1500,,Double Cab,Long Bed,RAM-R15-02-08-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2003,Ram,1500,,Double Cab,Long Bed,RAM-R15-02-08-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Ram,1500,,Double Cab,Long Bed,RAM-R15-02-08-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Ram,1500,,Double Cab,Long Bed,RAM-R15-02-08-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Ram,1500,,Double Cab,Long Bed,RAM-R15-02-08-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Ram,1500,,Double Cab,Long Bed,RAM-R15-02-08-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Ram,1500,,Double Cab,Long Bed,RAM-R15-02-08-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2002,Ram,1500,,Double Cab,Short Bed,RAM-R15-02-08-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2003,Ram,1500,,Double Cab,Short Bed,RAM-R15-02-08-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Ram,1500,,Double Cab,Short Bed,RAM-R15-02-08-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Ram,1500,,Double Cab,Short Bed,RAM-R15-02-08-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Ram,1500,,Double Cab,Short Bed,RAM-R15-02-08-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Ram,1500,,Double Cab,Short Bed,RAM-R15-02-08-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Ram,1500,,Double Cab,Short Bed,RAM-R15-02-08-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1994,Ram,T-300,,Extended Cab,Short Bed,RAM-T300-94-01-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1995,Ram,T-300,,Extended Cab,Short Bed,RAM-T300-94-01-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1996,Ram,T-300,,Extended Cab,Short Bed,RAM-T300-94-01-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1997,Ram,T-300,,Extended Cab,Short Bed,RAM-T300-94-01-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1998,Ram,T-300,,Extended Cab,Short Bed,RAM-T300-94-01-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1999,Ram,T-300,,Extended Cab,Short Bed,RAM-T300-94-01-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2000,Ram,T-300,,Extended Cab,Short Bed,RAM-T300-94-01-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2001,Ram,T-300,,Extended Cab,Short Bed,RAM-T300-94-01-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1994,Ram,T-300,,Extended Cab,Long Bed,RAM-T300-94-01-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1995,Ram,T-300,,Extended Cab,Long Bed,RAM-T300-94-01-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1996,Ram,T-300,,Extended Cab,Long Bed,RAM-T300-94-01-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1997,Ram,T-300,,Extended Cab,Long Bed,RAM-T300-94-01-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1998,Ram,T-300,,Extended Cab,Long Bed,RAM-T300-94-01-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1999,Ram,T-300,,Extended Cab,Long Bed,RAM-T300-94-01-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2000,Ram,T-300,,Extended Cab,Long Bed,RAM-T300-94-01-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2001,Ram,T-300,,Extended Cab,Long Bed,RAM-T300-94-01-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Ram,Dakota,,Regular Cab,Short Bed,RAM-DAK-05-11-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Ram,Dakota,,Regular Cab,Short Bed,RAM-DAK-05-11-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Ram,Dakota,,Regular Cab,Short Bed,RAM-DAK-05-11-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Ram,Dakota,,Regular Cab,Short Bed,RAM-DAK-05-11-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Ram,Dakota,,Regular Cab,Short Bed,RAM-DAK-05-11-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Ram,Dakota,,Regular Cab,Short Bed,RAM-DAK-05-11-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Ram,Dakota,,Regular Cab,Short Bed,RAM-DAK-05-11-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Ram,Dakota,,Double Cab,V-Bed,RAM-DAK-05-11-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Ram,Dakota,,Double Cab,V-Bed,RAM-DAK-05-11-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Ram,Dakota,,Double Cab,V-Bed,RAM-DAK-05-11-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Ram,Dakota,,Double Cab,V-Bed,RAM-DAK-05-11-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Ram,Dakota,,Double Cab,V-Bed,RAM-DAK-05-11-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Ram,Dakota,,Double Cab,V-Bed,RAM-DAK-05-11-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Ram,Dakota,,Double Cab,V-Bed,RAM-DAK-05-11-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2000,Ram,Dakota,,Double Cab,V-Bed,RAM-DAK-00-04-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2001,Ram,Dakota,,Double Cab,V-Bed,RAM-DAK-00-04-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2002,Ram,Dakota,,Double Cab,V-Bed,RAM-DAK-00-04-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2003,Ram,Dakota,,Double Cab,V-Bed,RAM-DAK-00-04-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Ram,Dakota,,Double Cab,V-Bed,RAM-DAK-00-04-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Jeep,Gladiator,,Double Cab,V-Bed,JEEP-GLAD-20-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Jeep,Gladiator,,Double Cab,V-Bed,JEEP-GLAD-20-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Jeep,Gladiator,,Double Cab,V-Bed,JEEP-GLAD-20-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Jeep,Gladiator,,Double Cab,V-Bed,JEEP-GLAD-20-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Jeep,Gladiator,,Double Cab,V-Bed,JEEP-GLAD-20-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Ford,Maverick,,Double Cab,V-Bed,FORD-MAV-22-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Ford,Maverick,,Double Cab,V-Bed,FORD-MAV-22-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Ford,Maverick,,Double Cab,V-Bed,FORD-MAV-22-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Ford,F-150,,Double Cab,V-Bed,FORD-F150-21-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Ford,F-150,,Double Cab,V-Bed,FORD-F150-21-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Ford,F-150,,Double Cab,V-Bed,FORD-F150-21-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Ford,F-150,,Double Cab,V-Bed,FORD-F150-21-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Ford,F-150,,Regular Cab,V-Bed,FORD-F150-22-24-RC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Ford,F-150,,Regular Cab,V-Bed,FORD-F150-22-24-RC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Ford,F-150,,Regular Cab,V-Bed,FORD-F150-22-24-RC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-21-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-21-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-21-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-21-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Ford,F-150,,Regular Cab,Long Bed,FORD-F150-21-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Ford,F-150,,Regular Cab,Long Bed,FORD-F150-21-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Ford,F-150,,Regular Cab,Long Bed,FORD-F150-21-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Ford,F-150,,Regular Cab,Long Bed,FORD-F150-21-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2025,Ford,F-150,,Regular Cab,V-Bed,FORD-F150-24-25-RC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2025,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-24-25-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2025,Ford,F-150,,Regular Cab,Long Bed,FORD-F150-24-25-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Ford,F-150,,Double Cab,V-Bed,FORD-F150-15-20-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Ford,F-150,,Double Cab,V-Bed,FORD-F150-15-20-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Ford,F-150,,Double Cab,V-Bed,FORD-F150-15-20-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Ford,F-150,,Double Cab,V-Bed,FORD-F150-15-20-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ford,F-150,,Double Cab,V-Bed,FORD-F150-15-20-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ford,F-150,,Double Cab,V-Bed,FORD-F150-15-20-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Ford,F-150,,Extended Cab,Short Bed,FORD-F150-15-20-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Ford,F-150,,Extended Cab,Short Bed,FORD-F150-15-20-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Ford,F-150,,Extended Cab,Short Bed,FORD-F150-15-20-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Ford,F-150,,Extended Cab,Short Bed,FORD-F150-15-20-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ford,F-150,,Extended Cab,Short Bed,FORD-F150-15-20-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ford,F-150,,Extended Cab,Short Bed,FORD-F150-15-20-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-15-20-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-15-20-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-15-20-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-15-20-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-15-20-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-15-20-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Ford,F-150,,Double Cab,Short Bed,FORD-F150-15-20-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Ford,F-150,,Double Cab,Short Bed,FORD-F150-15-20-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Ford,F-150,,Double Cab,Short Bed,FORD-F150-15-20-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Ford,F-150,,Double Cab,Short Bed,FORD-F150-15-20-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ford,F-150,,Double Cab,Short Bed,FORD-F150-15-20-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ford,F-150,,Double Cab,Short Bed,FORD-F150-15-20-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Ford,F-150,,Regular Cab,Long Bed,FORD-F150-15-20-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Ford,F-150,,Regular Cab,Long Bed,FORD-F150-15-20-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Ford,F-150,,Regular Cab,Long Bed,FORD-F150-15-20-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Ford,F-150,,Regular Cab,Long Bed,FORD-F150-15-20-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ford,F-150,,Regular Cab,Long Bed,FORD-F150-15-20-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ford,F-150,,Regular Cab,Long Bed,FORD-F150-15-20-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Ford,F-150,,Extended Cab,Long Bed,FORD-F150-15-20-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Ford,F-150,,Extended Cab,Long Bed,FORD-F150-15-20-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Ford,F-150,,Extended Cab,Long Bed,FORD-F150-15-20-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Ford,F-150,,Extended Cab,Long Bed,FORD-F150-15-20-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ford,F-150,,Extended Cab,Long Bed,FORD-F150-15-20-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ford,F-150,,Extended Cab,Long Bed,FORD-F150-15-20-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Ford,F-150,,Double Cab,V-Bed,FORD-F150-09-14-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Ford,F-150,,Double Cab,V-Bed,FORD-F150-09-14-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Ford,F-150,,Double Cab,V-Bed,FORD-F150-09-14-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Ford,F-150,,Double Cab,V-Bed,FORD-F150-09-14-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Ford,F-150,,Double Cab,V-Bed,FORD-F150-09-14-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Ford,F-150,,Double Cab,V-Bed,FORD-F150-09-14-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-09-14-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-09-14-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-09-14-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-09-14-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-09-14-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-09-14-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Ford,F-150,,Double Cab,Short Bed,FORD-F150-09-14-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Ford,F-150,,Double Cab,Short Bed,FORD-F150-09-14-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Ford,F-150,,Double Cab,Short Bed,FORD-F150-09-14-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Ford,F-150,,Double Cab,Short Bed,FORD-F150-09-14-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Ford,F-150,,Double Cab,Short Bed,FORD-F150-09-14-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Ford,F-150,,Double Cab,Short Bed,FORD-F150-09-14-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Ford,F-150,,Double Cab,Long Bed,FORD-F150-09-14-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Ford,F-150,,Double Cab,Long Bed,FORD-F150-09-14-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Ford,F-150,,Double Cab,Long Bed,FORD-F150-09-14-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Ford,F-150,,Double Cab,Long Bed,FORD-F150-09-14-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Ford,F-150,,Double Cab,Long Bed,FORD-F150-09-14-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Ford,F-150,,Double Cab,Long Bed,FORD-F150-09-14-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Ford,F-150,,Extended Cab,Short Bed,FORD-F150-04-08-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Ford,F-150,,Extended Cab,Short Bed,FORD-F150-04-08-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Ford,F-150,,Extended Cab,Short Bed,FORD-F150-04-08-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Ford,F-150,,Extended Cab,Short Bed,FORD-F150-04-08-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Ford,F-150,,Extended Cab,Short Bed,FORD-F150-04-08-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Ford,F-150,,Double Cab,V-Bed,FORD-F150-04-08-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Ford,F-150,,Double Cab,V-Bed,FORD-F150-04-08-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Ford,F-150,,Double Cab,V-Bed,FORD-F150-04-08-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Ford,F-150,,Double Cab,V-Bed,FORD-F150-04-08-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Ford,F-150,,Double Cab,V-Bed,FORD-F150-04-08-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Ford,F-150,,Extended Cab,Long Bed,FORD-F150-04-08-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Ford,F-150,,Extended Cab,Long Bed,FORD-F150-04-08-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Ford,F-150,,Extended Cab,Long Bed,FORD-F150-04-08-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Ford,F-150,,Extended Cab,Long Bed,FORD-F150-04-08-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Ford,F-150,,Extended Cab,Long Bed,FORD-F150-04-08-XC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2000,Ford,F-150,,Double Cab,V-Bed,FORD-F150-00-04-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2001,Ford,F-150,,Double Cab,V-Bed,FORD-F150-00-04-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2002,Ford,F-150,,Double Cab,V-Bed,FORD-F150-00-04-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2003,Ford,F-150,,Double Cab,V-Bed,FORD-F150-00-04-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1997,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-97-03-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1998,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-97-03-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1999,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-97-03-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2000,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-97-03-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2001,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-97-03-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2002,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-97-03-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2003,Ford,F-150,,Regular Cab,Short Bed,FORD-F150-97-03-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1997,Ford,F-150,,Extended Cab,Short Bed,FORD-F150-97-03-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1998,Ford,F-150,,Extended Cab,Short Bed,FORD-F150-97-03-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1999,Ford,F-150,,Extended Cab,Short Bed,FORD-F150-97-03-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2000,Ford,F-150,,Extended Cab,Short Bed,FORD-F150-97-03-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2001,Ford,F-150,,Extended Cab,Short Bed,FORD-F150-97-03-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2002,Ford,F-150,,Extended Cab,Short Bed,FORD-F150-97-03-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2003,Ford,F-150,,Extended Cab,Short Bed,FORD-F150-97-03-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-23-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-23-24-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-23-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-23-24-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-17-22-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-17-22-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-17-22-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-17-22-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-17-22-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-17-22-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-17-22-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-17-22-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-17-22-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-17-22-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-17-22-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-17-22-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-08-16-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-08-16-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-08-16-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-08-16-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-08-16-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-08-16-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-08-16-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-08-16-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-08-16-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-08-16-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-08-16-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-08-16-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-08-16-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-08-16-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-08-16-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-08-16-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-08-16-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-08-16-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1999,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-99-07-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2000,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-99-07-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2001,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-99-07-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2002,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-99-07-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2003,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-99-07-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-99-07-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-99-07-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-99-07-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Ford,F-250,,Regular Cab,Short Bed,FORD-F250-99-07-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1999,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-99-07-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2000,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-99-07-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2001,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-99-07-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2002,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-99-07-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2003,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-99-07-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-99-07-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-99-07-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-99-07-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Ford,F-250,,Regular Cab,Long Bed,FORD-F250-99-07-RC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Ford,Ranger,,Double Cab,V-Bed,FORD-RNG-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ford,Ranger,,Double Cab,V-Bed,FORD-RNG-19-23-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ford,Ranger,,Double Cab,V-Bed,FORD-RNG-19-23-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Ford,Ranger,,Double Cab,V-Bed,FORD-RNG-19-23-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Ford,Ranger,,Double Cab,V-Bed,FORD-RNG-19-23-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Ford,Ranger,,Double Cab,V-Bed,FORD-RNG-19-23-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Ford,Ranger,,Double Cab,Short Bed,FORD-RNG-19-23-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Ford,Ranger,,Double Cab,Short Bed,FORD-RNG-19-23-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Ford,Ranger,,Double Cab,Short Bed,FORD-RNG-19-23-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Ford,Ranger,,Double Cab,Short Bed,FORD-RNG-19-23-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Ford,Ranger,,Double Cab,Short Bed,FORD-RNG-19-23-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1993,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1994,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1995,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1996,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1997,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1998,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+1999,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2000,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2001,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2002,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2003,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Ford,Ranger,,Extended Cab,Short Bed,FORD-RNG-93-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Toyota,Tundra,,Double Cab,V-Bed,TOY-TUN-22-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Toyota,Tundra,,Double Cab,V-Bed,TOY-TUN-22-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Toyota,Tundra,,Double Cab,V-Bed,TOY-TUN-22-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-22-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-22-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-22-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Toyota,Tundra,,Double Cab,Long Bed,TOY-TUN-22-24-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Toyota,Tundra,,Double Cab,Long Bed,TOY-TUN-22-24-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Toyota,Tundra,,Double Cab,Long Bed,TOY-TUN-22-24-DC-LONGBE,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Toyota,Tundra,,Double Cab,V-Bed,TOY-TUN-14-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Toyota,Tundra,,Double Cab,V-Bed,TOY-TUN-14-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Toyota,Tundra,,Double Cab,V-Bed,TOY-TUN-14-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Toyota,Tundra,,Double Cab,V-Bed,TOY-TUN-14-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Toyota,Tundra,,Double Cab,V-Bed,TOY-TUN-14-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Toyota,Tundra,,Double Cab,V-Bed,TOY-TUN-14-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Toyota,Tundra,,Double Cab,V-Bed,TOY-TUN-14-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Toyota,Tundra,,Double Cab,V-Bed,TOY-TUN-14-21-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-14-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-14-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-14-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-14-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-14-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-14-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-14-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-14-21-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Toyota,Tundra,,Double Cab,V-Bed,TOY-TUN-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Toyota,Tundra,,Double Cab,V-Bed,TOY-TUN-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Toyota,Tundra,,Double Cab,V-Bed,TOY-TUN-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Toyota,Tundra,,Double Cab,V-Bed,TOY-TUN-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Toyota,Tundra,,Double Cab,V-Bed,TOY-TUN-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Toyota,Tundra,,Double Cab,V-Bed,TOY-TUN-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Toyota,Tundra,,Double Cab,V-Bed,TOY-TUN-07-13-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Toyota,Tundra,,Regular Cab,Short Bed,TOY-TUN-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Toyota,Tundra,,Regular Cab,Short Bed,TOY-TUN-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Toyota,Tundra,,Regular Cab,Short Bed,TOY-TUN-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Toyota,Tundra,,Regular Cab,Short Bed,TOY-TUN-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Toyota,Tundra,,Regular Cab,Short Bed,TOY-TUN-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Toyota,Tundra,,Regular Cab,Short Bed,TOY-TUN-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Toyota,Tundra,,Regular Cab,Short Bed,TOY-TUN-07-13-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-07-13-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-04-06-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-04-06-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Toyota,Tundra,,Double Cab,Short Bed,TOY-TUN-04-06-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2001,Toyota,Tundra,,Extended Cab,Short Bed,TOY-TUN-01-06-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2002,Toyota,Tundra,,Extended Cab,Short Bed,TOY-TUN-01-06-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2003,Toyota,Tundra,,Extended Cab,Short Bed,TOY-TUN-01-06-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Toyota,Tundra,,Extended Cab,Short Bed,TOY-TUN-01-06-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Toyota,Tundra,,Extended Cab,Short Bed,TOY-TUN-01-06-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Toyota,Tundra,,Extended Cab,Short Bed,TOY-TUN-01-06-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2000,Toyota,Tundra,,Extended Cab,Short Bed,TOY-TUN-00-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-24P-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2025,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-24P-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-24P-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2025,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-24P-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-16-23-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-16-23-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-16-23-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-16-23-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-16-23-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-16-23-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-16-23-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-16-23-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-16-23-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-16-23-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-16-23-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-16-23-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-16-23-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-16-23-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-16-23-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-16-23-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-16-23-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-16-23-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-16-23-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-16-23-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-16-23-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-16-23-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-16-23-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-16-23-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-16-23-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-16-23-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-16-23-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-16-23-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-16-23-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-16-23-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-16-23-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-16-23-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-05-15-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-05-15-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-05-15-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-05-15-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-05-15-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-05-15-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-05-15-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-05-15-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-05-15-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-05-15-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Toyota,Tacoma,,Double Cab,V-Bed,TOY-TAC-05-15-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-05-15-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-05-15-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-05-15-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-05-15-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-05-15-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-05-15-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-05-15-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-05-15-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-05-15-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-05-15-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Toyota,Tacoma,,Double Cab,Short Bed,TOY-TAC-05-15-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-05-15-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-05-15-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-05-15-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-05-15-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-05-15-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-05-15-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-05-15-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-05-15-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-05-15-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-05-15-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Toyota,Tacoma,,Extended Cab,Short Bed,TOY-TAC-05-15-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-05-15-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-05-15-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-05-15-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-05-15-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-05-15-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-05-15-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-05-15-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-05-15-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-05-15-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-05-15-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Toyota,Tacoma,,Regular Cab,Short Bed,TOY-TAC-05-15-RC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Nissan,Titan,,Double Cab,Short Bed,NIS-TTN-16-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Nissan,Titan,,Double Cab,Short Bed,NIS-TTN-16-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Nissan,Titan,,Double Cab,Short Bed,NIS-TTN-16-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2019,Nissan,Titan,,Double Cab,Short Bed,NIS-TTN-16-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2020,Nissan,Titan,,Double Cab,Short Bed,NIS-TTN-16-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2021,Nissan,Titan,,Double Cab,Short Bed,NIS-TTN-16-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Nissan,Titan,,Double Cab,Short Bed,NIS-TTN-16-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Nissan,Titan,,Double Cab,Short Bed,NIS-TTN-16-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Nissan,Titan,,Double Cab,Short Bed,NIS-TTN-16-24-DC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Nissan,Titan,,Double Cab,V-Bed,NIS-TTN-04-11-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Nissan,Titan,,Double Cab,V-Bed,NIS-TTN-04-11-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Nissan,Titan,,Double Cab,V-Bed,NIS-TTN-04-11-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Nissan,Titan,,Double Cab,V-Bed,NIS-TTN-04-11-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Nissan,Titan,,Double Cab,V-Bed,NIS-TTN-04-11-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Nissan,Titan,,Double Cab,V-Bed,NIS-TTN-04-11-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Nissan,Titan,,Double Cab,V-Bed,NIS-TTN-04-11-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Nissan,Titan,,Double Cab,V-Bed,NIS-TTN-04-11-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2004,Nissan,Titan,,Extended Cab,Short Bed,NIS-TTN-04-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Nissan,Titan,,Extended Cab,Short Bed,NIS-TTN-04-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Nissan,Titan,,Extended Cab,Short Bed,NIS-TTN-04-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Nissan,Titan,,Extended Cab,Short Bed,NIS-TTN-04-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Nissan,Titan,,Extended Cab,Short Bed,NIS-TTN-04-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Nissan,Titan,,Extended Cab,Short Bed,NIS-TTN-04-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Nissan,Titan,,Extended Cab,Short Bed,NIS-TTN-04-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Nissan,Titan,,Extended Cab,Short Bed,NIS-TTN-04-11-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Nissan,Frontier,,Double Cab,V-Bed,NIS-FRONT-22-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Nissan,Frontier,,Double Cab,V-Bed,NIS-FRONT-22-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Nissan,Frontier,,Double Cab,V-Bed,NIS-FRONT-22-24-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2022,Nissan,Frontier,,Extended Cab,Short Bed,NIS-FRONT-22-24-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2023,Nissan,Frontier,,Extended Cab,Short Bed,NIS-FRONT-22-24-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2024,Nissan,Frontier,,Extended Cab,Short Bed,NIS-FRONT-22-24-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Nissan,Frontier,,Extended Cab,Short Bed,NIS-FRONT-05-18-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Nissan,Frontier,,Extended Cab,Short Bed,NIS-FRONT-05-18-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Nissan,Frontier,,Extended Cab,Short Bed,NIS-FRONT-05-18-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Nissan,Frontier,,Extended Cab,Short Bed,NIS-FRONT-05-18-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Nissan,Frontier,,Extended Cab,Short Bed,NIS-FRONT-05-18-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Nissan,Frontier,,Extended Cab,Short Bed,NIS-FRONT-05-18-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Nissan,Frontier,,Extended Cab,Short Bed,NIS-FRONT-05-18-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Nissan,Frontier,,Extended Cab,Short Bed,NIS-FRONT-05-18-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Nissan,Frontier,,Extended Cab,Short Bed,NIS-FRONT-05-18-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Nissan,Frontier,,Extended Cab,Short Bed,NIS-FRONT-05-18-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Nissan,Frontier,,Extended Cab,Short Bed,NIS-FRONT-05-18-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Nissan,Frontier,,Extended Cab,Short Bed,NIS-FRONT-05-18-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Nissan,Frontier,,Extended Cab,Short Bed,NIS-FRONT-05-18-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Nissan,Frontier,,Extended Cab,Short Bed,NIS-FRONT-05-18-XC-SHORTB,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2005,Nissan,Frontier,,Double Cab,V-Bed,NIS-FRONT-05-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2006,Nissan,Frontier,,Double Cab,V-Bed,NIS-FRONT-05-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2007,Nissan,Frontier,,Double Cab,V-Bed,NIS-FRONT-05-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2008,Nissan,Frontier,,Double Cab,V-Bed,NIS-FRONT-05-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2009,Nissan,Frontier,,Double Cab,V-Bed,NIS-FRONT-05-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2010,Nissan,Frontier,,Double Cab,V-Bed,NIS-FRONT-05-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2011,Nissan,Frontier,,Double Cab,V-Bed,NIS-FRONT-05-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2012,Nissan,Frontier,,Double Cab,V-Bed,NIS-FRONT-05-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2013,Nissan,Frontier,,Double Cab,V-Bed,NIS-FRONT-05-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2014,Nissan,Frontier,,Double Cab,V-Bed,NIS-FRONT-05-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2015,Nissan,Frontier,,Double Cab,V-Bed,NIS-FRONT-05-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2016,Nissan,Frontier,,Double Cab,V-Bed,NIS-FRONT-05-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2017,Nissan,Frontier,,Double Cab,V-Bed,NIS-FRONT-05-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf
+2018,Nissan,Frontier,,Double Cab,V-Bed,NIS-FRONT-05-18-DC-VBED,partial,partial,,data/sources/snugpro_2025-03-07.pdf

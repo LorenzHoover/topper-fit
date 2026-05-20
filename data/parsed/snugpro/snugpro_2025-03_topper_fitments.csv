@@ -1,0 +1,161 @@
+topper_brand,topper_model_series,topper_production_year_start,topper_production_year_end,fits_platform_id,confidence,fit_type,wrap_type,fit_notes,mounting_clamp_type,required_modifications,source_urls,verified_by,source_effective_date,has_custom_fit,has_skirted_sides,door_type,clamp_type_required,bed_size_class,model_id_alias,camera_compatible
+SnugPro,XV,,,CHEV-S15-19-24-XC-SHORTB,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,CHEV-S15-19-24-XC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,CHEV-S15-19-24-DC-VBED,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,CHEV-S15-19-24-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,CHEV-S15-19-24-RC-LONGBE,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,CHEV-S15-19-24-XC-SHORTB,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,CHEV-S15-19-24-DC-VBED,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,CHEV-S15-19-24-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,CHEV-S15-19-24-XC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,CHEV-S15-19-24-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,CHEV-S25-20-24-CC-SHORTB,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,CHEV-S25-20-24-RC-SHORTB,70,non_custom,,Non custom fit,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,CHEV-S25-20-24-RC-LONGBE,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,CHEV-S25-20-24-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,CHEV-S25-20-24-RC-LONGBE,70,non_custom,,Non custom fit,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,CHEV-S25-20-24-RC-LONGBE,70,non_custom,,Non custom fit,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,CHEV-S25-20-24-DC-SHORTB,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,CHEV-S25-20-24-DC-SHORTB,70,non_custom,,Non custom fit,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,CHEV-S25-20-24-RC-LONGBE,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,CHEV-S25-20-24-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,CHEV-S25-20-24-RC-LONGBE,70,non_custom,,Non custom fit,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,CHEV-S25-20-24-RC-LONGBE,70,non_custom,,Non custom fit,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,CHEV-S25-20-24-DC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,CHEV-S25-20-24-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,CHEV-S15-14-18-RC-SHORTB,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,CHEV-S15-14-18-RC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,CHEV-S15-14-18-DC-VBED,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,CHEV-S15-14-18-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,CHEV-S15-14-18-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,CHEV-S15-07-13-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,CHEV-S15-07-13-RC-SHORTB,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,CHEV-S15-07-13-RC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,CHEV-S15-07-13-DC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,CHEV-S15-07-13-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,CHEV-S15-07-13-DC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,CHEV-S15-99-06-DC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,CHEV-S25-01-06-DC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,CHEV-S15-99-06-RC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,CHEV-S15-99-06-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,GMC-SRA-19-24-XC-SHORTB,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,GMC-SRA-19-24-DC-VBED,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,GMC-SRA-19-24-XC-SHORTB,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,GMC-SRA-19-24-DC-VBED,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,GMC-SRA-19-24-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,GMC-SRA-19-24-XC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,GMC-SRA-19-24-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,GMC-SRA25-20-24-CC-SHORTB,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,GMC-SRA25-20-24-RC-SHORTB,70,non_custom,,Non custom fit,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,GMC-SRA25-20-24-CC-LONGBE,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,GMC-SRA25-20-24-RC-LONGBE,70,non_custom,,Non custom fit,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,GMC-SRA25-20-24-CC-SHORTB,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,GMC-SRA25-20-24-RC-SHORTB,70,non_custom,,Non custom fit,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,GMC-SRA25-20-24-CC-LONGBE,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,GMC-SRA25-20-24-RC-LONGBE,70,non_custom,,Non custom fit,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,GMC-SRA25-20-24-DC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,GMC-SRA25-20-24-RC-LONGBE-2,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,GMC-SRA-14-18-RC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,GMC-SRA-14-18-RC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,GMC-SRA-14-18-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,GMC-SRA-14-18-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,GMC-SRA-07-13-DC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,GMC-SRA-07-13-RC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,GMC-SRA-07-13-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,CHEV-COL-23-24-DC-VBED,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,CHEV-COL-23-24-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,CHEV-CAN-23-24-DC-VBED,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,CHEV-CAN-23-24-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,CHEV-COL-15-21-DC-VBED,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,CHEV-COL-15-21-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,CHEV-COL-15-21-DC-SHORTB,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,CHEV-COL-15-21-DC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,CHEV-COL-04-12-RC-SHORTB,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,RAM-R25-19-24-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,RAM-R25-19-24-DC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,RAM-R15-19-24-DC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,RAM-R15-19-25-CC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,RAM-R15-19-25-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,RAM-R25-10-24-DC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,RAM-R25-10-24-DC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,RAM-R25-10-24-RC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,RAM-R25-10-24-DC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,RAM-R25-10-24-DC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,RAM-R25-10-24-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,RAM-R25-10-24-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,RAM-R25-10-24-DC-DUALLY,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,RAM-R25-10-24-DC-DUALLY-2,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,RAM-R15-09-24-DC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,RAM-R15-13-18-CC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,RAM-R15-13-18-CC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,RAM-R15-09-18-RC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,RAM-R15-09-18-RC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,RAM-R15-09-18-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,RAM-DAK-05-11-RC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,RAM-DAK-05-11-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,JEEP-GLAD-20-24-DC-VBED,100,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,FORD-F150-21-24-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F150-22-24-RC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F150-21-24-RC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F150-21-24-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F150-24-25-RC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F150-24-25-RC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F150-24-25-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F150-15-20-DC-VBED,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F150-15-20-XC-SHORTB,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,FORD-F150-15-20-XC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F150-15-20-RC-SHORTB,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,FORD-F150-15-20-RC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F150-15-20-DC-SHORTB,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,FORD-F150-15-20-DC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,FORD-F150-15-20-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,FORD-F150-15-20-XC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F150-09-14-DC-VBED,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F150-09-14-RC-SHORTB,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F150-09-14-DC-SHORTB,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,FORD-F150-09-14-DC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F250-23-24-RC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,FORD-F250-23-24-RC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F250-23-24-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,FORD-F250-23-24-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F250-17-22-RC-SHORTB,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,FORD-F250-17-22-RC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F250-17-22-RC-LONGBE,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,FORD-F250-17-22-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F250-08-16-RC-SHORTB,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,FORD-F250-08-16-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F250-08-16-RC-SHORTB,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,FORD-F250-08-16-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-F250-99-07-RC-SHORTB,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,FORD-F250-99-07-RC-LONGBE,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,FORD-RNG-24-DC-VBED,90,OEM,,Requires attaching kit,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,FORD-RNG-24-DC-VBED,90,OEM,,Requires attaching kit,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,FORD-RNG-19-23-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-RNG-19-23-DC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,FORD-RNG-93-11-XC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,FORD-MAV-22-24-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,TOY-TUN-22-24-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,TOY-TUN-22-24-DC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,TOY-TUN-14-21-DC-VBED,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,TOY-TUN-14-21-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,TOY-TUN-14-21-DC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,TOY-TUN-14-21-DC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,TOY-TUN-07-13-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,TOY-TAC-24P-DC-VBED,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,TOY-TAC-24P-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,TOY-TAC-24P-DC-SHORTB,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,TOY-TAC-24P-DC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,TOY-TAC-16-23-DC-VBED,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,TOY-TAC-16-23-DC-VBED,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,TOY-TAC-16-23-DC-SHORTB,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,TOY-TAC-16-23-DC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,TOY-TAC-16-23-RC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,TOY-TAC-16-23-XC-SHORTB,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,UT PRO,,,TOY-TAC-16-23-XC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,TOY-TAC-05-15-DC-VBED,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,TOY-TAC-05-15-DC-SHORTB,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,XV,,,TOY-TAC-05-15-XC-SHORTB,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False
+SnugPro,UT PRO,,,NIS-TTN-16-24-DC-SHORTB,90,OEM,,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,NIS-FRONT-22-24-DC-VBED,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,NIS-FRONT-22-24-XC-SHORTB,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,True
+SnugPro,XV,,,NIS-FRONT-05-18-DC-VBED,90,OEM,W,,,,data/sources/snugpro_2025-03-07.pdf,manufacturer,2025-03-07,,,,,,,False

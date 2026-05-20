@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """
-Load seed CSVs into Supabase.
+Load seed or parsed CSVs into Supabase.
 
-Reads data/seed/*.csv and upserts into the three tables.
+Finds files by glob: *_bed_platforms.csv, *_truck_models.csv, *_topper_fitments.csv
+in the target directory.  Default directory: data/seed/ (Ranch brand).
+
 Uses the service_role key (bypasses RLS) — never run this in a browser context.
 
 Requires:
@@ -10,12 +12,14 @@ Requires:
   OR a .env.local file in the repo root.
 
 Usage (from repo root):
-  python3 scripts/load_to_supabase.py
+  python3 scripts/load_to_supabase.py                        # Ranch data (data/seed/)
+  python3 scripts/load_to_supabase.py --dir data/parsed      # ATC / other parsed data
 
 Options:
-  --dry-run   Print row counts and first row of each CSV without loading.
-  --truncate  TRUNCATE tables before inserting (useful for re-seeding).
-              Order matters: fitments → truck_models → platforms (FK dependency).
+  --dir PATH    Directory to read CSVs from (default: data/seed)
+  --dry-run     Print row counts and first row of each CSV without loading.
+  --truncate    TRUNCATE tables before inserting (useful for re-seeding Ranch data).
+                Order matters: fitments → truck_models → platforms (FK dependency).
 """
 
 import argparse
@@ -58,19 +62,37 @@ def get_supabase_client():
     return create_client(url, key)
 
 
-# ── CSV helpers ───────────────────────────────────────────────────────────────
+# ── CSV discovery ─────────────────────────────────────────────────────────────
 
-SEED_DIR = Path(__file__).parent.parent / "data" / "seed"
+def find_csv(data_dir, suffix):
+    """
+    Find the first CSV file in data_dir whose name ends with _{suffix}.
+    Supports both 'bed_platforms.csv' (seed/) and 'atc_2022-04_bed_platforms.csv' (parsed/).
+    """
+    data_dir = Path(data_dir)
+    # Exact match first
+    exact = data_dir / suffix
+    if exact.exists():
+        return exact
+    # Glob for *_suffix
+    matches = sorted(data_dir.glob(f"*_{suffix}"))
+    if matches:
+        return matches[0]
+    return None
 
-def read_csv(filename):
-    path = SEED_DIR / filename
-    if not path.exists():
-        print(f"ERROR: {path} not found. Run parse_ranch_pdf.py first.")
+
+def read_csv_from_dir(data_dir, suffix, label):
+    path = find_csv(data_dir, suffix)
+    if path is None:
+        print(f"ERROR: No file matching *_{suffix} in {data_dir}")
         sys.exit(1)
     with open(path, newline="") as f:
         rows = list(csv.DictReader(f))
+    print(f"  Read {len(rows):>5} rows from {path.name}")
     return rows
 
+
+# ── Type coercion ─────────────────────────────────────────────────────────────
 
 def clean_row(row):
     """Replace empty string values with None so Postgres gets NULL not ''."""
@@ -83,7 +105,7 @@ def coerce_types(row, int_fields=(), float_fields=(), bool_fields=()):
     for field in int_fields:
         if out.get(field) is not None:
             try:
-                out[field] = int(out[field])
+                out[field] = int(float(out[field]))  # handles "100.0" → 100
             except (ValueError, TypeError):
                 out[field] = None
     for field in float_fields:
@@ -95,7 +117,8 @@ def coerce_types(row, int_fields=(), float_fields=(), bool_fields=()):
     for field in bool_fields:
         if out.get(field) is not None:
             v = str(out[field]).lower()
-            out[field] = v in ("true", "1", "yes")
+            out[field] = True if v in ("true", "1", "yes") else (
+                          False if v in ("false", "0", "no") else None)
     return out
 
 
@@ -121,8 +144,8 @@ def upsert_batches(client, table, rows, on_conflict, label):
 
 # ── Load functions ────────────────────────────────────────────────────────────
 
-def load_bed_platforms(client):
-    rows = read_csv("bed_platforms.csv")
+def load_bed_platforms(client, data_dir):
+    rows = read_csv_from_dir(data_dir, "bed_platforms.csv", "bed_platforms")
     cleaned = []
     int_f   = ("production_year_start", "production_year_end",
                 "stake_pocket_count_per_side")
@@ -139,71 +162,106 @@ def load_bed_platforms(client):
     upsert_batches(client, "bed_platforms", cleaned, "platform_id", "bed_platforms")
 
 
-def load_truck_models(client):
-    rows = read_csv("truck_models.csv")
+def load_truck_models(client, data_dir):
+    rows = read_csv_from_dir(data_dir, "truck_models.csv", "truck_models")
     cleaned = []
     for row in rows:
         r = clean_row(row)
         r = coerce_types(r, int_fields=("year",))
         cleaned.append(r)
+    # truck_models has no natural unique key; INSERT (upsert on id with no id = plain insert)
     upsert_batches(client, "truck_models", cleaned, "id", "truck_models")
 
 
-def load_topper_fitments(client):
-    rows = read_csv("topper_fitments.csv")
+def load_topper_fitments(client, data_dir):
+    rows = read_csv_from_dir(data_dir, "topper_fitments.csv", "topper_fitments")
     cleaned = []
+    int_f  = ("topper_production_year_start", "topper_production_year_end", "confidence")
+    bool_f = ("has_custom_fit", "has_skirted_sides", "camera_compatible")
     for row in rows:
         r = clean_row(row)
-        r = coerce_types(r, int_fields=(
-            "topper_production_year_start", "topper_production_year_end", "confidence"
-        ))
+        r = coerce_types(r, int_fields=int_f, bool_fields=bool_f)
         cleaned.append(r)
+    # topper_fitments has no natural unique key; INSERT only
     upsert_batches(client, "topper_fitments", cleaned, "id", "topper_fitments")
 
 
-def truncate_all(client):
-    # Must truncate in reverse FK order
-    for table in ("topper_fitments", "truck_models", "bed_platforms"):
-        client.rpc("truncate_table", {"tbl": table}).execute()
-    print("Tables truncated.")
+def load_manufacturer_platform_codes(client, data_dir):
+    path = find_csv(data_dir, "manufacturer_platform_codes.csv")
+    if path is None:
+        print("  manufacturer_platform_codes: no file found, skipping.")
+        return
+    with open(path, newline="") as f:
+        rows = list(csv.DictReader(f))
+    print(f"  Read {len(rows):>5} rows from {path.name}")
+    cleaned = [clean_row(r) for r in rows]
+    # Deduplicate within the batch — Postgres rejects upserts that hit the
+    # same unique key twice in one command.
+    seen = {}
+    for r in cleaned:
+        key = (r.get("platform_id"), r.get("manufacturer"), r.get("manufacturer_code"))
+        seen[key] = r
+    cleaned = list(seen.values())
+    print(f"  ({len(cleaned)} unique after dedup)")
+    # Keep only columns the table actually has
+    db_fields = {"platform_id", "manufacturer", "manufacturer_code"}
+    cleaned = [{k: v for k, v in r.items() if k in db_fields} for r in cleaned]
+    # Unique key: (platform_id, manufacturer, manufacturer_code)
+    upsert_batches(client, "manufacturer_platform_codes", cleaned,
+                   "platform_id,manufacturer,manufacturer_code",
+                   "manufacturer_platform_codes")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
-    parser = argparse.ArgumentParser(description="Load seed CSVs into Supabase.")
+    default_dir = Path(__file__).parent.parent / "data" / "seed"
+
+    parser = argparse.ArgumentParser(description="Load seed/parsed CSVs into Supabase.")
+    parser.add_argument("--dir", default=str(default_dir), metavar="PATH",
+                        help=f"Directory containing the CSV files (default: {default_dir})")
     parser.add_argument("--dry-run",  action="store_true",
                         help="Print counts without loading.")
     parser.add_argument("--truncate", action="store_true",
-                        help="Truncate tables before inserting.")
+                        help="Clear tables before inserting (Ranch re-seed only).")
     args = parser.parse_args()
 
+    data_dir = Path(args.dir)
+    if not data_dir.is_dir():
+        print(f"ERROR: {data_dir} is not a directory.")
+        sys.exit(1)
+
     if args.dry_run:
-        for name in ("bed_platforms.csv", "truck_models.csv", "topper_fitments.csv"):
-            rows = read_csv(name)
-            print(f"{name}: {len(rows)} rows")
-            if rows:
-                print(f"  First row: {rows[0]}")
+        for suffix in ("bed_platforms.csv", "truck_models.csv", "topper_fitments.csv"):
+            path = find_csv(data_dir, suffix)
+            if path:
+                with open(path, newline="") as f:
+                    rows = list(csv.DictReader(f))
+                print(f"{path.name}: {len(rows)} rows")
+                if rows:
+                    print(f"  First row keys: {list(rows[0].keys())}")
+            else:
+                print(f"(no file matching *_{suffix} in {data_dir})")
         return
 
     load_env()
     client = get_supabase_client()
 
     if args.truncate:
-        print("WARNING: --truncate will delete all existing rows.")
+        print("WARNING: --truncate will delete ALL existing rows from all three tables.")
         confirm = input("Type 'yes' to continue: ").strip().lower()
         if confirm != "yes":
             print("Aborted.")
             return
-        # Truncate via raw SQL (simpler than RPC for now)
         for table in ("topper_fitments", "truck_models", "bed_platforms"):
             client.table(table).delete().neq("id", -1).execute()
         print("Tables cleared.")
 
-    print("Loading data into Supabase...")
-    load_bed_platforms(client)
-    load_truck_models(client)
-    load_topper_fitments(client)
+    print(f"Loading data from {data_dir} into Supabase...")
+    load_bed_platforms(client, data_dir)
+    load_truck_models(client, data_dir)
+    load_topper_fitments(client, data_dir)
+    load_manufacturer_platform_codes(client, data_dir)
     print("\nAll done.")
 
 

@@ -1,0 +1,962 @@
+year,make,model,cab_style,bed_length_label,platform_id
+2021,Ford,F-150,,"56""",leer_56ff21
+2022,Ford,F-150,,"56""",leer_56ff21
+2023,Ford,F-150,,"56""",leer_56ff21
+2024,Ford,F-150,,"56""",leer_56ff21
+2025,Ford,F-150,,"56""",leer_56ff21
+2021,Ford,F-150,,"66""",leer_66ff21
+2022,Ford,F-150,,"66""",leer_66ff21
+2023,Ford,F-150,,"66""",leer_66ff21
+2024,Ford,F-150,,"66""",leer_66ff21
+2025,Ford,F-150,,"66""",leer_66ff21
+2021,Ford,F-150,,"80""",leer_80ff21
+2022,Ford,F-150,,"80""",leer_80ff21
+2023,Ford,F-150,,"80""",leer_80ff21
+2024,Ford,F-150,,"80""",leer_80ff21
+2025,Ford,F-150,,"80""",leer_80ff21
+2024,Ford,F-150,,"56""",leer_56ff21m
+2025,Ford,F-150,,"56""",leer_56ff21m
+2024,Ford,F-150,,"66""",leer_66ff21m
+2025,Ford,F-150,,"66""",leer_66ff21m
+2024,Ford,F-150,,"80""",leer_80ff21m
+2025,Ford,F-150,,"80""",leer_80ff21m
+2017,Ford,Ranger,,"56""",leer_56frpt17
+2018,Ford,Ranger,,"56""",leer_56frpt17
+2019,Ford,Ranger,,"56""",leer_56frpt17
+2020,Ford,Ranger,,"56""",leer_56frpt17
+2015,Ford,F-150,,"56""",leer_56ff15
+2016,Ford,F-150,,"56""",leer_56ff15
+2017,Ford,F-150,,"56""",leer_56ff15
+2018,Ford,F-150,,"56""",leer_56ff15
+2019,Ford,F-150,,"56""",leer_56ff15
+2020,Ford,F-150,,"56""",leer_56ff15
+2015,Ford,F-150,,"66""",leer_66ff15
+2016,Ford,F-150,,"66""",leer_66ff15
+2017,Ford,F-150,,"66""",leer_66ff15
+2018,Ford,F-150,,"66""",leer_66ff15
+2019,Ford,F-150,,"66""",leer_66ff15
+2020,Ford,F-150,,"66""",leer_66ff15
+2015,Ford,F-150,,"80""",leer_80ff15
+2016,Ford,F-150,,"80""",leer_80ff15
+2017,Ford,F-150,,"80""",leer_80ff15
+2018,Ford,F-150,,"80""",leer_80ff15
+2019,Ford,F-150,,"80""",leer_80ff15
+2020,Ford,F-150,,"80""",leer_80ff15
+2009,Ford,F-150,,"56""",leer_56ff09
+2010,Ford,F-150,,"56""",leer_56ff09
+2011,Ford,F-150,,"56""",leer_56ff09
+2012,Ford,F-150,,"56""",leer_56ff09
+2013,Ford,F-150,,"56""",leer_56ff09
+2014,Ford,F-150,,"56""",leer_56ff09
+2009,Ford,F-150,,"66""",leer_66ff09
+2010,Ford,F-150,,"66""",leer_66ff09
+2011,Ford,F-150,,"66""",leer_66ff09
+2012,Ford,F-150,,"66""",leer_66ff09
+2013,Ford,F-150,,"66""",leer_66ff09
+2014,Ford,F-150,,"66""",leer_66ff09
+2009,Ford,F-150,,"80""",leer_80ff09
+2010,Ford,F-150,,"80""",leer_80ff09
+2011,Ford,F-150,,"80""",leer_80ff09
+2012,Ford,F-150,,"80""",leer_80ff09
+2013,Ford,F-150,,"80""",leer_80ff09
+2014,Ford,F-150,,"80""",leer_80ff09
+2004,Ford,F-150,,"55""",leer_55ff
+2005,Ford,F-150,,"55""",leer_55ff
+2006,Ford,F-150,,"55""",leer_55ff
+2007,Ford,F-150,,"55""",leer_55ff
+2008,Ford,F-150,,"55""",leer_55ff
+2004,Ford,F-150,,"65""",leer_65ff
+2005,Ford,F-150,,"65""",leer_65ff
+2006,Ford,F-150,,"65""",leer_65ff
+2007,Ford,F-150,,"65""",leer_65ff
+2008,Ford,F-150,,"65""",leer_65ff
+2004,Ford,F-150,,"79""",leer_8ff
+2005,Ford,F-150,,"79""",leer_8ff
+2006,Ford,F-150,,"79""",leer_8ff
+2007,Ford,F-150,,"79""",leer_8ff
+2008,Ford,F-150,,"79""",leer_8ff
+2023,Ford,F-250 Super Duty,,"69""",leer_69fs23
+2024,Ford,F-250 Super Duty,,"69""",leer_69fs23
+2025,Ford,F-250 Super Duty,,"69""",leer_69fs23
+2023,Ford,F-250 Super Duty,,"80""",leer_80fs23
+2024,Ford,F-250 Super Duty,,"80""",leer_80fs23
+2025,Ford,F-250 Super Duty,,"80""",leer_80fs23
+2017,Ford,F-250 Super Duty,,"69""",leer_69fs17
+2018,Ford,F-250 Super Duty,,"69""",leer_69fs17
+2019,Ford,F-250 Super Duty,,"69""",leer_69fs17
+2020,Ford,F-250 Super Duty,,"69""",leer_69fs17
+2021,Ford,F-250 Super Duty,,"69""",leer_69fs17
+2022,Ford,F-250 Super Duty,,"69""",leer_69fs17
+2017,Ford,F-250 Super Duty,,"80""",leer_80fs17
+2018,Ford,F-250 Super Duty,,"80""",leer_80fs17
+2019,Ford,F-250 Super Duty,,"80""",leer_80fs17
+2020,Ford,F-250 Super Duty,,"80""",leer_80fs17
+2021,Ford,F-250 Super Duty,,"80""",leer_80fs17
+2022,Ford,F-250 Super Duty,,"80""",leer_80fs17
+2008,Ford,F-250 Super Duty,,"80""",leer_8fsd
+2009,Ford,F-250 Super Duty,,"80""",leer_8fsd
+2010,Ford,F-250 Super Duty,,"80""",leer_8fsd
+2011,Ford,F-250 Super Duty,,"80""",leer_8fsd
+2012,Ford,F-250 Super Duty,,"80""",leer_8fsd
+2013,Ford,F-250 Super Duty,,"80""",leer_8fsd
+2014,Ford,F-250 Super Duty,,"80""",leer_8fsd
+2015,Ford,F-250 Super Duty,,"80""",leer_8fsd
+2016,Ford,F-250 Super Duty,,"80""",leer_8fsd
+2008,Ford,F-250 Super Duty,,"65""",leer_65fsd
+2009,Ford,F-250 Super Duty,,"65""",leer_65fsd
+2010,Ford,F-250 Super Duty,,"65""",leer_65fsd
+2011,Ford,F-250 Super Duty,,"65""",leer_65fsd
+2012,Ford,F-250 Super Duty,,"65""",leer_65fsd
+2013,Ford,F-250 Super Duty,,"65""",leer_65fsd
+2014,Ford,F-250 Super Duty,,"65""",leer_65fsd
+2015,Ford,F-250 Super Duty,,"65""",leer_65fsd
+2016,Ford,F-250 Super Duty,,"65""",leer_65fsd
+2008,Ford,F-250 Super Duty,,"80""",leer_8fsds
+2009,Ford,F-250 Super Duty,,"80""",leer_8fsds
+2010,Ford,F-250 Super Duty,,"80""",leer_8fsds
+2011,Ford,F-250 Super Duty,,"80""",leer_8fsds
+2012,Ford,F-250 Super Duty,,"80""",leer_8fsds
+2013,Ford,F-250 Super Duty,,"80""",leer_8fsds
+2014,Ford,F-250 Super Duty,,"80""",leer_8fsds
+2015,Ford,F-250 Super Duty,,"80""",leer_8fsds
+2016,Ford,F-250 Super Duty,,"80""",leer_8fsds
+2008,Ford,F-250 Super Duty,,"65""",leer_65fsds
+2009,Ford,F-250 Super Duty,,"65""",leer_65fsds
+2010,Ford,F-250 Super Duty,,"65""",leer_65fsds
+2011,Ford,F-250 Super Duty,,"65""",leer_65fsds
+2012,Ford,F-250 Super Duty,,"65""",leer_65fsds
+2013,Ford,F-250 Super Duty,,"65""",leer_65fsds
+2014,Ford,F-250 Super Duty,,"65""",leer_65fsds
+2015,Ford,F-250 Super Duty,,"65""",leer_65fsds
+2016,Ford,F-250 Super Duty,,"65""",leer_65fsds
+2024,Ford,Ranger,,"61""",leer_4afr24
+2025,Ford,Ranger,,"61""",leer_4afr24
+2019,Ford,Ranger,,"61""",leer_4afr19
+2020,Ford,Ranger,,"61""",leer_4afr19
+2021,Ford,Ranger,,"61""",leer_4afr19
+2022,Ford,Ranger,,"61""",leer_4afr19
+2023,Ford,Ranger,,"61""",leer_4afr19
+2019,Ford,Ranger,,"61""",leer_5afr19
+2020,Ford,Ranger,,"61""",leer_5afr19
+2021,Ford,Ranger,,"61""",leer_5afr19
+2022,Ford,Ranger,,"61""",leer_5afr19
+2023,Ford,Ranger,,"61""",leer_5afr19
+2007,Ford,F-150,,"56""",leer_56fst
+2008,Ford,F-150,,"56""",leer_56fst
+2009,Ford,F-150,,"56""",leer_56fst
+2010,Ford,F-150,,"56""",leer_56fst
+1993,Ford,Ranger,,"75""",leer_75r
+1994,Ford,Ranger,,"75""",leer_75r
+1995,Ford,Ranger,,"75""",leer_75r
+1996,Ford,Ranger,,"75""",leer_75r
+1997,Ford,Ranger,,"75""",leer_75r
+1998,Ford,Ranger,,"75""",leer_75r
+1999,Ford,Ranger,,"75""",leer_75r
+2000,Ford,Ranger,,"75""",leer_75r
+2001,Ford,Ranger,,"75""",leer_75r
+2002,Ford,Ranger,,"75""",leer_75r
+2003,Ford,Ranger,,"75""",leer_75r
+2004,Ford,Ranger,,"75""",leer_75r
+2005,Ford,Ranger,,"75""",leer_75r
+2006,Ford,Ranger,,"75""",leer_75r
+2007,Ford,Ranger,,"75""",leer_75r
+2008,Ford,Ranger,,"75""",leer_75r
+2009,Ford,Ranger,,"75""",leer_75r
+2010,Ford,Ranger,,"75""",leer_75r
+2011,Ford,Ranger,,"75""",leer_75r
+2012,Ford,Ranger,,"75""",leer_75r
+2022,Ford,Maverick,,"45""",leer_45fm22
+2023,Ford,Maverick,,"45""",leer_45fm22
+2024,Ford,Maverick,,"45""",leer_45fm22
+2025,Ford,Maverick,,"45""",leer_45fm22
+2019,Ram,1500,,"64""",leer_64dr19_h
+2020,Ram,1500,,"64""",leer_64dr19_h
+2021,Ram,1500,,"64""",leer_64dr19_h
+2022,Ram,1500,,"64""",leer_64dr19_h
+2023,Ram,1500,,"64""",leer_64dr19_h
+2024,Ram,1500,,"64""",leer_64dr19_h
+2025,Ram,1500,,"64""",leer_64dr19_h
+2019,Ram,1500,,"64""",leer_64dr19_d
+2020,Ram,1500,,"64""",leer_64dr19_d
+2021,Ram,1500,,"64""",leer_64dr19_d
+2022,Ram,1500,,"64""",leer_64dr19_d
+2023,Ram,1500,,"64""",leer_64dr19_d
+2024,Ram,1500,,"64""",leer_64dr19_d
+2025,Ram,1500,,"64""",leer_64dr19_d
+2019,Ram,1500,,"80""",leer_80dr19_h
+2020,Ram,1500,,"80""",leer_80dr19_h
+2021,Ram,1500,,"80""",leer_80dr19_h
+2022,Ram,1500,,"80""",leer_80dr19_h
+2023,Ram,1500,,"80""",leer_80dr19_h
+2024,Ram,1500,,"80""",leer_80dr19_h
+2025,Ram,1500,,"80""",leer_80dr19_h
+2019,Ram,1500,,"80""",leer_80dr19_d
+2020,Ram,1500,,"80""",leer_80dr19_d
+2021,Ram,1500,,"80""",leer_80dr19_d
+2022,Ram,1500,,"80""",leer_80dr19_d
+2023,Ram,1500,,"80""",leer_80dr19_d
+2024,Ram,1500,,"80""",leer_80dr19_d
+2025,Ram,1500,,"80""",leer_80dr19_d
+2019,Ram,1500,,"57""",leer_57dr19
+2020,Ram,1500,,"57""",leer_57dr19
+2021,Ram,1500,,"57""",leer_57dr19
+2022,Ram,1500,,"57""",leer_57dr19
+2023,Ram,1500,,"57""",leer_57dr19
+2024,Ram,1500,,"57""",leer_57dr19
+2025,Ram,1500,,"57""",leer_57dr19
+2025,Ram,1500,,"64""",leer_64dr19
+2010,Ram,1500,,"80""",leer_80dr10
+2011,Ram,1500,,"80""",leer_80dr10
+2012,Ram,1500,,"80""",leer_80dr10
+2013,Ram,1500,,"80""",leer_80dr10
+2014,Ram,1500,,"80""",leer_80dr10
+2015,Ram,1500,,"80""",leer_80dr10
+2016,Ram,1500,,"80""",leer_80dr10
+2017,Ram,1500,,"80""",leer_80dr10
+2018,Ram,1500,,"80""",leer_80dr10
+2010,Ram,1500,,"80""",leer_80dr10_d
+2011,Ram,1500,,"80""",leer_80dr10_d
+2012,Ram,1500,,"80""",leer_80dr10_d
+2013,Ram,1500,,"80""",leer_80dr10_d
+2014,Ram,1500,,"80""",leer_80dr10_d
+2015,Ram,1500,,"80""",leer_80dr10_d
+2016,Ram,1500,,"80""",leer_80dr10_d
+2017,Ram,1500,,"80""",leer_80dr10_d
+2018,Ram,1500,,"80""",leer_80dr10_d
+2009,Ram,1500,,"57""",leer_57dr09
+2010,Ram,1500,,"57""",leer_57dr09
+2011,Ram,1500,,"57""",leer_57dr09
+2012,Ram,1500,,"57""",leer_57dr09
+2013,Ram,1500,,"57""",leer_57dr09
+2014,Ram,1500,,"57""",leer_57dr09
+2015,Ram,1500,,"57""",leer_57dr09
+2016,Ram,1500,,"57""",leer_57dr09
+2017,Ram,1500,,"57""",leer_57dr09
+2018,Ram,1500,,"57""",leer_57dr09
+2019,Ram,1500,,"57""",leer_57dr09
+2020,Ram,1500,,"57""",leer_57dr09
+2021,Ram,1500,,"57""",leer_57dr09
+2022,Ram,1500,,"57""",leer_57dr09
+2023,Ram,1500,,"57""",leer_57dr09
+2024,Ram,1500,,"57""",leer_57dr09
+2009,Ram,1500,,"64""",leer_64dr09
+2010,Ram,1500,,"64""",leer_64dr09
+2011,Ram,1500,,"64""",leer_64dr09
+2012,Ram,1500,,"64""",leer_64dr09
+2013,Ram,1500,,"64""",leer_64dr09
+2014,Ram,1500,,"64""",leer_64dr09
+2015,Ram,1500,,"64""",leer_64dr09
+2016,Ram,1500,,"64""",leer_64dr09
+2017,Ram,1500,,"64""",leer_64dr09
+2018,Ram,1500,,"64""",leer_64dr09
+2009,Ram,1500,Quad Cab,"64""",leer_64drqc09
+2010,Ram,1500,Quad Cab,"64""",leer_64drqc09
+2011,Ram,1500,Quad Cab,"64""",leer_64drqc09
+2012,Ram,1500,Quad Cab,"64""",leer_64drqc09
+2013,Ram,1500,Quad Cab,"64""",leer_64drqc09
+2014,Ram,1500,Quad Cab,"64""",leer_64drqc09
+2015,Ram,1500,Quad Cab,"64""",leer_64drqc09
+2016,Ram,1500,Quad Cab,"64""",leer_64drqc09
+2017,Ram,1500,Quad Cab,"64""",leer_64drqc09
+2018,Ram,1500,Quad Cab,"64""",leer_64drqc09
+2019,Ram,1500,Quad Cab,"64""",leer_64drqc09
+2020,Ram,1500,Quad Cab,"64""",leer_64drqc09
+2021,Ram,1500,Quad Cab,"64""",leer_64drqc09
+2022,Ram,1500,Quad Cab,"64""",leer_64drqc09
+2023,Ram,1500,Quad Cab,"64""",leer_64drqc09
+2024,Ram,1500,Quad Cab,"64""",leer_64drqc09
+2009,Ram,1500,,"80""",leer_80dr09
+2010,Ram,1500,,"80""",leer_80dr09
+2011,Ram,1500,,"80""",leer_80dr09
+2012,Ram,1500,,"80""",leer_80dr09
+2013,Ram,1500,,"80""",leer_80dr09
+2014,Ram,1500,,"80""",leer_80dr09
+2015,Ram,1500,,"80""",leer_80dr09
+2016,Ram,1500,,"80""",leer_80dr09
+2017,Ram,1500,,"80""",leer_80dr09
+2018,Ram,1500,,"80""",leer_80dr09
+2019,Ram,1500,,"80""",leer_80dr09
+2020,Ram,1500,,"80""",leer_80dr09
+2021,Ram,1500,,"80""",leer_80dr09
+2022,Ram,1500,,"80""",leer_80dr09
+2023,Ram,1500,,"80""",leer_80dr09
+2024,Ram,1500,,"80""",leer_80dr09
+2025,Ram,1500,,"80""",leer_80dr09
+2009,Ram,1500,Quad Cab,"64""",leer_64drqc09_d
+2010,Ram,1500,Quad Cab,"64""",leer_64drqc09_d
+2011,Ram,1500,Quad Cab,"64""",leer_64drqc09_d
+2012,Ram,1500,Quad Cab,"64""",leer_64drqc09_d
+2013,Ram,1500,Quad Cab,"64""",leer_64drqc09_d
+2014,Ram,1500,Quad Cab,"64""",leer_64drqc09_d
+2015,Ram,1500,Quad Cab,"64""",leer_64drqc09_d
+2016,Ram,1500,Quad Cab,"64""",leer_64drqc09_d
+2017,Ram,1500,Quad Cab,"64""",leer_64drqc09_d
+2018,Ram,1500,Quad Cab,"64""",leer_64drqc09_d
+2010,Ram,1500,,"64""",leer_64dr09_d
+2011,Ram,1500,,"64""",leer_64dr09_d
+2012,Ram,1500,,"64""",leer_64dr09_d
+2013,Ram,1500,,"64""",leer_64dr09_d
+2014,Ram,1500,,"64""",leer_64dr09_d
+2015,Ram,1500,,"64""",leer_64dr09_d
+2016,Ram,1500,,"64""",leer_64dr09_d
+2017,Ram,1500,,"64""",leer_64dr09_d
+2018,Ram,1500,,"64""",leer_64dr09_d
+2010,Ram,1500,,"80""",leer_80dr09_d
+2011,Ram,1500,,"80""",leer_80dr09_d
+2012,Ram,1500,,"80""",leer_80dr09_d
+2013,Ram,1500,,"80""",leer_80dr09_d
+2014,Ram,1500,,"80""",leer_80dr09_d
+2015,Ram,1500,,"80""",leer_80dr09_d
+2016,Ram,1500,,"80""",leer_80dr09_d
+2017,Ram,1500,,"80""",leer_80dr09_d
+2018,Ram,1500,,"80""",leer_80dr09_d
+2019,Ram,1500,,"80""",leer_80dr09_d
+2020,Ram,1500,,"80""",leer_80dr09_d
+2021,Ram,1500,,"80""",leer_80dr09_d
+2022,Ram,1500,,"80""",leer_80dr09_d
+2023,Ram,1500,,"80""",leer_80dr09_d
+2024,Ram,1500,,"80""",leer_80dr09_d
+2025,Ram,1500,,"80""",leer_80dr09_d
+2002,Ram,1500,,"65""",leer_65dr
+2003,Ram,1500,,"65""",leer_65dr
+2004,Ram,1500,,"65""",leer_65dr
+2005,Ram,1500,,"65""",leer_65dr
+2006,Ram,1500,,"65""",leer_65dr
+2007,Ram,1500,,"65""",leer_65dr
+2008,Ram,1500,,"65""",leer_65dr
+2009,Ram,1500,,"65""",leer_65dr
+2002,Ram,1500,,"79""",leer_8dr
+2003,Ram,1500,,"79""",leer_8dr
+2004,Ram,1500,,"79""",leer_8dr
+2005,Ram,1500,,"79""",leer_8dr
+2006,Ram,1500,,"79""",leer_8dr
+2007,Ram,1500,,"79""",leer_8dr
+2008,Ram,1500,,"79""",leer_8dr
+2009,Ram,1500,,"79""",leer_8dr
+2008,Dodge,Dakota,,"67""",leer_67ddt
+2008,Dodge,Dakota,,"81""",leer_81ddt
+2005,Dodge,Dakota,,"67""",leer_67dd
+2006,Dodge,Dakota,,"67""",leer_67dd
+2007,Dodge,Dakota,,"67""",leer_67dd
+2008,Dodge,Dakota,,"67""",leer_67dd
+2009,Dodge,Dakota,,"67""",leer_67dd
+2010,Dodge,Dakota,,"67""",leer_67dd
+2011,Dodge,Dakota,,"67""",leer_67dd
+2005,Dodge,Dakota,,"81""",leer_81dd
+2006,Dodge,Dakota,,"81""",leer_81dd
+2007,Dodge,Dakota,,"81""",leer_81dd
+2008,Dodge,Dakota,,"81""",leer_81dd
+2009,Dodge,Dakota,,"81""",leer_81dd
+2010,Dodge,Dakota,,"81""",leer_81dd
+2011,Dodge,Dakota,,"81""",leer_81dd
+1997,Dodge,Dakota,,"81""",leer_81dk
+1998,Dodge,Dakota,,"81""",leer_81dk
+1999,Dodge,Dakota,,"81""",leer_81dk
+2000,Dodge,Dakota,,"81""",leer_81dk
+2001,Dodge,Dakota,,"81""",leer_81dk
+2002,Dodge,Dakota,,"81""",leer_81dk
+2003,Dodge,Dakota,,"81""",leer_81dk
+2004,Dodge,Dakota,,"81""",leer_81dk
+2020,Jeep,Gladiator,,"50""",leer_50jg20
+2021,Jeep,Gladiator,,"50""",leer_50jg20
+2022,Jeep,Gladiator,,"50""",leer_50jg20
+2023,Jeep,Gladiator,,"50""",leer_50jg20
+2024,Jeep,Gladiator,,"50""",leer_50jg20
+2020,GMC,Sierra,,"67""",leer_67go20_h
+2021,GMC,Sierra,,"67""",leer_67go20_h
+2022,GMC,Sierra,,"67""",leer_67go20_h
+2023,GMC,Sierra,,"67""",leer_67go20_h
+2024,GMC,Sierra,,"67""",leer_67go20_h
+2025,GMC,Sierra,,"67""",leer_67go20_h
+2020,GMC,Sierra,,"80""",leer_80go20_h
+2021,GMC,Sierra,,"80""",leer_80go20_h
+2022,GMC,Sierra,,"80""",leer_80go20_h
+2023,GMC,Sierra,,"80""",leer_80go20_h
+2024,GMC,Sierra,,"80""",leer_80go20_h
+2025,GMC,Sierra,,"80""",leer_80go20_h
+2020,GMC,Sierra,,"67""",leer_67go20_hm
+2021,GMC,Sierra,,"67""",leer_67go20_hm
+2022,GMC,Sierra,,"67""",leer_67go20_hm
+2023,GMC,Sierra,,"67""",leer_67go20_hm
+2024,GMC,Sierra,,"67""",leer_67go20_hm
+2025,GMC,Sierra,,"67""",leer_67go20_hm
+2020,GMC,Sierra,,"80""",leer_80go20_hm
+2021,GMC,Sierra,,"80""",leer_80go20_hm
+2022,GMC,Sierra,,"80""",leer_80go20_hm
+2023,GMC,Sierra,,"80""",leer_80go20_hm
+2024,GMC,Sierra,,"80""",leer_80go20_hm
+2025,GMC,Sierra,,"80""",leer_80go20_hm
+2019,Chevrolet,Silverado,,"58""",leer_58gso19
+2020,Chevrolet,Silverado,,"58""",leer_58gso19
+2021,Chevrolet,Silverado,,"58""",leer_58gso19
+2022,Chevrolet,Silverado,,"58""",leer_58gso19
+2023,Chevrolet,Silverado,,"58""",leer_58gso19
+2024,Chevrolet,Silverado,,"58""",leer_58gso19
+2025,Chevrolet,Silverado,,"58""",leer_58gso19
+2019,Chevrolet,Silverado,,"66""",leer_66gso19
+2020,Chevrolet,Silverado,,"66""",leer_66gso19
+2021,Chevrolet,Silverado,,"66""",leer_66gso19
+2022,Chevrolet,Silverado,,"66""",leer_66gso19
+2023,Chevrolet,Silverado,,"66""",leer_66gso19
+2024,Chevrolet,Silverado,,"66""",leer_66gso19
+2025,Chevrolet,Silverado,,"66""",leer_66gso19
+2019,Chevrolet,Silverado,,"80""",leer_80gso19
+2020,Chevrolet,Silverado,,"80""",leer_80gso19
+2021,Chevrolet,Silverado,,"80""",leer_80gso19
+2022,Chevrolet,Silverado,,"80""",leer_80gso19
+2023,Chevrolet,Silverado,,"80""",leer_80gso19
+2024,Chevrolet,Silverado,,"80""",leer_80gso19
+2025,Chevrolet,Silverado,,"80""",leer_80gso19
+2019,Chevrolet,Silverado,,"58""",leer_58gso19m
+2020,Chevrolet,Silverado,,"58""",leer_58gso19m
+2021,Chevrolet,Silverado,,"58""",leer_58gso19m
+2022,Chevrolet,Silverado,,"58""",leer_58gso19m
+2023,Chevrolet,Silverado,,"58""",leer_58gso19m
+2024,Chevrolet,Silverado,,"58""",leer_58gso19m
+2025,Chevrolet,Silverado,,"58""",leer_58gso19m
+2019,Chevrolet,Silverado,,"66""",leer_66gso19m
+2020,Chevrolet,Silverado,,"66""",leer_66gso19m
+2021,Chevrolet,Silverado,,"66""",leer_66gso19m
+2022,Chevrolet,Silverado,,"66""",leer_66gso19m
+2023,Chevrolet,Silverado,,"66""",leer_66gso19m
+2024,Chevrolet,Silverado,,"66""",leer_66gso19m
+2025,Chevrolet,Silverado,,"66""",leer_66gso19m
+2019,Chevrolet,Silverado,,"80""",leer_80gso19m
+2020,Chevrolet,Silverado,,"80""",leer_80gso19m
+2021,Chevrolet,Silverado,,"80""",leer_80gso19m
+2022,Chevrolet,Silverado,,"80""",leer_80gso19m
+2023,Chevrolet,Silverado,,"80""",leer_80gso19m
+2024,Chevrolet,Silverado,,"80""",leer_80gso19m
+2025,Chevrolet,Silverado,,"80""",leer_80gso19m
+2020,GMC,Sierra,,"67""",leer_67ga20_h
+2021,GMC,Sierra,,"67""",leer_67ga20_h
+2022,GMC,Sierra,,"67""",leer_67ga20_h
+2023,GMC,Sierra,,"67""",leer_67ga20_h
+2024,GMC,Sierra,,"67""",leer_67ga20_h
+2025,GMC,Sierra,,"67""",leer_67ga20_h
+2020,GMC,Sierra,,"80""",leer_80ga20_h
+2021,GMC,Sierra,,"80""",leer_80ga20_h
+2022,GMC,Sierra,,"80""",leer_80ga20_h
+2023,GMC,Sierra,,"80""",leer_80ga20_h
+2024,GMC,Sierra,,"80""",leer_80ga20_h
+2025,GMC,Sierra,,"80""",leer_80ga20_h
+2020,GMC,Sierra,,"67""",leer_67ga20_hm
+2021,GMC,Sierra,,"67""",leer_67ga20_hm
+2022,GMC,Sierra,,"67""",leer_67ga20_hm
+2023,GMC,Sierra,,"67""",leer_67ga20_hm
+2024,GMC,Sierra,,"67""",leer_67ga20_hm
+2025,GMC,Sierra,,"67""",leer_67ga20_hm
+2020,GMC,Sierra,,"80""",leer_80ga20_hm
+2021,GMC,Sierra,,"80""",leer_80ga20_hm
+2022,GMC,Sierra,,"80""",leer_80ga20_hm
+2023,GMC,Sierra,,"80""",leer_80ga20_hm
+2024,GMC,Sierra,,"80""",leer_80ga20_hm
+2025,GMC,Sierra,,"80""",leer_80ga20_hm
+2019,Chevrolet,Silverado,,"58""",leer_58gsa19
+2020,Chevrolet,Silverado,,"58""",leer_58gsa19
+2021,Chevrolet,Silverado,,"58""",leer_58gsa19
+2022,Chevrolet,Silverado,,"58""",leer_58gsa19
+2023,Chevrolet,Silverado,,"58""",leer_58gsa19
+2024,Chevrolet,Silverado,,"58""",leer_58gsa19
+2025,Chevrolet,Silverado,,"58""",leer_58gsa19
+2019,Chevrolet,Silverado,,"66""",leer_66gsa19
+2020,Chevrolet,Silverado,,"66""",leer_66gsa19
+2021,Chevrolet,Silverado,,"66""",leer_66gsa19
+2022,Chevrolet,Silverado,,"66""",leer_66gsa19
+2023,Chevrolet,Silverado,,"66""",leer_66gsa19
+2024,Chevrolet,Silverado,,"66""",leer_66gsa19
+2025,Chevrolet,Silverado,,"66""",leer_66gsa19
+2019,Chevrolet,Silverado,,"80""",leer_80gsa19
+2020,Chevrolet,Silverado,,"80""",leer_80gsa19
+2021,Chevrolet,Silverado,,"80""",leer_80gsa19
+2022,Chevrolet,Silverado,,"80""",leer_80gsa19
+2023,Chevrolet,Silverado,,"80""",leer_80gsa19
+2024,Chevrolet,Silverado,,"80""",leer_80gsa19
+2025,Chevrolet,Silverado,,"80""",leer_80gsa19
+2019,Chevrolet,Silverado,,"58""",leer_58gsa19m
+2020,Chevrolet,Silverado,,"58""",leer_58gsa19m
+2021,Chevrolet,Silverado,,"58""",leer_58gsa19m
+2022,Chevrolet,Silverado,,"58""",leer_58gsa19m
+2023,Chevrolet,Silverado,,"58""",leer_58gsa19m
+2024,Chevrolet,Silverado,,"58""",leer_58gsa19m
+2025,Chevrolet,Silverado,,"58""",leer_58gsa19m
+2019,Chevrolet,Silverado,,"66""",leer_66gsa19m
+2020,Chevrolet,Silverado,,"66""",leer_66gsa19m
+2021,Chevrolet,Silverado,,"66""",leer_66gsa19m
+2022,Chevrolet,Silverado,,"66""",leer_66gsa19m
+2023,Chevrolet,Silverado,,"66""",leer_66gsa19m
+2024,Chevrolet,Silverado,,"66""",leer_66gsa19m
+2025,Chevrolet,Silverado,,"66""",leer_66gsa19m
+2014,Chevrolet,Silverado,,"66""",leer_66gs14
+2015,Chevrolet,Silverado,,"66""",leer_66gs14
+2016,Chevrolet,Silverado,,"66""",leer_66gs14
+2017,Chevrolet,Silverado,,"66""",leer_66gs14
+2018,Chevrolet,Silverado,,"66""",leer_66gs14
+2014,Chevrolet,Silverado,,"80""",leer_80gs14
+2015,Chevrolet,Silverado,,"80""",leer_80gs14
+2016,Chevrolet,Silverado,,"80""",leer_80gs14
+2017,Chevrolet,Silverado,,"80""",leer_80gs14
+2018,Chevrolet,Silverado,,"80""",leer_80gs14
+2015,Chevrolet,Silverado,,"80""",leer_80gsd15
+2016,Chevrolet,Silverado,,"80""",leer_80gsd15
+2017,Chevrolet,Silverado,,"80""",leer_80gsd15
+2018,Chevrolet,Silverado,,"80""",leer_80gsd15
+2019,Chevrolet,Silverado,,"80""",leer_80gsd15
+2014,Chevrolet,Silverado,,"58""",leer_58gs14
+2015,Chevrolet,Silverado,,"58""",leer_58gs14
+2016,Chevrolet,Silverado,,"58""",leer_58gs14
+2017,Chevrolet,Silverado,,"58""",leer_58gs14
+2018,Chevrolet,Silverado,,"58""",leer_58gs14
+2007,Chevrolet,Silverado,,"58""",leer_58gso
+2008,Chevrolet,Silverado,,"58""",leer_58gso
+2009,Chevrolet,Silverado,,"58""",leer_58gso
+2010,Chevrolet,Silverado,,"58""",leer_58gso
+2011,Chevrolet,Silverado,,"58""",leer_58gso
+2012,Chevrolet,Silverado,,"58""",leer_58gso
+2013,Chevrolet,Silverado,,"58""",leer_58gso
+2007,Chevrolet,Silverado,Crew Cab,"58""",leer_58gsocc
+2008,Chevrolet,Silverado,Crew Cab,"58""",leer_58gsocc
+2009,Chevrolet,Silverado,Crew Cab,"58""",leer_58gsocc
+2010,Chevrolet,Silverado,Crew Cab,"58""",leer_58gsocc
+2011,Chevrolet,Silverado,Crew Cab,"58""",leer_58gsocc
+2012,Chevrolet,Silverado,Crew Cab,"58""",leer_58gsocc
+2013,Chevrolet,Silverado,Crew Cab,"58""",leer_58gsocc
+2007,Chevrolet,Silverado,,"65""",leer_65gso
+2008,Chevrolet,Silverado,,"65""",leer_65gso
+2009,Chevrolet,Silverado,,"65""",leer_65gso
+2010,Chevrolet,Silverado,,"65""",leer_65gso
+2011,Chevrolet,Silverado,,"65""",leer_65gso
+2012,Chevrolet,Silverado,,"65""",leer_65gso
+2013,Chevrolet,Silverado,,"65""",leer_65gso
+2007,Chevrolet,Silverado,Crew Cab,"65""",leer_65gsocc
+2008,Chevrolet,Silverado,Crew Cab,"65""",leer_65gsocc
+2009,Chevrolet,Silverado,Crew Cab,"65""",leer_65gsocc
+2010,Chevrolet,Silverado,Crew Cab,"65""",leer_65gsocc
+2011,Chevrolet,Silverado,Crew Cab,"65""",leer_65gsocc
+2012,Chevrolet,Silverado,Crew Cab,"65""",leer_65gsocc
+2013,Chevrolet,Silverado,Crew Cab,"65""",leer_65gsocc
+2007,Chevrolet,Silverado,,"79""",leer_8gso
+2008,Chevrolet,Silverado,,"79""",leer_8gso
+2009,Chevrolet,Silverado,,"79""",leer_8gso
+2010,Chevrolet,Silverado,,"79""",leer_8gso
+2011,Chevrolet,Silverado,,"79""",leer_8gso
+2012,Chevrolet,Silverado,,"79""",leer_8gso
+2013,Chevrolet,Silverado,,"79""",leer_8gso
+2007,Chevrolet,Silverado,Crew Cab,"79""",leer_8gsocc
+2008,Chevrolet,Silverado,Crew Cab,"79""",leer_8gsocc
+2009,Chevrolet,Silverado,Crew Cab,"79""",leer_8gsocc
+2010,Chevrolet,Silverado,Crew Cab,"79""",leer_8gsocc
+2011,Chevrolet,Silverado,Crew Cab,"79""",leer_8gsocc
+2012,Chevrolet,Silverado,Crew Cab,"79""",leer_8gsocc
+2013,Chevrolet,Silverado,Crew Cab,"79""",leer_8gsocc
+2007,Chevrolet,Silverado,,"79""",leer_8gsd
+2008,Chevrolet,Silverado,,"79""",leer_8gsd
+2009,Chevrolet,Silverado,,"79""",leer_8gsd
+2010,Chevrolet,Silverado,,"79""",leer_8gsd
+2011,Chevrolet,Silverado,,"79""",leer_8gsd
+2012,Chevrolet,Silverado,,"79""",leer_8gsd
+2013,Chevrolet,Silverado,,"79""",leer_8gsd
+2014,Chevrolet,Silverado,,"79""",leer_8gsd
+2007,Chevrolet,Silverado,,"58""",leer_58gsa
+2008,Chevrolet,Silverado,,"58""",leer_58gsa
+2009,Chevrolet,Silverado,,"58""",leer_58gsa
+2010,Chevrolet,Silverado,,"58""",leer_58gsa
+2011,Chevrolet,Silverado,,"58""",leer_58gsa
+2012,Chevrolet,Silverado,,"58""",leer_58gsa
+2013,Chevrolet,Silverado,,"58""",leer_58gsa
+2007,Chevrolet,Silverado,Crew Cab,"58""",leer_58gsacc
+2008,Chevrolet,Silverado,Crew Cab,"58""",leer_58gsacc
+2009,Chevrolet,Silverado,Crew Cab,"58""",leer_58gsacc
+2010,Chevrolet,Silverado,Crew Cab,"58""",leer_58gsacc
+2011,Chevrolet,Silverado,Crew Cab,"58""",leer_58gsacc
+2012,Chevrolet,Silverado,Crew Cab,"58""",leer_58gsacc
+2013,Chevrolet,Silverado,Crew Cab,"58""",leer_58gsacc
+2007,Chevrolet,Silverado,,"65""",leer_65gsa
+2008,Chevrolet,Silverado,,"65""",leer_65gsa
+2009,Chevrolet,Silverado,,"65""",leer_65gsa
+2010,Chevrolet,Silverado,,"65""",leer_65gsa
+2011,Chevrolet,Silverado,,"65""",leer_65gsa
+2012,Chevrolet,Silverado,,"65""",leer_65gsa
+2013,Chevrolet,Silverado,,"65""",leer_65gsa
+2007,Chevrolet,Silverado,Crew Cab,"65""",leer_65gsacc
+2008,Chevrolet,Silverado,Crew Cab,"65""",leer_65gsacc
+2009,Chevrolet,Silverado,Crew Cab,"65""",leer_65gsacc
+2010,Chevrolet,Silverado,Crew Cab,"65""",leer_65gsacc
+2011,Chevrolet,Silverado,Crew Cab,"65""",leer_65gsacc
+2012,Chevrolet,Silverado,Crew Cab,"65""",leer_65gsacc
+2013,Chevrolet,Silverado,Crew Cab,"65""",leer_65gsacc
+2007,Chevrolet,Silverado,,"79""",leer_8gsa
+2008,Chevrolet,Silverado,,"79""",leer_8gsa
+2009,Chevrolet,Silverado,,"79""",leer_8gsa
+2010,Chevrolet,Silverado,,"79""",leer_8gsa
+2011,Chevrolet,Silverado,,"79""",leer_8gsa
+2012,Chevrolet,Silverado,,"79""",leer_8gsa
+2013,Chevrolet,Silverado,,"79""",leer_8gsa
+1999,Chevrolet,Silverado,,"79""",leer_8gmt
+2000,Chevrolet,Silverado,,"79""",leer_8gmt
+2001,Chevrolet,Silverado,,"79""",leer_8gmt
+2002,Chevrolet,Silverado,,"79""",leer_8gmt
+2003,Chevrolet,Silverado,,"79""",leer_8gmt
+2004,Chevrolet,Silverado,,"79""",leer_8gmt
+2005,Chevrolet,Silverado,,"79""",leer_8gmt
+2006,Chevrolet,Silverado,,"79""",leer_8gmt
+1999,Chevrolet,Silverado,,"65""",leer_65gmt
+2000,Chevrolet,Silverado,,"65""",leer_65gmt
+2001,Chevrolet,Silverado,,"65""",leer_65gmt
+2002,Chevrolet,Silverado,,"65""",leer_65gmt
+2003,Chevrolet,Silverado,,"65""",leer_65gmt
+2004,Chevrolet,Silverado,,"65""",leer_65gmt
+2005,Chevrolet,Silverado,,"65""",leer_65gmt
+2006,Chevrolet,Silverado,,"65""",leer_65gmt
+2004,Chevrolet,Silverado,,"58""",leer_58gmtw
+2005,Chevrolet,Silverado,,"58""",leer_58gmtw
+2006,Chevrolet,Silverado,,"58""",leer_58gmtw
+2004,Chevrolet,Silverado,,"58""",leer_58gmt
+2005,Chevrolet,Silverado,,"58""",leer_58gmt
+2006,Chevrolet,Silverado,,"58""",leer_58gmt
+2001,Chevrolet,Silverado,Crew Cab,"65""",leer_65gmtcc
+2002,Chevrolet,Silverado,Crew Cab,"65""",leer_65gmtcc
+2003,Chevrolet,Silverado,Crew Cab,"65""",leer_65gmtcc
+2004,Chevrolet,Silverado,Crew Cab,"65""",leer_65gmtcc
+2005,Chevrolet,Silverado,Crew Cab,"65""",leer_65gmtcc
+2001,Chevrolet,Silverado,,"79""",leer_8gmthdd
+2002,Chevrolet,Silverado,,"79""",leer_8gmthdd
+2003,Chevrolet,Silverado,,"79""",leer_8gmthdd
+2004,Chevrolet,Silverado,,"79""",leer_8gmthdd
+2005,Chevrolet,Silverado,,"79""",leer_8gmthdd
+2006,Chevrolet,Silverado,,"79""",leer_8gmthdd
+2023,Chevrolet,Colorado,,"52""",leer_52gl23
+2024,Chevrolet,Colorado,,"52""",leer_52gl23
+2025,Chevrolet,Colorado,,"52""",leer_52gl23
+2023,GMC,Canyon,,"52""",leer_52gn23
+2024,GMC,Canyon,,"52""",leer_52gn23
+2025,GMC,Canyon,,"52""",leer_52gn23
+2015,Chevrolet,Colorado,,"52""",leer_52gc15
+2016,Chevrolet,Colorado,,"52""",leer_52gc15
+2017,Chevrolet,Colorado,,"52""",leer_52gc15
+2018,Chevrolet,Colorado,,"52""",leer_52gc15
+2019,Chevrolet,Colorado,,"52""",leer_52gc15
+2020,Chevrolet,Colorado,,"52""",leer_52gc15
+2021,Chevrolet,Colorado,,"52""",leer_52gc15
+2022,Chevrolet,Colorado,,"52""",leer_52gc15
+2015,Chevrolet,Colorado,Crew Cab,"62""",leer_62gccc15
+2016,Chevrolet,Colorado,Crew Cab,"62""",leer_62gccc15
+2017,Chevrolet,Colorado,Crew Cab,"62""",leer_62gccc15
+2018,Chevrolet,Colorado,Crew Cab,"62""",leer_62gccc15
+2019,Chevrolet,Colorado,Crew Cab,"62""",leer_62gccc15
+2020,Chevrolet,Colorado,Crew Cab,"62""",leer_62gccc15
+2021,Chevrolet,Colorado,Crew Cab,"62""",leer_62gccc15
+2022,Chevrolet,Colorado,Crew Cab,"62""",leer_62gccc15
+2015,Chevrolet,Colorado,,"62""",leer_62gc15
+2016,Chevrolet,Colorado,,"62""",leer_62gc15
+2017,Chevrolet,Colorado,,"62""",leer_62gc15
+2018,Chevrolet,Colorado,,"62""",leer_62gc15
+2019,Chevrolet,Colorado,,"62""",leer_62gc15
+2020,Chevrolet,Colorado,,"62""",leer_62gc15
+2021,Chevrolet,Colorado,,"62""",leer_62gc15
+2022,Chevrolet,Colorado,,"62""",leer_62gc15
+2004,Chevrolet,Colorado,,"76""",leer_76gc
+2005,Chevrolet,Colorado,,"76""",leer_76gc
+2006,Chevrolet,Colorado,,"76""",leer_76gc
+2007,Chevrolet,Colorado,,"76""",leer_76gc
+2008,Chevrolet,Colorado,,"76""",leer_76gc
+2009,Chevrolet,Colorado,,"76""",leer_76gc
+2010,Chevrolet,Colorado,,"76""",leer_76gc
+2011,Chevrolet,Colorado,,"76""",leer_76gc
+2012,Chevrolet,Colorado,,"76""",leer_76gc
+2004,Chevrolet,Colorado,,"65""",leer_65gc
+2005,Chevrolet,Colorado,,"65""",leer_65gc
+2006,Chevrolet,Colorado,,"65""",leer_65gc
+2007,Chevrolet,Colorado,,"65""",leer_65gc
+2008,Chevrolet,Colorado,,"65""",leer_65gc
+2009,Chevrolet,Colorado,,"65""",leer_65gc
+2010,Chevrolet,Colorado,,"65""",leer_65gc
+2011,Chevrolet,Colorado,,"65""",leer_65gc
+2012,Chevrolet,Colorado,,"65""",leer_65gc
+2001,Chevrolet,S-10,Crew Cab,"59""",leer_59scc
+2002,Chevrolet,S-10,Crew Cab,"59""",leer_59scc
+2003,Chevrolet,S-10,Crew Cab,"59""",leer_59scc
+1994,Chevrolet,S-10,,"90""",leer_90s
+1995,Chevrolet,S-10,,"90""",leer_90s
+1996,Chevrolet,S-10,,"90""",leer_90s
+1997,Chevrolet,S-10,,"90""",leer_90s
+1998,Chevrolet,S-10,,"90""",leer_90s
+1999,Chevrolet,S-10,,"90""",leer_90s
+2000,Chevrolet,S-10,,"90""",leer_90s
+2001,Chevrolet,S-10,,"90""",leer_90s
+2002,Chevrolet,S-10,,"90""",leer_90s
+2003,Chevrolet,S-10,,"90""",leer_90s
+1994,Chevrolet,S-10,,"75""",leer_75s
+1995,Chevrolet,S-10,,"75""",leer_75s
+1996,Chevrolet,S-10,,"75""",leer_75s
+1997,Chevrolet,S-10,,"75""",leer_75s
+1998,Chevrolet,S-10,,"75""",leer_75s
+1999,Chevrolet,S-10,,"75""",leer_75s
+2000,Chevrolet,S-10,,"75""",leer_75s
+2001,Chevrolet,S-10,,"75""",leer_75s
+2002,Chevrolet,S-10,,"75""",leer_75s
+2003,Chevrolet,S-10,,"75""",leer_75s
+1982,Chevrolet,S-10,,"76""",leer_76s
+1983,Chevrolet,S-10,,"76""",leer_76s
+1984,Chevrolet,S-10,,"76""",leer_76s
+1985,Chevrolet,S-10,,"76""",leer_76s
+1986,Chevrolet,S-10,,"76""",leer_76s
+1987,Chevrolet,S-10,,"76""",leer_76s
+1988,Chevrolet,S-10,,"76""",leer_76s
+1989,Chevrolet,S-10,,"76""",leer_76s
+1990,Chevrolet,S-10,,"76""",leer_76s
+1991,Chevrolet,S-10,,"76""",leer_76s
+1992,Chevrolet,S-10,,"76""",leer_76s
+1993,Chevrolet,S-10,,"76""",leer_76s
+1996,Chevrolet,S-10,,"75""",leer_75ss
+1997,Chevrolet,S-10,,"75""",leer_75ss
+1998,Chevrolet,S-10,,"75""",leer_75ss
+1999,Chevrolet,S-10,,"75""",leer_75ss
+2000,Chevrolet,S-10,,"75""",leer_75ss
+2001,Chevrolet,S-10,,"75""",leer_75ss
+2002,Chevrolet,S-10,,"75""",leer_75ss
+2003,Chevrolet,S-10,,"75""",leer_75ss
+2022,Toyota,Tundra,,"56""",leer_56tt22
+2023,Toyota,Tundra,,"56""",leer_56tt22
+2024,Toyota,Tundra,,"56""",leer_56tt22
+2025,Toyota,Tundra,,"56""",leer_56tt22
+2022,Toyota,Tundra,,"66""",leer_66tt22
+2023,Toyota,Tundra,,"66""",leer_66tt22
+2024,Toyota,Tundra,,"66""",leer_66tt22
+2025,Toyota,Tundra,,"66""",leer_66tt22
+2022,Toyota,Tundra,,"81""",leer_81tt22
+2023,Toyota,Tundra,,"81""",leer_81tt22
+2024,Toyota,Tundra,,"81""",leer_81tt22
+2025,Toyota,Tundra,,"81""",leer_81tt22
+2014,Toyota,Tundra,,"56""",leer_56tt14
+2015,Toyota,Tundra,,"56""",leer_56tt14
+2016,Toyota,Tundra,,"56""",leer_56tt14
+2017,Toyota,Tundra,,"56""",leer_56tt14
+2018,Toyota,Tundra,,"56""",leer_56tt14
+2019,Toyota,Tundra,,"56""",leer_56tt14
+2020,Toyota,Tundra,,"56""",leer_56tt14
+2021,Toyota,Tundra,,"56""",leer_56tt14
+2014,Toyota,Tundra,,"66""",leer_66tt14
+2015,Toyota,Tundra,,"66""",leer_66tt14
+2016,Toyota,Tundra,,"66""",leer_66tt14
+2017,Toyota,Tundra,,"66""",leer_66tt14
+2018,Toyota,Tundra,,"66""",leer_66tt14
+2019,Toyota,Tundra,,"66""",leer_66tt14
+2020,Toyota,Tundra,,"66""",leer_66tt14
+2021,Toyota,Tundra,,"66""",leer_66tt14
+2014,Toyota,Tundra,,"80""",leer_80tt14
+2015,Toyota,Tundra,,"80""",leer_80tt14
+2016,Toyota,Tundra,,"80""",leer_80tt14
+2017,Toyota,Tundra,,"80""",leer_80tt14
+2018,Toyota,Tundra,,"80""",leer_80tt14
+2019,Toyota,Tundra,,"80""",leer_80tt14
+2020,Toyota,Tundra,,"80""",leer_80tt14
+2021,Toyota,Tundra,,"80""",leer_80tt14
+2007,Toyota,Tundra,,"55""",leer_55tt
+2008,Toyota,Tundra,,"55""",leer_55tt
+2009,Toyota,Tundra,,"55""",leer_55tt
+2010,Toyota,Tundra,,"55""",leer_55tt
+2011,Toyota,Tundra,,"55""",leer_55tt
+2012,Toyota,Tundra,,"55""",leer_55tt
+2013,Toyota,Tundra,,"55""",leer_55tt
+2007,Toyota,Tundra,,"65""",leer_65tt
+2008,Toyota,Tundra,,"65""",leer_65tt
+2009,Toyota,Tundra,,"65""",leer_65tt
+2010,Toyota,Tundra,,"65""",leer_65tt
+2011,Toyota,Tundra,,"65""",leer_65tt
+2012,Toyota,Tundra,,"65""",leer_65tt
+2013,Toyota,Tundra,,"65""",leer_65tt
+2007,Toyota,Tundra,Double Cab,"65""",leer_65ttdc
+2008,Toyota,Tundra,Double Cab,"65""",leer_65ttdc
+2009,Toyota,Tundra,Double Cab,"65""",leer_65ttdc
+2010,Toyota,Tundra,Double Cab,"65""",leer_65ttdc
+2011,Toyota,Tundra,Double Cab,"65""",leer_65ttdc
+2012,Toyota,Tundra,Double Cab,"65""",leer_65ttdc
+2013,Toyota,Tundra,Double Cab,"65""",leer_65ttdc
+2007,Toyota,Tundra,,"79""",leer_8tt
+2008,Toyota,Tundra,,"79""",leer_8tt
+2009,Toyota,Tundra,,"79""",leer_8tt
+2010,Toyota,Tundra,,"79""",leer_8tt
+2011,Toyota,Tundra,,"79""",leer_8tt
+2012,Toyota,Tundra,,"79""",leer_8tt
+2013,Toyota,Tundra,,"79""",leer_8tt
+2007,Toyota,Tundra,Double Cab,"79""",leer_8ttdc
+2008,Toyota,Tundra,Double Cab,"79""",leer_8ttdc
+2009,Toyota,Tundra,Double Cab,"79""",leer_8ttdc
+2010,Toyota,Tundra,Double Cab,"79""",leer_8ttdc
+2011,Toyota,Tundra,Double Cab,"79""",leer_8ttdc
+2012,Toyota,Tundra,Double Cab,"79""",leer_8ttdc
+2013,Toyota,Tundra,Double Cab,"79""",leer_8ttdc
+2024,Toyota,Tacoma,,"52""",leer_52tc24
+2025,Toyota,Tacoma,,"52""",leer_52tc24
+2024,Toyota,Tacoma,,"62""",leer_62tc24
+2025,Toyota,Tacoma,,"62""",leer_62tc24
+2016,Toyota,Tacoma,,"62""",leer_62tc16
+2017,Toyota,Tacoma,,"62""",leer_62tc16
+2018,Toyota,Tacoma,,"62""",leer_62tc16
+2019,Toyota,Tacoma,,"62""",leer_62tc16
+2020,Toyota,Tacoma,,"62""",leer_62tc16
+2021,Toyota,Tacoma,,"62""",leer_62tc16
+2022,Toyota,Tacoma,,"62""",leer_62tc16
+2023,Toyota,Tacoma,,"62""",leer_62tc16
+2016,Toyota,Tacoma,Double Cab,"62""",leer_62tcdc16
+2017,Toyota,Tacoma,Double Cab,"62""",leer_62tcdc16
+2018,Toyota,Tacoma,Double Cab,"62""",leer_62tcdc16
+2019,Toyota,Tacoma,Double Cab,"62""",leer_62tcdc16
+2020,Toyota,Tacoma,Double Cab,"62""",leer_62tcdc16
+2021,Toyota,Tacoma,Double Cab,"62""",leer_62tcdc16
+2022,Toyota,Tacoma,Double Cab,"62""",leer_62tcdc16
+2023,Toyota,Tacoma,Double Cab,"62""",leer_62tcdc16
+2016,Toyota,Tacoma,Double Cab,"52""",leer_52tcdc16
+2017,Toyota,Tacoma,Double Cab,"52""",leer_52tcdc16
+2018,Toyota,Tacoma,Double Cab,"52""",leer_52tcdc16
+2019,Toyota,Tacoma,Double Cab,"52""",leer_52tcdc16
+2020,Toyota,Tacoma,Double Cab,"52""",leer_52tcdc16
+2021,Toyota,Tacoma,Double Cab,"52""",leer_52tcdc16
+2022,Toyota,Tacoma,Double Cab,"52""",leer_52tcdc16
+2023,Toyota,Tacoma,Double Cab,"52""",leer_52tcdc16
+2005,Toyota,Tacoma,Double Cab,"64""",leer_64tcdc
+2006,Toyota,Tacoma,Double Cab,"64""",leer_64tcdc
+2007,Toyota,Tacoma,Double Cab,"64""",leer_64tcdc
+2008,Toyota,Tacoma,Double Cab,"64""",leer_64tcdc
+2009,Toyota,Tacoma,Double Cab,"64""",leer_64tcdc
+2010,Toyota,Tacoma,Double Cab,"64""",leer_64tcdc
+2011,Toyota,Tacoma,Double Cab,"64""",leer_64tcdc
+2012,Toyota,Tacoma,Double Cab,"64""",leer_64tcdc
+2013,Toyota,Tacoma,Double Cab,"64""",leer_64tcdc
+2014,Toyota,Tacoma,Double Cab,"64""",leer_64tcdc
+2015,Toyota,Tacoma,Double Cab,"64""",leer_64tcdc
+2005,Toyota,Tacoma,Double Cab,"77""",leer_77tcdc
+2006,Toyota,Tacoma,Double Cab,"77""",leer_77tcdc
+2007,Toyota,Tacoma,Double Cab,"77""",leer_77tcdc
+2008,Toyota,Tacoma,Double Cab,"77""",leer_77tcdc
+2009,Toyota,Tacoma,Double Cab,"77""",leer_77tcdc
+2010,Toyota,Tacoma,Double Cab,"77""",leer_77tcdc
+2011,Toyota,Tacoma,Double Cab,"77""",leer_77tcdc
+2012,Toyota,Tacoma,Double Cab,"77""",leer_77tcdc
+2013,Toyota,Tacoma,Double Cab,"77""",leer_77tcdc
+2014,Toyota,Tacoma,Double Cab,"77""",leer_77tcdc
+2015,Toyota,Tacoma,Double Cab,"77""",leer_77tcdc
+2005,Toyota,Tacoma,,"77""",leer_77tc
+2006,Toyota,Tacoma,,"77""",leer_77tc
+2007,Toyota,Tacoma,,"77""",leer_77tc
+2008,Toyota,Tacoma,,"77""",leer_77tc
+2009,Toyota,Tacoma,,"77""",leer_77tc
+2010,Toyota,Tacoma,,"77""",leer_77tc
+2011,Toyota,Tacoma,,"77""",leer_77tc
+2012,Toyota,Tacoma,,"77""",leer_77tc
+2013,Toyota,Tacoma,,"77""",leer_77tc
+2014,Toyota,Tacoma,,"77""",leer_77tc
+2015,Toyota,Tacoma,,"77""",leer_77tc
+2005,Toyota,Tacoma,,"77""",leer_77tcr
+2006,Toyota,Tacoma,,"77""",leer_77tcr
+2007,Toyota,Tacoma,,"77""",leer_77tcr
+2008,Toyota,Tacoma,,"77""",leer_77tcr
+2009,Toyota,Tacoma,,"77""",leer_77tcr
+2010,Toyota,Tacoma,,"77""",leer_77tcr
+2011,Toyota,Tacoma,,"77""",leer_77tcr
+2012,Toyota,Tacoma,,"77""",leer_77tcr
+2013,Toyota,Tacoma,,"77""",leer_77tcr
+2014,Toyota,Tacoma,,"77""",leer_77tcr
+2015,Toyota,Tacoma,,"77""",leer_77tcr
+2001,Toyota,Tacoma,Crew Cab,"63""",leer_63tcc
+2002,Toyota,Tacoma,Crew Cab,"63""",leer_63tcc
+2003,Toyota,Tacoma,Crew Cab,"63""",leer_63tcc
+2004,Toyota,Tacoma,Crew Cab,"63""",leer_63tcc
+2017,Honda,Ridgeline,,"51""",leer_51hr17
+2018,Honda,Ridgeline,,"51""",leer_51hr17
+2019,Honda,Ridgeline,,"51""",leer_51hr17
+2020,Honda,Ridgeline,,"51""",leer_51hr17
+2021,Honda,Ridgeline,,"51""",leer_51hr17
+2022,Honda,Ridgeline,,"51""",leer_51hr17
+2023,Honda,Ridgeline,,"51""",leer_51hr17
+2024,Honda,Ridgeline,,"51""",leer_51hr17
+2005,Honda,Ridgeline,,"59""",leer_59hr
+2006,Honda,Ridgeline,,"59""",leer_59hr
+2007,Honda,Ridgeline,,"59""",leer_59hr
+2008,Honda,Ridgeline,,"59""",leer_59hr
+2009,Honda,Ridgeline,,"59""",leer_59hr
+2010,Honda,Ridgeline,,"59""",leer_59hr
+2011,Honda,Ridgeline,,"59""",leer_59hr
+2012,Honda,Ridgeline,,"59""",leer_59hr
+2013,Honda,Ridgeline,,"59""",leer_59hr
+2014,Honda,Ridgeline,,"59""",leer_59hr
+2016,Nissan,Titan,,"66""",leer_66nt16
+2017,Nissan,Titan,,"66""",leer_66nt16
+2018,Nissan,Titan,,"66""",leer_66nt16
+2019,Nissan,Titan,,"66""",leer_66nt16
+2020,Nissan,Titan,,"66""",leer_66nt16
+2021,Nissan,Titan,,"66""",leer_66nt16
+2022,Nissan,Titan,,"66""",leer_66nt16
+2023,Nissan,Titan,,"66""",leer_66nt16
+2024,Nissan,Titan,,"66""",leer_66nt16
+2016,Nissan,Titan,,"80""",leer_80nt16
+2017,Nissan,Titan,,"80""",leer_80nt16
+2018,Nissan,Titan,,"80""",leer_80nt16
+2019,Nissan,Titan,,"80""",leer_80nt16
+2020,Nissan,Titan,,"80""",leer_80nt16
+2021,Nissan,Titan,,"80""",leer_80nt16
+2022,Nissan,Titan,,"80""",leer_80nt16
+2023,Nissan,Titan,,"80""",leer_80nt16
+2024,Nissan,Titan,,"80""",leer_80nt16
+2013,Nissan,Titan,,"56""",leer_56nt13
+2014,Nissan,Titan,,"56""",leer_56nt13
+2015,Nissan,Titan,,"56""",leer_56nt13
+2004,Nissan,Titan,,"65""",leer_65nt
+2005,Nissan,Titan,,"65""",leer_65nt
+2006,Nissan,Titan,,"65""",leer_65nt
+2007,Nissan,Titan,,"65""",leer_65nt
+2008,Nissan,Titan,,"65""",leer_65nt
+2009,Nissan,Titan,,"65""",leer_65nt
+2010,Nissan,Titan,,"65""",leer_65nt
+2011,Nissan,Titan,,"65""",leer_65nt
+2012,Nissan,Titan,,"65""",leer_65nt
+2004,Nissan,Titan,,"55""",leer_55nt
+2005,Nissan,Titan,,"55""",leer_55nt
+2006,Nissan,Titan,,"55""",leer_55nt
+2007,Nissan,Titan,,"55""",leer_55nt
+2008,Nissan,Titan,,"55""",leer_55nt
+2009,Nissan,Titan,,"55""",leer_55nt
+2010,Nissan,Titan,,"55""",leer_55nt
+2011,Nissan,Titan,,"55""",leer_55nt
+2012,Nissan,Titan,,"55""",leer_55nt
+2022,Nissan,Frontier,,"60""",leer_60nf22
+2023,Nissan,Frontier,,"60""",leer_60nf22
+2024,Nissan,Frontier,,"60""",leer_60nf22
+2025,Nissan,Frontier,,"60""",leer_60nf22
+2013,Nissan,Frontier,,"50""",leer_50nf13
+2014,Nissan,Frontier,,"50""",leer_50nf13
+2015,Nissan,Frontier,,"50""",leer_50nf13
+2016,Nissan,Frontier,,"50""",leer_50nf13
+2017,Nissan,Frontier,,"50""",leer_50nf13
+2018,Nissan,Frontier,,"50""",leer_50nf13
+2019,Nissan,Frontier,,"50""",leer_50nf13
+2020,Nissan,Frontier,,"50""",leer_50nf13
+2021,Nissan,Frontier,,"50""",leer_50nf13
+2013,Nissan,Frontier,,"61""",leer_61nf13
+2014,Nissan,Frontier,,"61""",leer_61nf13
+2015,Nissan,Frontier,,"61""",leer_61nf13
+2016,Nissan,Frontier,,"61""",leer_61nf13
+2017,Nissan,Frontier,,"61""",leer_61nf13
+2018,Nissan,Frontier,,"61""",leer_61nf13
+2019,Nissan,Frontier,,"61""",leer_61nf13
+2020,Nissan,Frontier,,"61""",leer_61nf13
+2021,Nissan,Frontier,,"61""",leer_61nf13
+2005,Nissan,Frontier,,"62""",leer_62nf
+2006,Nissan,Frontier,,"62""",leer_62nf
+2007,Nissan,Frontier,,"62""",leer_62nf
+2008,Nissan,Frontier,,"62""",leer_62nf
+2009,Nissan,Frontier,,"62""",leer_62nf
+2010,Nissan,Frontier,,"62""",leer_62nf
+2011,Nissan,Frontier,,"62""",leer_62nf
+2012,Nissan,Frontier,,"62""",leer_62nf
+2005,Nissan,Frontier,,"76""",leer_76nf
+2006,Nissan,Frontier,,"76""",leer_76nf
+2007,Nissan,Frontier,,"76""",leer_76nf
+2008,Nissan,Frontier,,"76""",leer_76nf
+2009,Nissan,Frontier,,"76""",leer_76nf
+2010,Nissan,Frontier,,"76""",leer_76nf
+2011,Nissan,Frontier,,"76""",leer_76nf
+2012,Nissan,Frontier,,"76""",leer_76nf
+1996,Isuzu,Hombre,,"75""",leer_75ih
+1997,Isuzu,Hombre,,"75""",leer_75ih
