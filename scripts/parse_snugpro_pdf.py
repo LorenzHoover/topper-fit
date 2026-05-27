@@ -469,7 +469,10 @@ def main():
                         })
 
                     # ── topper_fitments (cols 5 and 6, plus col 7 camera) ──
+                    # XV (col 5) = fiberglass → wraps over rails (W)
+                    # UT PRO (col 6) = aluminum → inside rails (X)
                     series_cols = {5: 'XV', 6: 'UT PRO'}
+                    series_default_wrap = {'XV': 'W', 'UT PRO': 'X'}
                     for col_idx, series in series_cols.items():
                         cell = row[col_idx] if len(row) > col_idx else None
                         avail = parse_availability(cell)
@@ -489,7 +492,7 @@ def main():
                             'fits_platform_id':            platform_id,
                             'confidence':                  avail['confidence'],
                             'fit_type':                    avail['fit_type'],
-                            'wrap_type':                   avail['wrap_type'] or '',
+                            'wrap_type':                   avail['wrap_type'] or series_default_wrap.get(series, ''),
                             'fit_notes':                   avail['fit_notes'],
                             'mounting_clamp_type':         '',
                             'required_modifications':      '',
@@ -519,7 +522,7 @@ def main():
                                 'fits_platform_id':            platform_id,
                                 'confidence':                  avail7['confidence'],
                                 'fit_type':                    avail7['fit_type'],
-                                'wrap_type':                   avail7['wrap_type'] or '',
+                                'wrap_type':                   avail7['wrap_type'] or 'X',
                                 'fit_notes':                   avail7['fit_notes'],
                                 'mounting_clamp_type':         '',
                                 'required_modifications':      '',

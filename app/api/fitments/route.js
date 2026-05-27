@@ -44,7 +44,7 @@ export async function GET(request) {
   if (cab) truckQuery = truckQuery.ilike('cab_style', `%${cab}%`)
   if (bed) truckQuery = truckQuery.eq('bed_length_label', bed)
 
-  const { data: trucks, error: truckError } = await truckQuery
+  const { data: trucks, error: truckError } = await truckQuery.limit(500)
 
   if (truckError) {
     return NextResponse.json({ error: truckError.message }, { status: 500 })

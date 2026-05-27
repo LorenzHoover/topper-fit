@@ -1,16 +1,6 @@
 'use client'
 
-// 'use client' tells Next.js this component runs in the browser.
-// It can use useState (React's reactive variables) and handle events.
-// Without this, the file would be a Server Component — no interactivity.
-
-import { useState } from 'react'
-
-// Makes that have data in the current seed. Kept here for now;
-// we can fetch this dynamically from the DB once we have more brands.
-const KNOWN_MAKES = [
-  'Chevrolet', 'Ford', 'GMC', 'Jeep', 'Nissan', 'Ram', 'Toyota',
-]
+import { useState, useEffect } from 'react'
 
 const CONFIDENCE_LABELS = {
   100: 'OEM confirmed',
@@ -55,16 +45,47 @@ function groupPlatforms(platforms) {
 }
 
 export default function FitmentSearch() {
-  // useState(initialValue) returns [currentValue, setterFunction].
-  // Calling the setter re-renders the component with the new value.
   const [form, setForm]       = useState({ year: '', make: '', model: '', cab: '', bed: '' })
-  const [results, setResults] = useState(null)   // null = no search yet
+  const [results, setResults] = useState(null)
   const [loading, setLoading] = useState(false)
   const [error, setError]     = useState(null)
 
+  // Cascade option lists
+  const [makes,  setMakes]  = useState([])
+  const [models, setModels] = useState([])
+  const [cabs,   setCabs]   = useState([])
+
+  // Load makes once on mount
+  useEffect(() => {
+    fetch('/api/options?type=makes')
+      .then(r => r.json())
+      .then(d => setMakes(d.makes || []))
+  }, [])
+
+  // Reload models when make changes
+  useEffect(() => {
+    if (!form.make) { setModels([]); setForm(f => ({ ...f, model: '', cab: '' })); return }
+    fetch(`/api/options?type=models&make=${encodeURIComponent(form.make)}`)
+      .then(r => r.json())
+      .then(d => setModels(d.models || []))
+  }, [form.make])
+
+  // Reload cabs when year/make/model changes
+  useEffect(() => {
+    if (!form.make || !form.model) { setCabs([]); setForm(f => ({ ...f, cab: '' })); return }
+    const params = new URLSearchParams({ type: 'cabs', make: form.make, model: form.model })
+    if (form.year) params.set('year', form.year)
+    fetch(`/api/options?${params}`)
+      .then(r => r.json())
+      .then(d => setCabs(d.cabs || []))
+  }, [form.year, form.make, form.model])
+
   function handleChange(e) {
-    // Spread existing form values, then overwrite the changed field.
-    setForm({ ...form, [e.target.name]: e.target.value })
+    const { name, value } = e.target
+    // Reset downstream fields when a parent field changes
+    if (name === 'make')  setForm(f => ({ ...f, make: value, model: '', cab: '' }))
+    else if (name === 'model') setForm(f => ({ ...f, model: value, cab: '' }))
+    else setForm(f => ({ ...f, [name]: value }))
   }
 
   async function handleSubmit(e) {
@@ -123,33 +144,24 @@ export default function FitmentSearch() {
           Make *
           <select name="make" value={form.make} onChange={handleChange} required style={inputStyle}>
             <option value="">Select make</option>
-            {KNOWN_MAKES.map(m => <option key={m} value={m}>{m}</option>)}
+            {makes.map(m => <option key={m} value={m}>{m}</option>)}
           </select>
         </label>
 
         <label style={labelStyle}>
           Model *
-          <input
-            name="model"
-            type="text"
-            placeholder="F-150"
-            value={form.model}
-            onChange={handleChange}
-            required
-            style={inputStyle}
-          />
+          <select name="model" value={form.model} onChange={handleChange} required style={{ ...inputStyle, opacity: form.make ? 1 : 0.5 }} disabled={!form.make}>
+            <option value="">{form.make ? 'Select model' : '— pick make first —'}</option>
+            {models.map(m => <option key={m} value={m}>{m}</option>)}
+          </select>
         </label>
 
         <label style={labelStyle}>
           Cab style
-          <input
-            name="cab"
-            type="text"
-            placeholder="Crew Cab"
-            value={form.cab}
-            onChange={handleChange}
-            style={inputStyle}
-          />
+          <select name="cab" value={form.cab} onChange={handleChange} style={{ ...inputStyle, opacity: form.model ? 1 : 0.5 }} disabled={!form.model}>
+            <option value="">{form.model ? 'Any' : '— pick model first —'}</option>
+            {cabs.map(c => <option key={c} value={c}>{c}</option>)}
+          </select>
         </label>
 
         <label style={labelStyle}>
@@ -251,11 +263,46 @@ export default function FitmentSearch() {
               })}
             </tbody>
           </table>
+
+          {/* ── Column legend ── */}
+          <details style={{ marginTop: '1.25rem', fontSize: '0.8rem', color: '#6b7280' }}>
+            <summary style={{ cursor: 'pointer', fontWeight: 500, color: '#374151' }}>
+              What do these columns mean?
+            </summary>
+            <dl style={{ marginTop: '0.75rem', display: 'grid', gridTemplateColumns: 'max-content 1fr', gap: '0.4rem 1rem' }}>
+              <dt style={legendTermStyle}>Brand</dt>
+              <dd style={legendDefStyle}>The manufacturer who makes the topper (Ranch, LEER, ATC, SnugPro, etc.)</dd>
+
+              <dt style={legendTermStyle}>Model Series</dt>
+              <dd style={legendDefStyle}>The specific product line — each brand has several series at different price and feature levels.</dd>
+
+              <dt style={legendTermStyle}>Confidence</dt>
+              <dd style={legendDefStyle}>
+                How certain we are this topper fits your truck.
+                <br />100% = confirmed directly from manufacturer's fitment guide.
+                <br />90% = high confidence from manufacturer data, minor variation possible.
+                <br />80% = fits via a compatible platform (e.g. older shell that also works).
+              </dd>
+
+              <dt style={legendTermStyle}>Fit</dt>
+              <dd style={legendDefStyle}>
+                <strong>Wraps over rails</strong> — the topper sits on top of and wraps over the bed rails. Most fiberglass toppers.<br />
+                <strong>Inside rails</strong> — the topper clamps from inside the bed rails. Common on LEER aluminum and some others.<br />
+                <strong>Universal (≈ Wraps over rails)</strong> — a universal-mount version of a wraps-over-rails topper; functionally equivalent but may have slightly less custom contour.
+              </dd>
+
+              <dt style={legendTermStyle}>Notes</dt>
+              <dd style={legendDefStyle}>Any special installation requirements, such as frame mount hardware or a specific clamp kit.</dd>
+            </dl>
+          </details>
         </div>
       )}
     </div>
   )
 }
+
+const legendTermStyle = { fontWeight: 600, color: '#374151', paddingTop: '0.1rem' }
+const legendDefStyle  = { margin: 0, color: '#6b7280', lineHeight: 1.5 }
 
 // Small style objects kept here to avoid a separate CSS file for now.
 const labelStyle  = { display: 'flex', flexDirection: 'column', gap: '0.25rem', fontSize: '0.875rem', color: '#1f2937', fontWeight: 500 }
